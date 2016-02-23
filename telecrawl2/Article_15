@@ -1,0 +1,22 @@
+<div class="body"><p> <iframe frameborder="0" height="383" id="tweetframe" scrolling="no" src="http://renderer.qmerce.com/interaction/566551f076e6a1db7f70fc2e" width="100%"></iframe></p><p> (To be clear, there remains a very important difference between Isil and Stop the War. Isil kills people and STW does not. This is about rhetoric, not action.) </p><p>
+</p><div class="videoPlayer">
+<script type="text/javascript">
+tmgAds.embedPlayer = tmgAds.embedPlayer || {};
+tmgAds.embedPlayer = {width:620,height:349,size:'620x349',vidSize:'620x415'};
+if(typeof(tmgAds.page.platform) != 'undefined' &amp;&amp; tmgAds.page.platform === "mobile") tmgAds.embedPlayer = {width:300,height:169,size:'300x169',vidSize:'300x235'};
+tmgAds.embedPlayer = {
+  'targetId'     : 'embedPlayerWrapper',
+  'platform'     : tmgAds.page.platform,
+  'width'        : tmgAds.embedPlayer.width,
+  'height'       : tmgAds.embedPlayer.height,
+  'size'         : tmgAds.embedPlayer.size,
+  'autoplay'     : 'false',
+  'vidEmbed'     : 'lyNnhqdToxC_hofmdUmClMuKGaFKFRvF',
+  'adTag'        : tmgAdsBuildAdTag("vid",tmgAds.embedPlayer.vidSize,"pfadx",";vidsrc=tmg;vt=embed;dcmt=text/xml",3)
+}
+tmgAds.embedPlayer.remotesrc = 'http://s.telegraph.co.uk/tmgads/tools/ooyala/iframeplayer.html?platform='+tmgAds.page.platform+'&amp;width='+tmgAds.embedPlayer.width+'&amp;height='+tmgAds.embedPlayer.height+'&amp;size='+tmgAds.embedPlayer.size+'&amp;vidEmbed='+tmgAds.embedPlayer.vidEmbed+'&amp;adTag='+encodeURIComponent(tmgAds.embedPlayer.adTag);
+tmgAds.embedPlayer.tmgEmbedPlayer = '&lt;iframe src="'+tmgAds.embedPlayer.remotesrc+'&amp;adobeDTM=live" width="'+tmgAds.embedPlayer.width+'" height="'+tmgAds.embedPlayer.height+'" marginheight="0" marginwidth="0" scrolling="no" frameborder="0"&gt;&lt;/iframe&gt;';
+document.write(tmgAds.embedPlayer.tmgEmbedPlayer);
+</script><iframe frameborder="0" height="169" marginheight="0" marginwidth="0" scrolling="no" src="http://s.telegraph.co.uk/tmgads/tools/ooyala/iframeplayer.html?platform=mobile&amp;width=300&amp;height=169&amp;size=300x169&amp;vidEmbed=lyNnhqdToxC_hofmdUmClMuKGaFKFRvF&amp;adTag=http%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fenv%3Dvp%26sz%3D300x235%26gdfp_req%3D1%26impl%3Ds%26unviewed_position_start%3D1%26output%3Dxml_vast3%26iu%3D%2F6582%2Ftmg.telegraph.news%2Fnews.worldnews.islamicstate%26url%3Dhttp%253A%252F%252Fwww.telegraph.co.uk%252Fnews%252Fworldnews%252Fislamic-state%252F12036681%252FWho-said-it-Stop-the-War-Coalition-or-Isil.html%26description_url%3Dhttp%253A%252F%252Fwww.telegraph.co.uk%252Fnews%252Fworldnews%252Fislamic-state%252F12036681%252FWho-said-it-Stop-the-War-Coalition-or-Isil.html%26hl%3Den%26cust_params%3D%2526ver%253D3.3.4%2526sc%253Dnews-worldnews-islamicstate%2526pt%253Dstory%2526lvl%253D3%2526biw%253D610%2526bih%253D379%2526lang%253Den-us%2526fv%253D0%2526dnt%253D0%2526protocol%253Dhttp%2526rd%253Dwww.telegraph.co.uk%2526platform%253Dmobile%2526cms%253Descenic%2526kw%253Dnull%2526make%253Dnull%2526model%253Dnull%2526geo%253Din%2526ec%253Dnull%2526mv%253Dnull%2526ms%253Dnull%2526vidsrc%253Dtmg%2526pg%253D12036681%2526gamp%253D0%2526refresh%253D0%2526gs%253Dsoc_politics%252Cessence_negative%252Cvalue_added_travel_negative_keyword%2526vp%253Ds%2526adsafe%253Dnone%2526tmgmvc%253D1%2526tmgmu%253Dfalse%2526tmgsub%253Dnone%2526tmgpid%253Dnone%2526wtid%253Dnone%2526amcv%253Dnone%2526optmz%253D%2526audsci%253D%2526kxuid%253Dnull%2526kxsid%253D%2526refurl%253Dnone%2526vt%253Dembed%2526dcmt%253Dtext%252Fxml%2526vidslot%253Dtmgads_legacy_vid_2_3%2526at%253Dvid%2526pos%253D3%26ciu_szs%3D%26scp%3D%26scor%3D3%26correlator%3D1456231047418&amp;adobeDTM=live" width="300"></iframe>
+</div><p></p></div>
+
