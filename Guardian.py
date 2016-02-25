@@ -34,8 +34,6 @@ def time_limit(seconds):
         signal.alarm(0)
 def timeout():
     thread.interrupt_main()
-
-
 def writetofile(link,fcount):
 	browser.get(link)
 	dict={}
@@ -45,10 +43,9 @@ def writetofile(link,fcount):
 	time.sleep(1)
 	x=browser.page_source
 	soup=BeautifulSoup(x)
-	story=soup.find('div',{'class','ins_storybody'}).text
-	framesrc= browser.find_element_by_id("ndtvSocialCommentForm").get_attribute("src")
-	browser.get(framesrc)
-	browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+	story=soup.find('div',{'class','content__article-body'}).text
+	showmore= browser.find_element_by_class_name("discussion__show-button")
+	showmore.click()
 	x=browser.page_source
 	soup=BeautifulSoup(x)
 	time.sleep(5)
@@ -79,11 +76,11 @@ def writetofile(link,fcount):
 	#sp1=BeautifulSoup(comm,'xml')
 	#print "here"
 	#print comments
-	f=open("/home/daivik/IR/NDTV/India-news/Comments_"+str(fcount),"w")
+	f=open("Comments_"+str(fcount),"w")
 	for comment in comments:
 		print>>f,(comment.encode('utf8')+'\n')
 	f.close()
-	f=open("/home/daivik/IR/NDTV/India-news/Article_"+str(fcount),"w")
+	f=open("Article_"+str(fcount),"w")
 	print>>f,(story.encode('utf8')+'\n')
 	#for part in story:
 	#	print>>f,(part.string.encode('utf8')+'\n')
@@ -115,7 +112,7 @@ if __name__=='__main__':
 				strin=link.get('href')
 				if(strin and not strin in dict):
 					dict[strin]=1
-					if(strin.startswith(baseurl) and (('http://www.ndtv.com/india-news/' in strin))):
+					if(strin.startswith(baseurl) and (('http://www.theguardian.com/politics/' in strin) or ('http://www.theguardian.com/world/' in strin) or ('https://www.theguardian.com/science/' in strin))):
 						urls.append(strin)
 						finished.append(strin)
 						count=count+1

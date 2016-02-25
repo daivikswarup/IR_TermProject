@@ -78,11 +78,11 @@ def writetofile(link,fcount):
 	#sp1=BeautifulSoup(comm,'xml')
 	#print "here"
 	#print comments
-	f=open("Comments_"+str(fcount),"w")
+	f=open("/home/daivik/IR/Telegraph/Finance/Comments_"+str(fcount),"w")
 	for comment in comments:
 		print>>f,(comment.encode('utf8')+'\n')
 	f.close()
-	f=open("Article_"+str(fcount),"w")
+	f=open("/home/daivik/IR/Telegraph/Finance/Article_"+str(fcount),"w")
 	print>>f,(story.encode('utf8')+'\n')
 	#for part in story:
 	#	print>>f,(part.string.encode('utf8')+'\n')
@@ -114,7 +114,7 @@ if __name__=='__main__':
 				strin=link.get('href')
 				if(strin and not strin in dict):
 					dict[strin]=1
-					if(strin.startswith(baseurl) and strin.endswith('.html') and (('http://www.telegraph.co.uk/news/' in strin) or ('http://www.telegraph.co.uk/finance/' in strin) or ('http://www.telegraph.co.uk/finance/' in strin))):
+					if(strin.startswith(baseurl) and strin.endswith('.html') and (('http://www.telegraph.co.uk/finance/' in strin))):
 						urls.append(strin)
 						finished.append(strin)
 						count=count+1

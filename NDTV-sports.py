@@ -79,11 +79,11 @@ def writetofile(link,fcount):
 	#sp1=BeautifulSoup(comm,'xml')
 	#print "here"
 	#print comments
-	f=open("/home/daivik/IR/NDTV/India-news/Comments_"+str(fcount),"w")
+	f=open("/home/daivik/IR/NDTV/Sports/Comments_"+str(fcount),"w")
 	for comment in comments:
 		print>>f,(comment.encode('utf8')+'\n')
 	f.close()
-	f=open("/home/daivik/IR/NDTV/India-news/Article_"+str(fcount),"w")
+	f=open("/home/daivik/IR/NDTV/Sports/Article_"+str(fcount),"w")
 	print>>f,(story.encode('utf8')+'\n')
 	#for part in story:
 	#	print>>f,(part.string.encode('utf8')+'\n')
@@ -94,8 +94,8 @@ def writetofile(link,fcount):
 # now Firefox will run in a virtual display. 
 # you will not see the browser.
 if __name__=='__main__':
-	display = Display(visible=0, size=(800, 600))
-	display.start()
+	#display = Display(visible=0, size=(800, 600))
+	#display.start()
 	global browser
 	browser = webdriver.Firefox()
 	baseurl="http://www.ndtv.com/"
@@ -115,7 +115,7 @@ if __name__=='__main__':
 				strin=link.get('href')
 				if(strin and not strin in dict):
 					dict[strin]=1
-					if(strin.startswith(baseurl) and (('http://www.ndtv.com/india-news/' in strin))):
+					if(strin.startswith("http://sports.ndtv.com/")):
 						urls.append(strin)
 						finished.append(strin)
 						count=count+1
@@ -142,4 +142,4 @@ if __name__=='__main__':
 				pass
 			browser = webdriver.Firefox()
 	browser.quit()
-	display.stop()
+	#display.stop()
