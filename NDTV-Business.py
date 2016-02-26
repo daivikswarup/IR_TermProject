@@ -20,6 +20,9 @@ import stopit
 
 
 
+urls=deque()
+cnt=0
+dict={}
 class TimeoutException(Exception): pass
 
 @contextmanager
@@ -36,110 +39,156 @@ def timeout():
     thread.interrupt_main()
 
 
-def writetofile(link,fcount):
-	browser.get(link)
-	dict={}
-	count=0
+def writetofile():
+	global browser
+	global cnt
+	if(len(urls)==0):
+		return
+	url=urls.pop()
+	try:
+		page = urllib.urlopen(url)
+		soup = BeautifulSoup(page.read())
+		for link in soup.find_all('a'):
+			strin=link.get('href')
+			if(strin and not strin in dict):
+				dict[strin]=1
+				if(strin.startswith(baseurl) and (('http://profit.ndtv.com/news/' in strin))):
+					urls.append(strin)
+	except:
+		print "error"
+	
 	
 	#print "x"
-	time.sleep(1)
-	x=browser.page_source
-	soup=BeautifulSoup(x)
-	story=soup.find('div',{'class','ins_storybody'}).text
-	framesrc= browser.find_element_by_id("ndtvSocialCommentForm").get_attribute("src")
-	browser.get(framesrc)
-	browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-	x=browser.page_source
-	soup=BeautifulSoup(x)
-	time.sleep(5)
-	while(count<10):
-		count=count+1
-		try:
-			more=browser.find_element_by_class_name('morecomment_bot')
-			more.click()
-			time.sleep(2)
-		except:
-			print "error2"
-			break
-		finally:
-			pass
+	try:
+		with time_limit(300):
+			browser.set_page_load_timeout(60)
+			print url
+			browser.get(url)
+			count=0
+			time.sleep(1)
+			x=browser.page_source
+			soup=BeautifulSoup(x)
+			story=soup.find('div',{'class','pdl200'}).text
+			framesrc= browser.find_element_by_id("ndtvSocialCommentForm").get_attribute("src")
+			browser.set_page_load_timeout(60)
+			browser.get(framesrc)
+			browser.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+			#x=browser.page_source
+			#soup=BeautifulSoup(x)
+			time.sleep(5)
+			while(count<10):
+				count=count+1
+				try:
+					more=browser.find_element_by_class_name('morecomment_bot')
+					more.click()
+					time.sleep(2)
+				except:
+					print "error2"
+					break
+				finally:
+					pass
 
-	x=browser.page_source
-	soup=BeautifulSoup(x)
-	x=soup.findAll('div',{'class','com_user_text'})
+			x=browser.page_source
+			soup=BeautifulSoup(x)
+			commentlist=soup.find('div',{'class','newcomment_list'})
+			ul=commentlist.contents[0]
+			#print ul
+			#x=soup.findAll('div',{'class','com_user_text'})
 	#print len(x)
 	#print story
 	#print x
-	comments=[]
+			comments=[]
 	#print "y"
-	for comm in x:
+			#comlist=ul.children
+			for comm in ul.children:
 		#print comm
 		#print comm
-		comments.append(comm)
+				#print comm
+				#auth=comm.li.div.div.div.contents[1].string
+				#print "here"
+				try:
+					auth=comm.contents[0].contents[0].contents[0].contents[1]
+					comment=comm.find('div',{'class','com_user_text'})
+					#print {auth,comment}
+					comments.append((auth,comment))
+				except:
+					pass
 	#sp1=BeautifulSoup(comm,'xml')
 	#print "here"
 	#print comments
-	f=open("/home/daivik/IR/NDTV/Business/Comments_"+str(fcount),"w")
-	for comment in comments:
-		print>>f,(comment.encode('utf8')+'\n')
-	f.close()
-	f=open("/home/daivik/IR/NDTV/Business/Article_"+str(fcount),"w")
-	print>>f,(story.encode('utf8')+'\n')
+			if(len(comments)>0):
+				f=open("/home/daivik/IR/NDTV/Business/Comments_"+str(cnt),"w")
+				for comment in comments:
+					try:
+						print>>f,(comment[0].encode('utf8')+'\n')
+						print>>f,(comment[1].encode('utf8')+'\n')
+						#print>>f,("_____________")
+					except:
+						pass
+				f.close()
+				f=open("/home/daivik/IR/NDTV/Business/Article_"+str(cnt),"w")
+				print>>f,(story.encode('utf8')+'\n')
+				cnt=cnt+1;
 	#for part in story:
 	#	print>>f,(part.string.encode('utf8')+'\n')
-	f.close()
+				f.close()
+	except Exception as e:
+		print "Timed out!"
+		print e.message
+		#try:
+		#	browser.quit()
+		#except:
+		#	pass
+		#	browser = webdriver.Firefox()	
+	writetofile()
 	return
 
 
 # now Firefox will run in a virtual display. 
 # you will not see the browser.
 if __name__=='__main__':
-	display = Display(visible=0, size=(800, 600))
-	display.start()
+	#display = Display(visible=0, size=(800, 600))
+	#display.start()
 	global browser
 	browser = webdriver.Firefox()
-	baseurl="http://profit.ndtv.com/"
-	urls=deque()
-	finished=[]
+	baseurl="http://profit.ndtv.com/news"
+	#finished=[]
 	urls.append(baseurl)
-	maxcount=50
-	count=0
-	dict={}
-	while((len(urls)>0)and(count<=maxcount)):
-		url=urls.pop()
-		try:
-			page = urllib.urlopen(url)
-			soup = BeautifulSoup(page.read())
-			print count
-			for link in soup.find_all('a'):
-				strin=link.get('href')
-				if(strin and not strin in dict):
-					dict[strin]=1
-					if(strin.startswith("http://profit.ndtv.com/")):
-						urls.append(strin)
-						finished.append(strin)
-						count=count+1
-						if(count==50):
-							break
-		except:
-			print "error"
+	writetofile()
+	#maxcount=50
+	#count=0
+	#while((len(urls)>0)and(count<=maxcount)):
+	#	url=urls.pop()
+	#	try:
+	#		page = urllib.urlopen(url)
+	#		soup = BeautifulSoup(page.read())
+	#		print count
+	#		for link in soup.find_all('a'):
+	#			strin=link.get('href')
+	#			if(strin and not strin in dict):
+	#				dict[strin]=1
+	#				if(strin.startswith(baseurl) and (('http://www.ndtv.com/india-news/' in strin))):
+	#					urls.append(strin)
+	#					finished.append(strin)
+	#	except:
+	#		print "error"
 #print finished
-	cnt=0
+	#cnt=0
 	#print finished
 	#finished=["http://www.telegraph.co.uk/finance/economics/12138466/when-is-the-next-financial-crash-coming-oil-prices-markets-recession.html#disqus_thread"]
-	for url in finished:
-		cnt=cnt+1
-		print cnt
-		print url
-		try:
-			with time_limit(60):
-				writetofile(url,cnt)
-		except:
-			print "Timed out!"
-			try:
-				browser.quit()
-			except:
-				pass
-			browser = webdriver.Firefox()
+	#for url in finished:
+	#	cnt=cnt+1
+	#	print cnt
+	#	print url
+	#	try:
+	#		with time_limit(60):
+	#			writetofile(url,cnt)
+	#	except:
+	#		print "Timed out!"
+	#		try:
+	#			browser.quit()
+	#		except:
+	#			pass
+	#		browser = webdriver.Firefox()
 	browser.quit()
-	display.stop()
+	#display.stop()

@@ -1,0 +1,132 @@
+<div class="body"><p>
+</p><div class="videoPlayer">
+<script type="text/javascript">
+    tmgAds.embedPlayer = tmgAds.embedPlayer || {};
+    tmgAds.embedPlayer = {
+        width: 620,
+        height: 349,
+        size: '620x349',
+        vidSize: '620x415'
+    };
+    if (typeof(tmgAds.page.platform) != 'undefined' &amp;&amp; tmgAds.page.platform === "mobile") tmgAds.embedPlayer = {
+        width: 300,
+        height: 169,
+        size: '300x169',
+        vidSize: '300x235'
+    };
+    tmgAds.embedPlayer = {
+        'targetId': 'embedPlayerWrapper',
+        'platform': tmgAds.page.platform,
+        'width': tmgAds.embedPlayer.width,
+        'height': tmgAds.embedPlayer.height,
+        'size': tmgAds.embedPlayer.size,
+        'autoplay': 'false',
+        'vidEmbed': 'YwMmM1MTE6V1WuekI06oOn7oQjfqQEFe',
+        'adTag': tmgAdsBuildAdTag("vid", tmgAds.embedPlayer.vidSize, "pfadx", ";vidsrc=;vt=embed;dcmt=text/xml", 3)
+    }
+    tmgAds.embedPlayer.remotesrc = 'http://s.telegraph.co.uk/tmgads/tools/ooyala/iframeplayer.html?platform=' + tmgAds.page.platform + '&amp;width=' + tmgAds.embedPlayer.width + '&amp;height=' + tmgAds.embedPlayer.height + '&amp;size=' + tmgAds.embedPlayer.size + '&amp;vidEmbed=' + tmgAds.embedPlayer.vidEmbed + '&amp;adTag=' + encodeURIComponent(tmgAds.embedPlayer.adTag);
+    tmgAds.embedPlayer.tmgEmbedPlayer = '&lt;iframe src="' + tmgAds.embedPlayer.remotesrc + '" width="' + tmgAds.embedPlayer.width + '" height="' + tmgAds.embedPlayer.height + '" marginheight="0" marginwidth="0" scrolling="no" frameborder="0"&gt;&lt;/iframe&gt;';
+    document.write(tmgAds.embedPlayer.tmgEmbedPlayer);
+    </script><iframe frameborder="0" height="349" marginheight="0" marginwidth="0" scrolling="no" src="http://s.telegraph.co.uk/tmgads/tools/ooyala/iframeplayer.html?platform=desktop&amp;width=620&amp;height=349&amp;size=620x349&amp;vidEmbed=YwMmM1MTE6V1WuekI06oOn7oQjfqQEFe&amp;adTag=http%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fenv%3Dvp%26sz%3D620x415%26gdfp_req%3D1%26impl%3Ds%26unviewed_position_start%3D1%26output%3Dxml_vast3%26iu%3D%2F6582%2Ftmg.telegraph.news%2Fnews.newstopics.eureferendum%26url%3Dhttp%253A%252F%252Fwww.telegraph.co.uk%252Fnews%252Fnewstopics%252Feureferendum%252F12173908%252FIf-the-arch-Europhile-Lord-Owen-wants-out-of-the-EU-it-should-make-us-all-stop-and-think.html%26description_url%3Dhttp%253A%252F%252Fwww.telegraph.co.uk%252Fnews%252Fnewstopics%252Feureferendum%252F12173908%252FIf-the-arch-Europhile-Lord-Owen-wants-out-of-the-EU-it-should-make-us-all-stop-and-think.html%26hl%3Den%26cust_params%3D%2526ver%253D3.3.4%2526sc%253Dnews-newstopics-eureferendum%2526pt%253Dstory%2526lvl%253D3%2526biw%253D1024%2526bih%253D459%2526lang%253Den-us%2526fv%253D0%2526dnt%253D0%2526protocol%253Dhttp%2526rd%253Dwww.telegraph.co.uk%2526platform%253Ddesktop%2526cms%253Descenic%2526kw%253Dnull%2526make%253Dnull%2526model%253Dnull%2526geo%253Din%2526ec%253Dnull%2526mv%253Dnull%2526ms%253D1%2526vidsrc%253D%2526pg%253D12173908%2526gamp%253D0%2526refresh%253D0%2526gs%253Dsoc_politics%252Cauto_diesel_emissions%252Cessence_negative%2526vp%253Dl%2526adsafe%253Dnone%2526tmgmvc%253D1%2526tmgmu%253Dfalse%2526tmgsub%253D1%2526tmgpid%253Dnone%2526wtid%253Dnone%2526amcv%253Dundefined%2526optmz%253D%2526audsci%253D%2526kxuid%253Dnull%2526kxsid%253D%2526refurl%253Dnone%2526vt%253Dembed%2526dcmt%253Dtext%252Fxml%2526vidslot%253Dtmgads_legacy_vid_2_3%2526at%253Dvid%2526pos%253D3%26ciu_szs%3D%26scp%3D%26scor%3D3%26correlator%3D1456492204747" width="620"></iframe>
+</div><p></p><p> Not for the first time, Mr Cameron is picking up an old Tony Blair idea: that the EU should be a “superpower, not a superstate”. A fine theory, but does anyone remember the Balkans? When fighting broke out in 1991, the then chair of the EU’s Foreign Affairs Council declared that this was “the hour of Europe, not the hour of the Americans – if one problem can be solved by the Europeans, it is the Yugoslav problem.” This suited the Americans: by all means, let the uniting Europeans pacify their own backyard without the help of the US Air Force. But the EU failed and Yugoslavia fell into an abyss of ethnic cleansing at the cost of 150,000 lives. </p><p> Since then, the EU has doubled its membership. But Lord Owen points to a more recent example: Ukraine. In a lecture last autumn, he noted how the EU blundered its way into a confrontation with Putin by pledging “military-technological cooperation” with Ukraine – suggesting that (as Moscow feared) the EU wanted to become the new Nato. Yet no one in the EU seems to have realised how sensitive the Kremlin was to all this, and how ready it was to act. Ukraine, like Bosnia, was intended to demonstrate the “hour of Europe”. Like Bosnia, it only served to demonstrate that the EU cannot be trusted with security. </p><p> All of this is, for Mr Cameron, a tough argument: that far from making us safer, the EU has become a source of instability because it keeps opting for tasks that its threadbare militaries and hopeless diplomats are unable to undertake. A reminder of EU hopelessness came in the Libyan campaign, where member states who were involved in the bombing started to run out of munitions just 11 weeks into the mission. So leaving the EU in charge of security is like asking a choirboy to act as a bouncer in a Swansea nightclub. </p><p>
+</p><div class="videoPlayer">
+<script type="text/javascript">
+    tmgAds.embedPlayer = tmgAds.embedPlayer || {};
+    tmgAds.embedPlayer = {
+        width: 620,
+        height: 349,
+        size: '620x349',
+        vidSize: '620x415'
+    };
+    if (typeof(tmgAds.page.platform) != 'undefined' &amp;&amp; tmgAds.page.platform === "mobile") tmgAds.embedPlayer = {
+        width: 300,
+        height: 169,
+        size: '300x169',
+        vidSize: '300x235'
+    };
+    tmgAds.embedPlayer = {
+        'targetId': 'embedPlayerWrapper',
+        'platform': tmgAds.page.platform,
+        'width': tmgAds.embedPlayer.width,
+        'height': tmgAds.embedPlayer.height,
+        'size': tmgAds.embedPlayer.size,
+        'autoplay': 'false',
+        'vidEmbed': 'MzaWw5MTE607BCUhwE3ASoZt5lJmMFtp',
+        'adTag': tmgAdsBuildAdTag("vid", tmgAds.embedPlayer.vidSize, "pfadx", ";vidsrc=;vt=embed;dcmt=text/xml", 3)
+    }
+    tmgAds.embedPlayer.remotesrc = 'http://s.telegraph.co.uk/tmgads/tools/ooyala/iframeplayer.html?platform=' + tmgAds.page.platform + '&amp;width=' + tmgAds.embedPlayer.width + '&amp;height=' + tmgAds.embedPlayer.height + '&amp;size=' + tmgAds.embedPlayer.size + '&amp;vidEmbed=' + tmgAds.embedPlayer.vidEmbed + '&amp;adTag=' + encodeURIComponent(tmgAds.embedPlayer.adTag);
+    tmgAds.embedPlayer.tmgEmbedPlayer = '&lt;iframe src="' + tmgAds.embedPlayer.remotesrc + '" width="' + tmgAds.embedPlayer.width + '" height="' + tmgAds.embedPlayer.height + '" marginheight="0" marginwidth="0" scrolling="no" frameborder="0"&gt;&lt;/iframe&gt;';
+    document.write(tmgAds.embedPlayer.tmgEmbedPlayer);
+    </script><iframe frameborder="0" height="349" marginheight="0" marginwidth="0" scrolling="no" src="http://s.telegraph.co.uk/tmgads/tools/ooyala/iframeplayer.html?platform=desktop&amp;width=620&amp;height=349&amp;size=620x349&amp;vidEmbed=MzaWw5MTE607BCUhwE3ASoZt5lJmMFtp&amp;adTag=http%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fenv%3Dvp%26sz%3D620x415%26gdfp_req%3D1%26impl%3Ds%26unviewed_position_start%3D1%26output%3Dxml_vast3%26iu%3D%2F6582%2Ftmg.telegraph.news%2Fnews.newstopics.eureferendum%26url%3Dhttp%253A%252F%252Fwww.telegraph.co.uk%252Fnews%252Fnewstopics%252Feureferendum%252F12173908%252FIf-the-arch-Europhile-Lord-Owen-wants-out-of-the-EU-it-should-make-us-all-stop-and-think.html%26description_url%3Dhttp%253A%252F%252Fwww.telegraph.co.uk%252Fnews%252Fnewstopics%252Feureferendum%252F12173908%252FIf-the-arch-Europhile-Lord-Owen-wants-out-of-the-EU-it-should-make-us-all-stop-and-think.html%26hl%3Den%26cust_params%3D%2526ver%253D3.3.4%2526sc%253Dnews-newstopics-eureferendum%2526pt%253Dstory%2526lvl%253D3%2526biw%253D1024%2526bih%253D459%2526lang%253Den-us%2526fv%253D0%2526dnt%253D0%2526protocol%253Dhttp%2526rd%253Dwww.telegraph.co.uk%2526platform%253Ddesktop%2526cms%253Descenic%2526kw%253Dnull%2526make%253Dnull%2526model%253Dnull%2526geo%253Din%2526ec%253Dnull%2526mv%253Dnull%2526ms%253D1%2526vidsrc%253D%2526pg%253D12173908%2526gamp%253D0%2526refresh%253D0%2526gs%253Dsoc_politics%252Cauto_diesel_emissions%252Cessence_negative%2526vp%253Dl%2526adsafe%253Dnone%2526tmgmvc%253D1%2526tmgmu%253Dfalse%2526tmgsub%253D1%2526tmgpid%253Dnone%2526wtid%253Dnone%2526amcv%253Dundefined%2526optmz%253D%2526audsci%253D%2526kxuid%253Dnull%2526kxsid%253D%2526refurl%253Dnone%2526vt%253Dembed%2526dcmt%253Dtext%252Fxml%2526vidslot%253Dtmgads_legacy_vid_3_4%2526at%253Dvid%2526pos%253D4%26ciu_szs%3D%26scp%3D%26scor%3D4%26correlator%3D1456492204747" width="620"></iframe>
+</div><p></p><p> An internationalist must recognise that Nato, and not the EU, is the guarantor of European security, a fact underlined by every conflict in the post-war years. Even today, with the European refugee crisis, Nato is being asked to intervene in the refugee crisis and confront human traffickers. This makes sense because Turkey, from where most boats depart, is a member of Nato, so the operation is now in the hands of a general from the US Air Force. An EU that was unable to confront Slobodan Milošević by itself is now unable to confront gangs of people-smugglers without American help. </p><p> As a trading bloc, the EU has its merits – but it is no guarantor of our security. In arguing to the contrary, Mr Cameron risks alienating voters by insulting their intelligence. Since when was Putin terrified of EU trade embargoes? What makes him think that Britain, after an “Out” vote, could not join in such embargoes? And anyway, the EU is compromised by its dependence upon Russia for a third of its oil and gas imports; the EU’s foreign spokesman, Federica Mogherini, is herself an apologist for Putin. If anything, the EU’s defence pretensions suit Putin: it risks annoying the Americans with its parochialism and reducing Nato to a “relic”, precisely as Bill Clinton’s defence secretary warned in 2000. </p><p>
+</p><aside class="tmg-particle pull-quote" data-data-uri="http://particle-api.eip.telegraph.co.uk/particles/0.1/00194b3b-0976-47b9-9167-ffb676ca88a4" data-embeddable="0" data-html-uri="http://cf-particle-html.eip.telegraph.co.uk/00194b3b-0976-47b9-9167-ffb676ca88a4.html" data-widget-size="responsive" data-widget-static="true" id="00194b3b-0976-47b9-9167-ffb676ca88a4">
+<section data-widget-auto-resize="1" data-widget-notes="" data-widget-section="" data-widget-static="1" data-widget-title="Fraser Nelson 1" data-widget-type="pull-quote" data-widget-version="0.0.2" id="particle">
+<style>        .tg-pullquote__global__group {
+            zoom: 1;
+        }
+        .tg-pullquote__global__group:before,
+        .tg-pullquote__global__group:after {
+            content: "";
+            display: table;
+        }
+        .tg-pullquote__global__group:after {
+            clear: both;
+        }
+        .tg-pullquote__inline {
+            float: left;
+        }
+        .tmg-particle.pull-quote{
+            margin: 0 20px 10px 0px;
+            width: 260px;
+            float: left;
+        }
+        @media (max-width: 495px) {
+            .tmg-particle.pull-quote{
+                float: none;
+                margin-left: 4.687%;
+                margin-right: 4.687%;
+                width: 90.626%;
+            }
+        }
+        .tg-pullquote_container{
+            font-size: 18px;
+            line-height: 23px;
+            font-family: georgia;
+        }
+        .tg-pullquote__title {
+            font-family: arial;
+            font-weight: bold;
+            font-size: 16px;
+            border-top: 1px dotted #000000;
+        }
+        .tg-pullquote__quote {
+            color: #007A8F;
+            font-style: italic;
+            margin-top: 5px;
+            margin-bottom: 5px;
+        }
+        .tg-pullquote__attribution {
+            color: #787878;
+            margin-bottom: 5px;
+        }
+        .tg-pullquote__source {}.tg-pullquote__source__link {
+            color: #234B7B;
+            outline: 0;
+            text-decoration: none;
+        }
+        .tg-pullquote__source__link:hover {
+            border-bottom: 1px dotted #122842;
+            color: #122842;
+        }
+    </style>
+<script>
+</script>
+<section class="tg-pullquote_container" id="pull-quote">
+<div class="tg-pullquote__quote">
+      As a trading bloc, the EU has its merits – but it is no guarantor of our security. 
+    </div>
+</section>
+</section>
+</aside><script src="http://cf.eip.telegraph.co.uk/particle-embed/js/particle.js"></script><p></p><p> It is hard to be a Europhile, to love Europe, and to be relaxed about the way in which the EU’s vanity and its bungling is threatening the security of the continent. Like many Europhiles, Lord Owen had wanted radical reform of the EU and has spent the past decade arguing for it. This is what Mr Cameron set out to achieve, with pitiful results. It poses an awkward question to Europhiles (myself included): why did the Prime Minister fail? Because he did not try hard enough in his 30-hour sessions in Brussels? Or because the EU, with 28 bickering and veto-wielding members, is structurally incapable of serious reform? And if reform is a lost cause, then are we safer In – or Out? </p><p> Lord Owen has made up his mind. The Prime Minister had best come up with some more convincing arguments if he wants to stop other Europhiles from drawing the same conclusion. </p><p>
+</p><iframe allowtransparency="true" frameborder="0" id="18ab9b18-dc76-457e-93aa-16aec6787f80" scrolling="no" src="http://cf-particle-html.eip.telegraph.co.uk/18ab9b18-dc76-457e-93aa-16aec6787f80.html" style="width: 100%; border: medium none; position: static; visibility: visible; height: 2954px; padding: 0px; margin: 10px 0px; transition: height 0.3s linear 0s; display: block;"></iframe><script src="http://cf.eip.telegraph.co.uk/particle-embed/js/particle.js"></script><p></p></div>
+
