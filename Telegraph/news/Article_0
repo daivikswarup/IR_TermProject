@@ -1,66 +1,7 @@
-<div class="body"><p>
-</p><div class="videoPlayer">
-<script type="text/javascript">
-    tmgAds.embedPlayer = tmgAds.embedPlayer || {};
-    tmgAds.embedPlayer = {
-        width: 620,
-        height: 349,
-        size: '620x349',
-        vidSize: '620x415'
-    };
-    if (typeof(tmgAds.page.platform) != 'undefined' &amp;&amp; tmgAds.page.platform === "mobile") tmgAds.embedPlayer = {
-        width: 300,
-        height: 169,
-        size: '300x169',
-        vidSize: '300x235'
-    };
-    tmgAds.embedPlayer = {
-        'targetId': 'embedPlayerWrapper',
-        'platform': tmgAds.page.platform,
-        'width': tmgAds.embedPlayer.width,
-        'height': tmgAds.embedPlayer.height,
-        'size': tmgAds.embedPlayer.size,
-        'autoplay': 'false',
-        'vidEmbed': 'YwMmM1MTE6V1WuekI06oOn7oQjfqQEFe',
-        'adTag': tmgAdsBuildAdTag("vid", tmgAds.embedPlayer.vidSize, "pfadx", ";vidsrc=;vt=embed;dcmt=text/xml", 3)
-    }
-    tmgAds.embedPlayer.remotesrc = 'http://s.telegraph.co.uk/tmgads/tools/ooyala/iframeplayer.html?platform=' + tmgAds.page.platform + '&amp;width=' + tmgAds.embedPlayer.width + '&amp;height=' + tmgAds.embedPlayer.height + '&amp;size=' + tmgAds.embedPlayer.size + '&amp;vidEmbed=' + tmgAds.embedPlayer.vidEmbed + '&amp;adTag=' + encodeURIComponent(tmgAds.embedPlayer.adTag);
-    tmgAds.embedPlayer.tmgEmbedPlayer = '&lt;iframe src="' + tmgAds.embedPlayer.remotesrc + '" width="' + tmgAds.embedPlayer.width + '" height="' + tmgAds.embedPlayer.height + '" marginheight="0" marginwidth="0" scrolling="no" frameborder="0"&gt;&lt;/iframe&gt;';
-    document.write(tmgAds.embedPlayer.tmgEmbedPlayer);
-    </script><iframe frameborder="0" height="349" marginheight="0" marginwidth="0" scrolling="no" src="http://s.telegraph.co.uk/tmgads/tools/ooyala/iframeplayer.html?platform=desktop&amp;width=620&amp;height=349&amp;size=620x349&amp;vidEmbed=YwMmM1MTE6V1WuekI06oOn7oQjfqQEFe&amp;adTag=http%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fenv%3Dvp%26sz%3D620x415%26gdfp_req%3D1%26impl%3Ds%26unviewed_position_start%3D1%26output%3Dxml_vast3%26iu%3D%2F6582%2Ftmg.telegraph.news%2Fnews.newstopics.eureferendum%26url%3Dhttp%253A%252F%252Fwww.telegraph.co.uk%252Fnews%252Fnewstopics%252Feureferendum%252F12173908%252FIf-the-arch-Europhile-Lord-Owen-wants-out-of-the-EU-it-should-make-us-all-stop-and-think.html%26description_url%3Dhttp%253A%252F%252Fwww.telegraph.co.uk%252Fnews%252Fnewstopics%252Feureferendum%252F12173908%252FIf-the-arch-Europhile-Lord-Owen-wants-out-of-the-EU-it-should-make-us-all-stop-and-think.html%26hl%3Den%26cust_params%3D%2526ver%253D3.3.4%2526sc%253Dnews-newstopics-eureferendum%2526pt%253Dstory%2526lvl%253D3%2526biw%253D1024%2526bih%253D459%2526lang%253Den-us%2526fv%253D0%2526dnt%253D0%2526protocol%253Dhttp%2526rd%253Dwww.telegraph.co.uk%2526platform%253Ddesktop%2526cms%253Descenic%2526kw%253Dnull%2526make%253Dnull%2526model%253Dnull%2526geo%253Din%2526ec%253Dnull%2526mv%253Dnull%2526ms%253D1%2526vidsrc%253D%2526pg%253D12173908%2526gamp%253D0%2526refresh%253D0%2526gs%253Dsoc_politics%252Cauto_diesel_emissions%252Cessence_negative%2526vp%253Dl%2526adsafe%253Dnone%2526tmgmvc%253D1%2526tmgmu%253Dfalse%2526tmgsub%253D1%2526tmgpid%253Dnone%2526wtid%253Dnone%2526amcv%253Dundefined%2526optmz%253D%2526audsci%253D%2526kxuid%253Dnull%2526kxsid%253D%2526refurl%253Dnone%2526vt%253Dembed%2526dcmt%253Dtext%252Fxml%2526vidslot%253Dtmgads_legacy_vid_2_3%2526at%253Dvid%2526pos%253D3%26ciu_szs%3D%26scp%3D%26scor%3D3%26correlator%3D1456492204747" width="620"></iframe>
-</div><p></p><p> Not for the first time, Mr Cameron is picking up an old Tony Blair idea: that the EU should be a “superpower, not a superstate”. A fine theory, but does anyone remember the Balkans? When fighting broke out in 1991, the then chair of the EU’s Foreign Affairs Council declared that this was “the hour of Europe, not the hour of the Americans – if one problem can be solved by the Europeans, it is the Yugoslav problem.” This suited the Americans: by all means, let the uniting Europeans pacify their own backyard without the help of the US Air Force. But the EU failed and Yugoslavia fell into an abyss of ethnic cleansing at the cost of 150,000 lives. </p><p> Since then, the EU has doubled its membership. But Lord Owen points to a more recent example: Ukraine. In a lecture last autumn, he noted how the EU blundered its way into a confrontation with Putin by pledging “military-technological cooperation” with Ukraine – suggesting that (as Moscow feared) the EU wanted to become the new Nato. Yet no one in the EU seems to have realised how sensitive the Kremlin was to all this, and how ready it was to act. Ukraine, like Bosnia, was intended to demonstrate the “hour of Europe”. Like Bosnia, it only served to demonstrate that the EU cannot be trusted with security. </p><p> All of this is, for Mr Cameron, a tough argument: that far from making us safer, the EU has become a source of instability because it keeps opting for tasks that its threadbare militaries and hopeless diplomats are unable to undertake. A reminder of EU hopelessness came in the Libyan campaign, where member states who were involved in the bombing started to run out of munitions just 11 weeks into the mission. So leaving the EU in charge of security is like asking a choirboy to act as a bouncer in a Swansea nightclub. </p><p>
-</p><div class="videoPlayer">
-<script type="text/javascript">
-    tmgAds.embedPlayer = tmgAds.embedPlayer || {};
-    tmgAds.embedPlayer = {
-        width: 620,
-        height: 349,
-        size: '620x349',
-        vidSize: '620x415'
-    };
-    if (typeof(tmgAds.page.platform) != 'undefined' &amp;&amp; tmgAds.page.platform === "mobile") tmgAds.embedPlayer = {
-        width: 300,
-        height: 169,
-        size: '300x169',
-        vidSize: '300x235'
-    };
-    tmgAds.embedPlayer = {
-        'targetId': 'embedPlayerWrapper',
-        'platform': tmgAds.page.platform,
-        'width': tmgAds.embedPlayer.width,
-        'height': tmgAds.embedPlayer.height,
-        'size': tmgAds.embedPlayer.size,
-        'autoplay': 'false',
-        'vidEmbed': 'MzaWw5MTE607BCUhwE3ASoZt5lJmMFtp',
-        'adTag': tmgAdsBuildAdTag("vid", tmgAds.embedPlayer.vidSize, "pfadx", ";vidsrc=;vt=embed;dcmt=text/xml", 3)
-    }
-    tmgAds.embedPlayer.remotesrc = 'http://s.telegraph.co.uk/tmgads/tools/ooyala/iframeplayer.html?platform=' + tmgAds.page.platform + '&amp;width=' + tmgAds.embedPlayer.width + '&amp;height=' + tmgAds.embedPlayer.height + '&amp;size=' + tmgAds.embedPlayer.size + '&amp;vidEmbed=' + tmgAds.embedPlayer.vidEmbed + '&amp;adTag=' + encodeURIComponent(tmgAds.embedPlayer.adTag);
-    tmgAds.embedPlayer.tmgEmbedPlayer = '&lt;iframe src="' + tmgAds.embedPlayer.remotesrc + '" width="' + tmgAds.embedPlayer.width + '" height="' + tmgAds.embedPlayer.height + '" marginheight="0" marginwidth="0" scrolling="no" frameborder="0"&gt;&lt;/iframe&gt;';
-    document.write(tmgAds.embedPlayer.tmgEmbedPlayer);
-    </script><iframe frameborder="0" height="349" marginheight="0" marginwidth="0" scrolling="no" src="http://s.telegraph.co.uk/tmgads/tools/ooyala/iframeplayer.html?platform=desktop&amp;width=620&amp;height=349&amp;size=620x349&amp;vidEmbed=MzaWw5MTE607BCUhwE3ASoZt5lJmMFtp&amp;adTag=http%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fenv%3Dvp%26sz%3D620x415%26gdfp_req%3D1%26impl%3Ds%26unviewed_position_start%3D1%26output%3Dxml_vast3%26iu%3D%2F6582%2Ftmg.telegraph.news%2Fnews.newstopics.eureferendum%26url%3Dhttp%253A%252F%252Fwww.telegraph.co.uk%252Fnews%252Fnewstopics%252Feureferendum%252F12173908%252FIf-the-arch-Europhile-Lord-Owen-wants-out-of-the-EU-it-should-make-us-all-stop-and-think.html%26description_url%3Dhttp%253A%252F%252Fwww.telegraph.co.uk%252Fnews%252Fnewstopics%252Feureferendum%252F12173908%252FIf-the-arch-Europhile-Lord-Owen-wants-out-of-the-EU-it-should-make-us-all-stop-and-think.html%26hl%3Den%26cust_params%3D%2526ver%253D3.3.4%2526sc%253Dnews-newstopics-eureferendum%2526pt%253Dstory%2526lvl%253D3%2526biw%253D1024%2526bih%253D459%2526lang%253Den-us%2526fv%253D0%2526dnt%253D0%2526protocol%253Dhttp%2526rd%253Dwww.telegraph.co.uk%2526platform%253Ddesktop%2526cms%253Descenic%2526kw%253Dnull%2526make%253Dnull%2526model%253Dnull%2526geo%253Din%2526ec%253Dnull%2526mv%253Dnull%2526ms%253D1%2526vidsrc%253D%2526pg%253D12173908%2526gamp%253D0%2526refresh%253D0%2526gs%253Dsoc_politics%252Cauto_diesel_emissions%252Cessence_negative%2526vp%253Dl%2526adsafe%253Dnone%2526tmgmvc%253D1%2526tmgmu%253Dfalse%2526tmgsub%253D1%2526tmgpid%253Dnone%2526wtid%253Dnone%2526amcv%253Dundefined%2526optmz%253D%2526audsci%253D%2526kxuid%253Dnull%2526kxsid%253D%2526refurl%253Dnone%2526vt%253Dembed%2526dcmt%253Dtext%252Fxml%2526vidslot%253Dtmgads_legacy_vid_3_4%2526at%253Dvid%2526pos%253D4%26ciu_szs%3D%26scp%3D%26scor%3D4%26correlator%3D1456492204747" width="620"></iframe>
-</div><p></p><p> An internationalist must recognise that Nato, and not the EU, is the guarantor of European security, a fact underlined by every conflict in the post-war years. Even today, with the European refugee crisis, Nato is being asked to intervene in the refugee crisis and confront human traffickers. This makes sense because Turkey, from where most boats depart, is a member of Nato, so the operation is now in the hands of a general from the US Air Force. An EU that was unable to confront Slobodan Milošević by itself is now unable to confront gangs of people-smugglers without American help. </p><p> As a trading bloc, the EU has its merits – but it is no guarantor of our security. In arguing to the contrary, Mr Cameron risks alienating voters by insulting their intelligence. Since when was Putin terrified of EU trade embargoes? What makes him think that Britain, after an “Out” vote, could not join in such embargoes? And anyway, the EU is compromised by its dependence upon Russia for a third of its oil and gas imports; the EU’s foreign spokesman, Federica Mogherini, is herself an apologist for Putin. If anything, the EU’s defence pretensions suit Putin: it risks annoying the Americans with its parochialism and reducing Nato to a “relic”, precisely as Bill Clinton’s defence secretary warned in 2000. </p><p>
-</p><aside class="tmg-particle pull-quote" data-data-uri="http://particle-api.eip.telegraph.co.uk/particles/0.1/00194b3b-0976-47b9-9167-ffb676ca88a4" data-embeddable="0" data-html-uri="http://cf-particle-html.eip.telegraph.co.uk/00194b3b-0976-47b9-9167-ffb676ca88a4.html" data-widget-size="responsive" data-widget-static="true" id="00194b3b-0976-47b9-9167-ffb676ca88a4">
-<section data-widget-auto-resize="1" data-widget-notes="" data-widget-section="" data-widget-static="1" data-widget-title="Fraser Nelson 1" data-widget-type="pull-quote" data-widget-version="0.0.2" id="particle">
+<div class="body"><p> The European project has <a href="http://www.telegraph.co.uk/news/worldnews/europe/eu/10559458/We-want-a-United-States-of-Europe-says-top-EU-official.html" target="_blank">progressed towards ever-deeper economic and political union for over 60 years</a>. The eurozone crisis has added extra pressure for political integration amongst euro area members in particular. </p><p> Even today there is an explicit goal, by 2025, of “completing Europe’s economic and monetary union”, including creating a euro area treasury, <a href="http://www.telegraph.co.uk/comment/12060012/David-Camerons-new-EU-relationship-is-not-what-were-being-told.html" target="_blank">set out in the “Five President’s Report”</a> — the five presidents concerned being the presidents of the European Commission, European Council, Eurogroup, European Central Bank, and European Parliament. The current president of the European Commission, Jean-Claude Juncker, claimed to have been elected to the role, and although that claim was hotly disputed there is ongoing pressure to have an elected European president. </p><p> <span class="ssImg "><img alt="President of the Eurogroup, Luxembourg's Prime Minister Jean-Claude Juncker during a news conference at the end of an European Euro group Finance Ministers meeting at the European council headquarters in Brussels, Belgium, 16 November 2010" height="387" src="http://i.telegraph.co.uk/multimedia/archive/03118/juncker_3118008b.jpg" version="b" width="620"/><span class="artImageExtras" style="max-width:620px;"><span class="ingCaptionCredit"><span class="caption">The weary emperor: Jean-Claude Juncker</span><span class="credit">  Photo: EPA</span></span></span></span></p><p> The central case scenario for the EU, if the UK remains, must that it will continue along the path of deeper political integration that it has pursued for the past 60 years and that it states it will continue to pursue. Given the pressures of the eurozone and migration crises, the most natural directions for such future integration would be towards mechanisms for closer fiscal cooperation within the eurozone and for more robust policing of the external (EU to non-EU) border of the Schengen Area. </p><p> That could thus mean a eurozone Treasury, with eurozone tax-raising, debt-raising and spending powers, which would in turn necessitate some mechanisms for democratic oversight of tax-raising and spending, such as an elected eurozone or European president. It could also mean Schengen Area border guards and perhaps also <a href="http://www.alde.eu/event-seminar/events-details/article/does-schengen-require-a-european-fbi-37837/" target="_blank">a Schengen “FBI”-style police force</a> funded and controlled via some coordinated central agency (presumably an executive agency of the European Commission). </p><p>
+</p><iframe allowtransparency="true" frameborder="0" id="b644ef70-4000-4f06-a33d-dcd7b4069e6f" scrolling="no" src="http://cf-particle-html.eip.telegraph.co.uk/b644ef70-4000-4f06-a33d-dcd7b4069e6f.html" style="width: 100%; border: medium none; position: static; visibility: visible; height: 1135px; padding: 0px; margin: 10px 0px; transition: height 0.3s linear 0s; display: block;"></iframe><script src="http://cf.eip.telegraph.co.uk/particle-embed/js/particle.js"></script><p></p><p style="margin-top: -20px;"></p><h3 class="was-h4"> Risks to the UK </h3><p></p><p> The main risks to the UK under this scenario <a href="http://www.telegraph.co.uk/news/newstopics/eureferendum/12163352/Britains-work-in-the-EU-is-done-our-next-chapter-awaits-us-outside.html" target="_blank">are of domination and irrelevance</a>. The UK is unlikely to be drawn into deeper political integration itself, partly because it is not a member of either the euro or the Schengen area but also because the Brexit referendum and David Cameron’s renegotiation have made quite plain that the UK has <a href="http://www.telegraph.co.uk/news/newstopics/eureferendum/12138277/David-Cameron-we-wont-be-sucked-into-European-superstate.html" target="_blank">no appetite whatever for further political integration</a>. </p><p>
+</p><aside class="tmg-particle pull-quote" data-data-uri="http://particle-api.eip.telegraph.co.uk/particles/0.1/231c6efd-8c1f-44d6-8ddf-cb9b117aa6fd" data-embeddable="0" data-html-uri="http://cf-particle-html.eip.telegraph.co.uk/231c6efd-8c1f-44d6-8ddf-cb9b117aa6fd.html" data-widget-size="responsive" data-widget-static="true" id="231c6efd-8c1f-44d6-8ddf-cb9b117aa6fd">
+<section data-widget-auto-resize="1" data-widget-notes="" data-widget-section="" data-widget-static="1" data-widget-title="Lilico on EU 2" data-widget-type="pull-quote" data-widget-version="0.0.2" id="particle">
 <style>        .tg-pullquote__global__group {
             zoom: 1;
         }
@@ -123,10 +64,168 @@
 </script>
 <section class="tg-pullquote_container" id="pull-quote">
 <div class="tg-pullquote__quote">
-      As a trading bloc, the EU has its merits – but it is no guarantor of our security. 
+      "Deeper political integration might potentially make the euro function stably and sustainably" 
     </div>
 </section>
 </section>
-</aside><script src="http://cf.eip.telegraph.co.uk/particle-embed/js/particle.js"></script><p></p><p> It is hard to be a Europhile, to love Europe, and to be relaxed about the way in which the EU’s vanity and its bungling is threatening the security of the continent. Like many Europhiles, Lord Owen had wanted radical reform of the EU and has spent the past decade arguing for it. This is what Mr Cameron set out to achieve, with pitiful results. It poses an awkward question to Europhiles (myself included): why did the Prime Minister fail? Because he did not try hard enough in his 30-hour sessions in Brussels? Or because the EU, with 28 bickering and veto-wielding members, is structurally incapable of serious reform? And if reform is a lost cause, then are we safer In – or Out? </p><p> Lord Owen has made up his mind. The Prime Minister had best come up with some more convincing arguments if he wants to stop other Europhiles from drawing the same conclusion. </p><p>
-</p><iframe allowtransparency="true" frameborder="0" id="18ab9b18-dc76-457e-93aa-16aec6787f80" scrolling="no" src="http://cf-particle-html.eip.telegraph.co.uk/18ab9b18-dc76-457e-93aa-16aec6787f80.html" style="width: 100%; border: medium none; position: static; visibility: visible; height: 2954px; padding: 0px; margin: 10px 0px; transition: height 0.3s linear 0s; display: block;"></iframe><script src="http://cf.eip.telegraph.co.uk/particle-embed/js/particle.js"></script><p></p></div>
+</aside><script src="http://cf.eip.telegraph.co.uk/particle-embed/js/particle.js"></script><p></p><p> But that does leave the risk that the UK is then dominated, in setting the agenda for EU decision-making and for what decisions are eventually made, by member states that have collective (or at least common) interests created by their participation in these schemes. The main UK interests in things the EU does or might do or should do differently might become a very low priority for states who are focused upon managing their relationships with the European presidency, the eurozone treasury, or EU agencies overseeing border guards and a Schengen “FBI”. </p><p> That could therefore mean that the rules even of the aspect of the EU that the UK wants to remain involved in, such as the single market, start to be set more and more by the EU member states that are more involved in the EU’s main projects, <a href="http://www.telegraph.co.uk/news/worldnews/europe/eu/11864694/A-semi-detached-Britain-may-still-be-too-close-to-the-EU-super-state.html" target="_blank">while the UK is overruled by them</a>. </p><p> A key upside of this scenario for the UK is that deeper political integration might potentially make the euro function stably and sustainably, releasing the euro area economy to a period of rapid catch-up growth in which it recovers much of the lost ground of the past decade. Rapid growth in the euro area could mean strong opportunities for UK finance and exporters, as ongoing EU members. </p><p style="margin-top: -20px;"></p><h3 class="was-h4"> Likelihood of this scenario </h3><p></p><p> This is both the continuation of the decades-long historical policy of Europe and its explicit intention for the future. It must be considered to be more likely than not as the path for the future. More than 60 per cent chance. </p><p>
+</p><div class="videoPlayer">
+<script type="text/javascript">
+    tmgAds.embedPlayer = tmgAds.embedPlayer || {};
+    tmgAds.embedPlayer = {
+        width: 620,
+        height: 349,
+        size: '620x349',
+        vidSize: '620x415'
+    };
+    if (typeof(tmgAds.page.platform) != 'undefined' &amp;&amp; tmgAds.page.platform === "mobile") tmgAds.embedPlayer = {
+        width: 300,
+        height: 169,
+        size: '300x169',
+        vidSize: '300x235'
+    };
+    tmgAds.embedPlayer = {
+        'targetId': 'embedPlayerWrapper',
+        'platform': tmgAds.page.platform,
+        'width': tmgAds.embedPlayer.width,
+        'height': tmgAds.embedPlayer.height,
+        'size': tmgAds.embedPlayer.size,
+        'autoplay': 'false',
+        'vidEmbed': 'Y2M3FyMDE6AozPBdgak7P4ERQNZKDyQb',
+        'adTag': tmgAdsBuildAdTag("vid", tmgAds.embedPlayer.vidSize, "pfadx", ";vidsrc=;vt=embed;dcmt=text/xml", 3)
+    }
+    tmgAds.embedPlayer.remotesrc = 'http://s.telegraph.co.uk/tmgads/tools/ooyala/iframeplayer.html?platform=' + tmgAds.page.platform + '&amp;width=' + tmgAds.embedPlayer.width + '&amp;height=' + tmgAds.embedPlayer.height + '&amp;size=' + tmgAds.embedPlayer.size + '&amp;vidEmbed=' + tmgAds.embedPlayer.vidEmbed + '&amp;adTag=' + encodeURIComponent(tmgAds.embedPlayer.adTag);
+    tmgAds.embedPlayer.tmgEmbedPlayer = '&lt;iframe src="' + tmgAds.embedPlayer.remotesrc + '" width="' + tmgAds.embedPlayer.width + '" height="' + tmgAds.embedPlayer.height + '" marginheight="0" marginwidth="0" scrolling="no" frameborder="0"&gt;&lt;/iframe&gt;';
+    document.write(tmgAds.embedPlayer.tmgEmbedPlayer);
+    </script><iframe frameborder="0" height="349" marginheight="0" marginwidth="0" scrolling="no" src="http://s.telegraph.co.uk/tmgads/tools/ooyala/iframeplayer.html?platform=desktop&amp;width=620&amp;height=349&amp;size=620x349&amp;vidEmbed=Y2M3FyMDE6AozPBdgak7P4ERQNZKDyQb&amp;adTag=http%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fenv%3Dvp%26sz%3D620x415%26gdfp_req%3D1%26impl%3Ds%26unviewed_position_start%3D1%26output%3Dxml_vast3%26iu%3D%2F6582%2Ftmg.telegraph.news%2Fnews.newstopics.eureferendum%26url%3Dhttp%253A%252F%252Fwww.telegraph.co.uk%252Fnews%252Fnewstopics%252Feureferendum%252F12174582%252FHow-the-EU-would-dominate-us-if-we-stayed-inside.html%26description_url%3Dhttp%253A%252F%252Fwww.telegraph.co.uk%252Fnews%252Fnewstopics%252Feureferendum%252F12174582%252FHow-the-EU-would-dominate-us-if-we-stayed-inside.html%26hl%3Den%26cust_params%3D%2526ver%253D3.3.4%2526sc%253Dnews-newstopics-eureferendum%2526pt%253Dstory%2526lvl%253D3%2526biw%253D1024%2526bih%253D459%2526lang%253Den-us%2526fv%253D0%2526dnt%253D0%2526protocol%253Dhttp%2526rd%253Dwww.telegraph.co.uk%2526platform%253Ddesktop%2526cms%253Descenic%2526kw%253Dnull%2526make%253Dnull%2526model%253Dnull%2526geo%253Din%2526ec%253Dnull%2526mv%253Dnull%2526ms%253Dnull%2526vidsrc%253D%2526pg%253D12174582%2526gamp%253D0%2526refresh%253D0%2526gs%253Djaguar_keyword%252Csoc_politics%252Cessence_negative%2526vp%253Dl%2526adsafe%253Dnone%2526tmgmvc%253D1%2526tmgmu%253Dfalse%2526tmgsub%253D1%2526tmgpid%253Dnone%2526wtid%253Dnone%2526amcv%253Dundefined%2526optmz%253D%2526audsci%253D%2526kxuid%253Dnull%2526kxsid%253D%2526refurl%253Dnone%2526vt%253Dembed%2526dcmt%253Dtext%252Fxml%2526vidslot%253Dtmgads_legacy_vid_3_4%2526at%253Dvid%2526pos%253D4%26ciu_szs%3D%26scp%3D%26scor%3D4%26correlator%3D1456508900617" width="620"></iframe>
+</div><p></p><p style="margin-top: -20px;"></p><h3 class="was-h3"> 2. Muddle on through </h3><p></p><p> In this scenario there is no material additional political integration, but the failure to integrate further does not lead to collapse. Somehow the euro staggers on, recovering a bit for as long as there is no further significant downside in the world economy to deliver the coup de grace. </p><p> Schengen is partially re-established, without any profound shift towards additional border guards or a Schengen “FBI”, managing to bumble through for as long as there is no big terrorist attack or extended rioting by recently arrived migrants.<a href="http://www.telegraph.co.uk/news/worldnews/europe/eu/11366613/How-the-European-dream-is-dying-state-by-state.html" target="_blank"> Populist anti-euro or anti-immigrant parties</a> never quite break through into government with a large and stable enough majority to tip the balance. </p><p style="margin-top: -20px;"></p><h3 class="was-h4"> Risks to the UK </h3><p></p><p> There are two main risks to the UK under this scenario. First, because it is likely to involve more or less continuous political firefighting by governments involved in the euro and Schengen areas, there would be little to no political energy or capital available for addressing UK interests via EU mechanisms. Everyone else would always have bigger or more urgent fish to fry. </p><p> Second, the muddle on through scenario would be likely to leave continental economies sclerotic, dysfunctional and unstable, meaning that our major trading partners would be risky investments and offer limited growth opportunities for UK businesses, relative to the rest of the world. </p><p> <span class="ssImg "><img alt=" Spanish riot police clash with protesters in Valencia, eastern Spain" height="387" src="http://i.telegraph.co.uk/multimedia/archive/02398/valencia-police_2398620b.jpg" version="b" width="620"/><span class="artImageExtras" style="max-width:620px;"><span class="ingCaptionCredit"><span class="caption"> Spanish riot police clash with protesters in Valencia, eastern Spain</span><span class="credit">  Photo: EPA/MANUEL BRUQUE</span></span></span></span></p><p style="margin-top: -20px;"></p><h3 class="was-h4"> Likelihood of this scenario </h3><p></p><p> This scenario should not be considered altogether implausible. Inertia or stasis are rarely all that unlikely in politics. But they are rarely able to be sustained for long, and in the fifteen year timescale we are considering here, the chances of avoiding any of the trigger events that would force some choice between greater integration, collapse or loosening of the partnership must be fairly slim. Less than 20 per cent chance. </p><p style="margin-top: -20px;"></p><h3 class="was-h3"> 3. Collapse </h3><p></p><p> In this scenario the EU collapses altogether. We could imagine a number of mechanisms for this. </p><p> Perhaps <a href="http://www.telegraph.co.uk/news/worldnews/europe/eu/12037157/Front-Nationals-historic-result-should-be-a-wake-up-call-to-the-EU.html" target="_blank">the French might elect a Front National president who would withdraw France from the EU</a>. Perhaps other countries might follow the UK’s lead in having their own In-Out referendum and for many of them the choice be Out. Perhaps some country such as Greece or Italy might be driven out of the euro by financial or budgetary problems, with this triggering a financial crisis that induces a more widespread collapse. Perhaps the attempt to push deeper political integration might fail, with some required new Treaty being rejected, at ratification stage, by many member states, leading to a widespread crisis. </p><p> Or perhaps wealthier states such as Finland or Germany might simply decide that the euro crisis and migration crisis are just another mechanism by which the EU makes them bear the costs of others’ failure, and withdraw. </p><p>
+</p><div class="videoPlayer">
+<script type="text/javascript">
+    tmgAds.embedPlayer = tmgAds.embedPlayer || {};
+    tmgAds.embedPlayer = {
+        width: 620,
+        height: 349,
+        size: '620x349',
+        vidSize: '620x415'
+    };
+    if (typeof(tmgAds.page.platform) != 'undefined' &amp;&amp; tmgAds.page.platform === "mobile") tmgAds.embedPlayer = {
+        width: 300,
+        height: 169,
+        size: '300x169',
+        vidSize: '300x235'
+    };
+    tmgAds.embedPlayer = {
+        'targetId': 'embedPlayerWrapper',
+        'platform': tmgAds.page.platform,
+        'width': tmgAds.embedPlayer.width,
+        'height': tmgAds.embedPlayer.height,
+        'size': tmgAds.embedPlayer.size,
+        'autoplay': 'false',
+        'vidEmbed': '4yNjZkcDoQm3QNRjexh90VMn8839-RxP',
+        'adTag': tmgAdsBuildAdTag("vid", tmgAds.embedPlayer.vidSize, "pfadx", ";vidsrc=;vt=embed;dcmt=text/xml", 3)
+    }
+    tmgAds.embedPlayer.remotesrc = 'http://s.telegraph.co.uk/tmgads/tools/ooyala/iframeplayer.html?platform=' + tmgAds.page.platform + '&amp;width=' + tmgAds.embedPlayer.width + '&amp;height=' + tmgAds.embedPlayer.height + '&amp;size=' + tmgAds.embedPlayer.size + '&amp;vidEmbed=' + tmgAds.embedPlayer.vidEmbed + '&amp;adTag=' + encodeURIComponent(tmgAds.embedPlayer.adTag);
+    tmgAds.embedPlayer.tmgEmbedPlayer = '&lt;iframe src="' + tmgAds.embedPlayer.remotesrc + '" width="' + tmgAds.embedPlayer.width + '" height="' + tmgAds.embedPlayer.height + '" marginheight="0" marginwidth="0" scrolling="no" frameborder="0"&gt;&lt;/iframe&gt;';
+    document.write(tmgAds.embedPlayer.tmgEmbedPlayer);
+    </script><iframe frameborder="0" height="349" marginheight="0" marginwidth="0" scrolling="no" src="http://s.telegraph.co.uk/tmgads/tools/ooyala/iframeplayer.html?platform=desktop&amp;width=620&amp;height=349&amp;size=620x349&amp;vidEmbed=4yNjZkcDoQm3QNRjexh90VMn8839-RxP&amp;adTag=http%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fenv%3Dvp%26sz%3D620x415%26gdfp_req%3D1%26impl%3Ds%26unviewed_position_start%3D1%26output%3Dxml_vast3%26iu%3D%2F6582%2Ftmg.telegraph.news%2Fnews.newstopics.eureferendum%26url%3Dhttp%253A%252F%252Fwww.telegraph.co.uk%252Fnews%252Fnewstopics%252Feureferendum%252F12174582%252FHow-the-EU-would-dominate-us-if-we-stayed-inside.html%26description_url%3Dhttp%253A%252F%252Fwww.telegraph.co.uk%252Fnews%252Fnewstopics%252Feureferendum%252F12174582%252FHow-the-EU-would-dominate-us-if-we-stayed-inside.html%26hl%3Den%26cust_params%3D%2526ver%253D3.3.4%2526sc%253Dnews-newstopics-eureferendum%2526pt%253Dstory%2526lvl%253D3%2526biw%253D1024%2526bih%253D459%2526lang%253Den-us%2526fv%253D0%2526dnt%253D0%2526protocol%253Dhttp%2526rd%253Dwww.telegraph.co.uk%2526platform%253Ddesktop%2526cms%253Descenic%2526kw%253Dnull%2526make%253Dnull%2526model%253Dnull%2526geo%253Din%2526ec%253Dnull%2526mv%253Dnull%2526ms%253Dnull%2526vidsrc%253D%2526pg%253D12174582%2526gamp%253D0%2526refresh%253D0%2526gs%253Djaguar_keyword%252Csoc_politics%252Cessence_negative%2526vp%253Dl%2526adsafe%253Dnone%2526tmgmvc%253D1%2526tmgmu%253Dfalse%2526tmgsub%253D1%2526tmgpid%253Dnone%2526wtid%253Dnone%2526amcv%253Dundefined%2526optmz%253D%2526audsci%253D%2526kxuid%253Dnull%2526kxsid%253D%2526refurl%253Dnone%2526vt%253Dembed%2526dcmt%253Dtext%252Fxml%2526vidslot%253Dtmgads_legacy_vid_4_5%2526at%253Dvid%2526pos%253D5%26ciu_szs%3D%26scp%3D%26scor%3D5%26correlator%3D1456508900617" width="620"></iframe>
+</div><p></p><p style="margin-top: -20px;"></p><h3 class="was-h4"> Risks to the UK </h3><p></p><p> As a member of the EU, the UK would face a number of risks if the EU were to collapse. Most prosaically (though probably least significantly), it would be forced to renegotiate all those trade deals and similar international arrangements (e.g. environmental agreements) for which the EU has taken the lead. </p><p> More importantly, because its economy and finance sector had been oriented towards the EU, a collapse could have more profound spillover impacts (e.g. a terrible recession and banking collapses) than if we had already started to place more emphasis on non-EU economic and financial relationships. We might well be drawn into attempting to assist countries that had particularly painful transitions post-EU (possibly including constitutional dislocations). </p><p> <span class="ssImg "><img alt='A giant "Nein" graffiti decorated with the European stars on a street in Athens' height="387" src="http://i.telegraph.co.uk/multimedia/archive/03359/greece-street-art_3359777b.jpg" version="b" width="620"/><span class="artImageExtras" style="max-width:620px;"><span class="ingCaptionCredit"><span class="credit">  Photo: Rex</span></span></span></span></p><p> It is worth emphasising that although the potential impacts on the UK of such a scenario would be very severe if we were still in the EU, they would also be very severe if we were not in the EU, and it is questionable whether they would really be materially worse in the former case than the latter. </p><p style="margin-top: -20px;"></p><h3 class="was-h4"> Likelihood of this scenario </h3><p></p><p> This scenario cannot be ruled out altogether, but must be considered rather unlikely. Less than 10 per cent chance. </p><p> <span class="ssImg "><img alt="Riot policemen stand between anti-austerity and pro-EU protesters in front of the parliament building during a rally calling on the government to clinch a deal with its international creditors and secure Greece's future in the Eurozone, in Athens, Greece" height="387" src="http://i.telegraph.co.uk/multimedia/archive/03350/greece_3350220b.jpg" version="b" width="620"/><span class="artImageExtras" style="max-width:620px;"><span class="ingCaptionCredit"><span class="caption">Riot policemen stand between anti-austerity and pro-EU protesters in Athens</span><span class="credit">  Photo: Reuters</span></span></span></span></p><p style="margin-top: -20px;"></p><h3 class="was-h3"> 4. Looser partnership </h3><p></p><p> In this scenario, the EU recreates itself as a looser partnership, more focused upon the single market and with less interest in state-building. </p><p> We could imagine the UK, after voting to remain in the EU, inspiring other member states to adopt its single market-oriented vision of Europe. Or perhaps governments in a number of member states might eventually respond to the pressures of populist political opponents by offering their own alternative “less Europe” visions. Or perhaps economic pressures might induce a break-up of the euro, without a total collapse, and that might trigger <a href="http://www.telegraph.co.uk/news/newstopics/eureferendum/12050253/Italy-publicly-backs-David-Camerons-vision-for-two-speed-Europe-in-new-boost-for-PM.html" target="_blank">a wider re-evaluation of the European Project</a>. </p><p>
+</p><div class="videoPlayer">
+<script type="text/javascript">
+    tmgAds.embedPlayer = tmgAds.embedPlayer || {};
+    tmgAds.embedPlayer = {
+        width: 620,
+        height: 349,
+        size: '620x349',
+        vidSize: '620x415'
+    };
+    if (typeof(tmgAds.page.platform) != 'undefined' &amp;&amp; tmgAds.page.platform === "mobile") tmgAds.embedPlayer = {
+        width: 300,
+        height: 169,
+        size: '300x169',
+        vidSize: '300x235'
+    };
+    tmgAds.embedPlayer = {
+        'targetId': 'embedPlayerWrapper',
+        'platform': tmgAds.page.platform,
+        'width': tmgAds.embedPlayer.width,
+        'height': tmgAds.embedPlayer.height,
+        'size': tmgAds.embedPlayer.size,
+        'autoplay': 'false',
+        'vidEmbed': 'YwMmM1MTE6V1WuekI06oOn7oQjfqQEFe',
+        'adTag': tmgAdsBuildAdTag("vid", tmgAds.embedPlayer.vidSize, "pfadx", ";vidsrc=;vt=embed;dcmt=text/xml", 3)
+    }
+    tmgAds.embedPlayer.remotesrc = 'http://s.telegraph.co.uk/tmgads/tools/ooyala/iframeplayer.html?platform=' + tmgAds.page.platform + '&amp;width=' + tmgAds.embedPlayer.width + '&amp;height=' + tmgAds.embedPlayer.height + '&amp;size=' + tmgAds.embedPlayer.size + '&amp;vidEmbed=' + tmgAds.embedPlayer.vidEmbed + '&amp;adTag=' + encodeURIComponent(tmgAds.embedPlayer.adTag);
+    tmgAds.embedPlayer.tmgEmbedPlayer = '&lt;iframe src="' + tmgAds.embedPlayer.remotesrc + '" width="' + tmgAds.embedPlayer.width + '" height="' + tmgAds.embedPlayer.height + '" marginheight="0" marginwidth="0" scrolling="no" frameborder="0"&gt;&lt;/iframe&gt;';
+    document.write(tmgAds.embedPlayer.tmgEmbedPlayer);
+    </script><iframe frameborder="0" height="349" marginheight="0" marginwidth="0" scrolling="no" src="http://s.telegraph.co.uk/tmgads/tools/ooyala/iframeplayer.html?platform=desktop&amp;width=620&amp;height=349&amp;size=620x349&amp;vidEmbed=YwMmM1MTE6V1WuekI06oOn7oQjfqQEFe&amp;adTag=http%3A%2F%2Fpubads.g.doubleclick.net%2Fgampad%2Fads%3Fenv%3Dvp%26sz%3D620x415%26gdfp_req%3D1%26impl%3Ds%26unviewed_position_start%3D1%26output%3Dxml_vast3%26iu%3D%2F6582%2Ftmg.telegraph.news%2Fnews.newstopics.eureferendum%26url%3Dhttp%253A%252F%252Fwww.telegraph.co.uk%252Fnews%252Fnewstopics%252Feureferendum%252F12174582%252FHow-the-EU-would-dominate-us-if-we-stayed-inside.html%26description_url%3Dhttp%253A%252F%252Fwww.telegraph.co.uk%252Fnews%252Fnewstopics%252Feureferendum%252F12174582%252FHow-the-EU-would-dominate-us-if-we-stayed-inside.html%26hl%3Den%26cust_params%3D%2526ver%253D3.3.4%2526sc%253Dnews-newstopics-eureferendum%2526pt%253Dstory%2526lvl%253D3%2526biw%253D1024%2526bih%253D459%2526lang%253Den-us%2526fv%253D0%2526dnt%253D0%2526protocol%253Dhttp%2526rd%253Dwww.telegraph.co.uk%2526platform%253Ddesktop%2526cms%253Descenic%2526kw%253Dnull%2526make%253Dnull%2526model%253Dnull%2526geo%253Din%2526ec%253Dnull%2526mv%253Dnull%2526ms%253Dnull%2526vidsrc%253D%2526pg%253D12174582%2526gamp%253D0%2526refresh%253D0%2526gs%253Djaguar_keyword%252Csoc_politics%252Cessence_negative%2526vp%253Dl%2526adsafe%253Dnone%2526tmgmvc%253D1%2526tmgmu%253Dfalse%2526tmgsub%253D1%2526tmgpid%253Dnone%2526wtid%253Dnone%2526amcv%253Dundefined%2526optmz%253D%2526audsci%253D%2526kxuid%253Dnull%2526kxsid%253D%2526refurl%253Dnone%2526vt%253Dembed%2526dcmt%253Dtext%252Fxml%2526vidslot%253Dtmgads_legacy_vid_5_6%2526at%253Dvid%2526pos%253D6%26ciu_szs%3D%26scp%3D%26scor%3D6%26correlator%3D1456508900617" width="620"></iframe>
+</div><p></p><p style="margin-top: -20px;"></p><h3 class="was-h4"> Risks to the UK </h3><p></p><p>
+</p><aside class="tmg-particle pull-quote" data-data-uri="http://particle-api.eip.telegraph.co.uk/particles/0.1/c52bf524-e98e-466d-a200-997e4ba663ee" data-embeddable="0" data-html-uri="http://cf-particle-html.eip.telegraph.co.uk/c52bf524-e98e-466d-a200-997e4ba663ee.html" data-widget-size="responsive" data-widget-static="true" id="c52bf524-e98e-466d-a200-997e4ba663ee">
+<section data-widget-auto-resize="1" data-widget-notes="" data-widget-section="" data-widget-static="1" data-widget-title="Andrew Lilico" data-widget-type="pull-quote" data-widget-version="0.0.2" id="particle">
+<style>        .tg-pullquote__global__group {
+            zoom: 1;
+        }
+        .tg-pullquote__global__group:before,
+        .tg-pullquote__global__group:after {
+            content: "";
+            display: table;
+        }
+        .tg-pullquote__global__group:after {
+            clear: both;
+        }
+        .tg-pullquote__inline {
+            float: left;
+        }
+        .tmg-particle.pull-quote{
+            margin: 0 20px 10px 0px;
+            width: 260px;
+            float: left;
+        }
+        @media (max-width: 495px) {
+            .tmg-particle.pull-quote{
+                float: none;
+                margin-left: 4.687%;
+                margin-right: 4.687%;
+                width: 90.626%;
+            }
+        }
+        .tg-pullquote_container{
+            font-size: 18px;
+            line-height: 23px;
+            font-family: georgia;
+        }
+        .tg-pullquote__title {
+            font-family: arial;
+            font-weight: bold;
+            font-size: 16px;
+            border-top: 1px dotted #000000;
+        }
+        .tg-pullquote__quote {
+            color: #007A8F;
+            font-style: italic;
+            margin-top: 5px;
+            margin-bottom: 5px;
+        }
+        .tg-pullquote__attribution {
+            color: #787878;
+            margin-bottom: 5px;
+        }
+        .tg-pullquote__source {}.tg-pullquote__source__link {
+            color: #234B7B;
+            outline: 0;
+            text-decoration: none;
+        }
+        .tg-pullquote__source__link:hover {
+            border-bottom: 1px dotted #122842;
+            color: #122842;
+        }
+    </style>
+<script>
+</script>
+<section class="tg-pullquote_container" id="pull-quote">
+<div class="tg-pullquote__quote">
+      "The EU is often described as being like a bicycle — if you stop pedalling you’ll fall off" 
+    </div>
+</section>
+</section>
+</aside><script src="http://cf.eip.telegraph.co.uk/particle-embed/js/particle.js"></script><p></p><p> The clearest negative risk to the UK under this scenario is that a looser partnership might be interpreted by many member states as implying greater discretion for expressing national economic preferences. That might mean the European Union lost its ability to push for privatisation, restrictions on state aid, openness to foreign takeovers (e.g. by UK investors), competition and deregulation — all of which have been amongst the most important gains to the UK of EU membership. </p><p> A positive risk to the UK under this scenario is that in a looser partnership, the UK might be seen both to be vindicated (by having stayed out of what would then be regarded as a failed attempt at political integration) and influential in its own right (as a leader in best practice in the kinds of single market-oriented economic and regulatory issues that would then be the core and almost-only focus of the European project). The UK could thus potentially be the leading geopolitical voice in Europe, with potential spillover gains for leading a European response to geopolitically significant events (e.g. Russia, Syria). </p><p style="margin-top: -20px;"></p><h3 class="was-h4"> Likelihood of this scenario </h3><p></p><p> The EU is often described as being like a bicycle — if you stop pedalling you’ll fall off. It has never, in its 60 year history, <a href="http://www.telegraph.co.uk/news/worldnews/europe/denmark/12032958/Denmarks-EU-referendum-is-a-blow-to-David-Cameron.html" target="_blank">loosened the partnership in any sustained way over any sustained period</a>. Even recent threats by its third-largest member (the UK) to leave did not persuade EU heads of government to agree the return of a single veto to the UK or the removal of any aspect of the “acquis” (the set of matters over which the EU has decision- and law-making competence). </p><p> For EU members suddenly to favour a looser partnership would be revolutionary, and must be considered so unlikely as to be statistically implausible. Less than 5 per cent chance. </p><p> <iframe frameborder="0" height="458" id="tweetframe" scrolling="no" src="http://renderer.qmerce.com/interaction/56d03bda5762585b454759f0" width="100%"></iframe> </p></div>
 

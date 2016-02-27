@@ -1,0 +1,500 @@
+<comment>As long as due process is respected, and each case requires a separate court order, this is no different than requiring a landlord to provide access to a tenant's quarters under a search warrant.</comment>
+
+<comment>Apple doesn't rent you its phones.</comment>
+
+<comment>Actually, Apple kinda does. They keep all the master keys, assert full authority over what your device can run, retain the ability to install new software on your device at will, control the actual applications that are installed (and can modify them prior to distribution to your device, if they so desire).If Apple doesn't want the responsibility of responding to lawful court orders, then they should relinquish their ability to supersede the wishes of the actual device owners.Apple clearly wants to have their backdoor when it's convenient, and pretend it doesn't exist when it's a liability.That's really the crux of this issue. If Apple is held to account by the government, they can no longer pretend they don't hold owner-superseding backdoors. </comment>
+
+<comment>That's only true to some extent -- you do actually own the hardware device, and could if you wanted (and if you didn't violate Apple's copyright in doing so) load it with different software.  (Apple uses various technical means to make that latter extremely difficult to do, but in theory you could.)</comment>
+
+<comment>You can't actually load different software (unless someone finds a vulnerability in Apple's implementation, which is what jailbreaks are).If anyone other than Apple could reliably load different software, the FBI wouldn't need Apple's help in the first place :-)</comment>
+
+<comment>Legally, you can.  Whether you can technically is a different matter.  I was only objecting to the claim that Apple "rents" the phone to you.  It doesn't -- it just licenses its software.  The hardware is yours to keep and do with as you like -- try to jailbreak it, use it as a doorstop, whatever.</comment>
+
+<comment>Even legally, you can't, unless the Library of Congress grants an exemption to the DMCA anti-circumvention provisions.That exemption has to be renewed yearly, and sometimes it has been granted, and sometimes it hasn't.Really, "ownership" of the iPhone looks a lot more like a lease.Even reinstalling iOS on your iPhone requires contacting Apple for cryptographic approval; Apple prevents reinstalling older releases by refusing to grant approval. If those servers ever disappear, or Apple ever stops providing authorization for older devices, we'll very quickly be stuck with very pretty, but totally useless devices.</comment>
+
+<comment>WHAT OF THE FACT THAT THE COUNTY DID NOT TAKE FULL CONTROL TO KEEP OWNERSHIP OF THE DATA ON THEIR PHONE? WHEN BUYING IT EASY TO DO IF NOT EITHER LAZY OR INCOMPETENT---APPLE IS RIGHT!</comment>
+
+<comment>There a number of factual errors in these statements. Apple does not hold the master keys. That is what is at issue. Apple has been asked to produce a version of IOS which allows for brute force attacks on the unique key used on the device. They cannot install new software without your permission although for convenience you can pre approve installation of updates. It seems with physical access to the device the may be able to replace the entire OS but that seems like something most customers would want.  Cases of corrupted operating systems where the customer wants their data seem much more likely than FBI requests to create custom insecure OSes. Certainly it is better than Android where on some versions a "secure delete" allows for data recovery.</comment>
+
+<comment>Where's the factual error?You yourself noted that "It seems with physical access to the device the may be able to replace the entire OS but that seems like something most customers would want".That's what the FBI is asking them to do, with the actual device owner's permission.There's nothing in the fourth amendment that says you're exempt from reasonable searches if you've benefited from marketing your product as more secure than it actually is.</comment>
+
+<comment>I read over the entire thread emanating from your original reply to Tulse, as well as other sub-threads here (several of which you commented within), and I have a few observations. The first and third are directed at you (nupark), the other two are more broad.First, as another person who deals with the world of crypto, you are correct to assert that what the FBI is requesting of Apple (because Apple has the capability to do so via their trusted installation of an updated OS) is a backdoor in the technical usage of the word -- by which I mean a mechanism that deliberately bypasses or nullifies a security control, whether or not that bypass or nullification is the entirety of the authentication protocol. Many of those arguing with you are using the semantic angle that, because the lock (the passcode) isn't removed, you're still going through a front door. This holds appeal to those not accustomed with security terminology and use, but in the process it ignores the way in which we use "backdoor," a way that doesn't necessarily imply that *every* control has been removed/bypassed but simply that one that *should* have applied has been removed/bypassed. I think it is meaningful to make clear that we operate on slightly different vocabulary from the general public.Second, I think we should all note that the OS as written does not allow OTA updates to the OS without consent, which requires logging in. The method Apple still possesses to force an install/update, which you clearly demonstrate knowledge of (DFU mode), requires physical access to the device. What you propose, of the installation starting from signed software but then producing an HMAC that would be verified on each boot, with corresponding jettisoning of the device data if it doesn't match, is an interesting approach that would increase the overall security, and by such thwart the very kind of action the FBI is requesting. It would also, I should note, remove one of the major uses of DFU mode in the first place, which is to allow manual updates when something goes wrong, a case that necessarily interferes with the generation of new HMACs as described in your example. That would, interestingly enough, also be a major impediment to jailbreaking a device. I don't see an easy way around this conundrum; simply put, most users won't want to take a notable risk of being locked out of their device (see what happened over "error 53", which was actually good from a security perspective) and would thus want to opt out of such a feature, but if you make it optional you introduce all new issues.Third, I think you (nupark) understate the moves Apple has made toward increasing security in very broad strokes, something that few companies can match, and certainly none with the institutional and cultural weight of Apple. If their engineers and developers can create ways around the problem noted at the end of #2, there's a good chance they will do exactly that in upcoming versions. The security features of both the hardware and software for iOS devices have grown quickly, but nobody said that they've stopped trying to increase security more. Who knows; maybe the next version will introduce features specifically designed to thwart nation-state actors in part by making it impossible for them to modify the rate-limiter or the multiple-attempt lockout features.Fourth, I have not seen any clear indication that the specific request feature the FBI has put in to claim that it's serious about this being a one-time thing (the coding specific to the device) is even possible, and in fact it appears highly improbable that you could make a version of the OS that would only function on one OS without making it truly trivial to apply it to any other phone as well, or without introducing many potential OS flaws by the necessary changes to do so. Introducing a risky, "one-off" design is a significant concern because you don't know what destabilizing effects those changes could have.On the other hand, there is *ample* evidence that the FBI, as well as numerous state and district attorneys, are waiting specifically for this judgment to side with them because of the precedent this case would set, and that this case was chosen by the FBI as the standard-bearer specifically with that option in mind, supporting the major contention Apple has put forward (that such a modified OS does not and should not exist).Also, I should add that while the FBI has specifically said the OS changes can happen under Apple's control (as long as the FBI is provided remote access), there's no guarantee that the remote access won't also enable the FBI to copy the software package as-is off the phone (especially important since the one-off nature of such a change is so unlikely). Even if it did, the agreement says *nothing* about restoring the phone to the prior OS (if that's even possible at that point) and at some junction the FBI would demand the phone back (at which point they could mount all kinds of attacks).</comment>
+
+<comment>No its more like forcing the landlord to make a master key that unlocks all the doors in the apartment where the tenants moved in because of the security of the apartment doors, rendering the apartments no longer palatable to the tenants, which leads the tenants to slowly but surely moving elsewhere and leaving the landlord with a useless apartment building no one wants to rent in and without any compensation, assuming one can even quantify the landlord's losses, cause apple's goodwill is hell of a lot harder to quantify than a landlord's rent.</comment>
+
+<comment>Incorrect. The required OS patch would be keyed to the individual phone, and not usable on any other. You seem to misunderstand the situation.</comment>
+
+<comment>And how long before DA Vance argues that it is taking too long / is too expensive to have Apple do this one-at-a-time for the 175 phones he has queued up, and argues to a judge that Apple should be compelled to create a generic forensic tool that is made available to law enforcement?Not long, given that Vance is openly advocating that it simply be made illegal to sell phones that do not contain built-in law enforcement backdoors.</comment>
+
+<comment>Ah, the slippery slope! The last refuge of weak thinkers.</comment>
+
+<comment>Or in this case, the logical conclusion of those who are better-informed than you are (apparently) thanks to paying closer attention to overall trends.</comment>
+
+<comment>Since we know that today, for real, full backdoor access is _exactly_ what Vance and quite a few state AG's are demanding and in fact also are also trying to force via All Writs, it's not exactly a hypothetical slip-and-slide.   </comment>
+
+<comment>It's not slippery slope if there are enough supporting examples, now, is it?</comment>
+
+<comment>People who love to reflexively cite logical fallacies in lieu of replying with anything substantive tend to conveniently forget that some slopes are in fact rather slippery...</comment>
+
+<comment>Hardly a slippery slope when the White House has admitted it's part of the plan.</comment>
+
+<comment>"Slippery slope" is not a legal argument against lawful search and seizure. The entire purpose of the court system is to provide the necessary oversight and to protect our rights.It's not the FBI that issues writs or warrants -- it's a judge. The FBI itself doesn't even request writs or warrants -- that request is filed by DoJ attorneys.Lawful warrants and writs issued transparently are not the concern here. We should instead be taking Apple to task for their irresponsible choice to centralize so much power in their own hands, opening the door to to abuse through illegal, warrantless, mass surveillance, foreign espionage, or simply a new era of Apple management that decides to ignore our privacy or security interests.As long as Apple has a backdoor into individual's phones, that type of corruption, coercion, and compromise will always be possible.</comment>
+
+<comment>The required OS patch would be keyed to the individual phone.How do you know this? And what is to be done with the precedent set (and one certainly would be)? There will surely be more requests, from the FBI and, as Vance's aggressiveness shows, more local officials.Also, from what I understand this request would be much more than a patch. It is a substantially modded OS.</comment>
+
+<comment>That is part of the court order - the modified OS is coded to the phone in question.</comment>
+
+<comment>And coincidentally, all the others using that OS.</comment>
+
+<comment>Here is the actual wording: The SIF will be coded by Apple with a uniqueidentifier of the phone so that the SIF would only load and executeon the SUBJECT DEVICE.</comment>
+
+<comment>That's precious.</comment>
+
+<comment>No, you're just plain wrong. They are wanting Apple to write code to disable the login code to allow unlimited attempts at logging in on the phone without erasing the data and for Apple to supply its secure signature so that it can be installed. Effectively suppling the key to Pandora's box for all iPhones.</comment>
+
+<comment>Pandora's box, and the key to it, were already created when Apple decided to build in backdoors that allow them to control the software on every single iPhone they've sold, whether they're locked or not.If it's not the FBI today, it'll be the NSA tomorrow, or Chinese espionage next year.The law is simple; Apple has the backdoor, which means they can be ordered use it. The solution to this "Pandora's box" is pretty simple, too: Apple can stop building themselves a backdoor into every iPhone they sell.</comment>
+
+<comment>I'm sorry but Apple doesn't created Backdoor.There is a front door, that is the iPhone must have a way to trust the OS it is loaded, and therefore to maintain this trust the OS has its hash signature generated and verified by Apple.This is for the god sake not a Backdoor!Of course, this is what FBI trying to compel Apple do, write a weaken OS and confirm its signature.</comment>
+
+<comment>Apple can load new software without the owner's permission, on a locked device.Nobody else can do that. The owner of the device can't even load their own OS if they want to.That's a backdoor.</comment>
+
+<comment>Do you have any knowledge about public key encryption?There is no, not even theoretically, other way for an iPhone knows how to trust its OS. Apple knows that, and FBI knows that too! Got it?!That's not a Backdoor, that's the front door!Unless you want to build a house that has NO DOOR AT ALL.</comment>
+
+<comment>Yes, I do have a great deal of knowledge about public key encryption,  applied cryptography, systems programming and security in general.Apple's ability to load code on devices without the owner's permission is a backdoor by every sane definition.Apple's use of platform DRM to prevent 3rd-parties from auditing their devices ensures that any abuse of this backdoor is almost impossible to detect.Code signing provides trust that something came from the vendor. There's no security need, however, for a locked device to load whatever code the vendor has signed, whether or not the owner wishes it to.There's also no security need to require that the owner trust code signed by Apple, without exception, and nobody else. In fact, this reduces security by eliminating all transparency.</comment>
+
+<comment>Okay, come up with your way about this simple question:How should an iPhone know it is running a OS, especially the lock itself, that has not been tempered with?Keep in mind, a lock itself is also a software. In this case, the FBI is asking Apple to modify its lock so that they can brute force the lock more easily. This is an egg first or chicken first problem. Got it? And the root is currently: iPhone trust the boot loader and locking software signed by Apple.</comment>
+
+<comment>That's not a simple question, but here's an answer, and it doesn't prove your point:The boot loader itself is on-die, immutable, and the hardware is essentially tamper-proof to anyone not playing near the NSA's level.Also on-die is an secret unique identifier (set at manufacturing time, not stored by Apple) that can be used as input material to a key derivation algorithm, such as HKDF.So here's a simple solution:Use HKDF to derive additional keying material from the UID, When imaging an OS to disk, use some of this keying material to produce an  HMAC over the code signatures covering the OS image. On boot, use the UID to derive the HKDF key input, and then validate the set of code signing signatures.When updating the device's OS (after receiving permission via the UI, for example), compute the new HMAC over the new code signatures.If the OS is reimaged without a valid HMAC found, discard all data protection keys, rendering any previously encrypted data unreadable.</comment>
+
+<comment>You know what?If the phone in question is a 5s and up, that's Apple already done. At least, the secret unique identifier is on-die in secure enclave and Apple doesn't keep that record.Sadly this is a 5c before secure enclave introduced, so Apple has already done as much as they can to secure it from FBI.</comment>
+
+<comment>Actually, on the 5s and up, Apple can still install new signed firmware that runs on the secure enclave processor, and doing so does not evict existing key material.</comment>
+
+<comment>that true, but again, this is as much as what Apple can do to secure it.Apple can install signed firmware that runs on secure enclave processor but they cannot bypass it, and all the encryption key is generated with secure enclave output. Unless you say there should no firmware installation allowed, I don't see how Apple can further secure it. Actually, If FBI gonna bring a 5s to Apple, the only thing Apple can do would be reduce the delay time for secure enclave response, but yep I can see FBI gonna do whatever it can to weaken the security of every smartphone on market.</comment>
+
+<comment>So why don't you show the FBI how to do it.</comment>
+
+<comment>The FBI is already quite aware, which you'd be aware of if you'd actually read and understood any of their filings, or Apple's own published documentation and FAQ.</comment>
+
+<comment>And so let me correct you:Apple has the ability to tell the iPhone this specific version of lock and boot loader is a good one.If the lock works okay, loading OS requires the owner unlocks the lock, and all file on the file system is protected by AES256 using a key generated based on the device UID and the lock key provided user.The problem in this case is FBI asking Apple to change its lock design so they can brute force it.Say it again: Apple doesn't create Backdoor!Apple build a front door.The FBI wants Apple to change the lock on that front door so they can break in.Still don't understand?!</comment>
+
+<comment>Apple's ability to load a new key derivation implementation on a locked device without the owner's consent is the backdoor.Still don't understand?!</comment>
+
+<comment>So my question to you is:Go give Apple a meaningful way out of it on a 5c and I'm sure they would be happily agree with it.</comment>
+
+<comment>I don't think Apple should get a "get out of jail" free card on this one.They built these devices this way solely for their own benefit; they should face the liability they incurred by doing so.Otherwise, what reason do they have to actually fix this issue? If they win this court case, but the NSA comes secretly knocking with NSLs or the same sort of illegal wiretapping they rolled out with AT&T, there's no risk to Apple's reputation if they comply, and there's no transparency to ensure that they won't.</comment>
+
+<comment>I say it is a front door, not back door, got it?Back in ARMv6 there is not even a secure world inside CPU, Apple already done as much as they can to secure it. You can say "it's not enough" but it is not a Backdoor!</comment>
+
+<comment>How is it not a backdoor to be able to install new, security-compromising software on a locked device, without the owner's permission,  while also blocking everyone else from auditing the device?</comment>
+
+<comment>Apple's ability to load code on devices without the owner's permission is a backdoor by every sane definition.NO, NO, NO. The phone is capable of d/l updates. That is a built in feature. The phone can even do it sleeping. BUT they do not install until the phone is opened. That is not a back door as the phone must have the passcode used (opened) in order for the updates to install.The auto updates do not access the data. The only way to access the data is to use the passcode and open the phone. THE FRONT DOOR.</comment>
+
+<comment>If that were true, and it's not, the FBI would have nothing to ask Apple for.Call it a "front door" all day if you like, but it changes nothing. Apple has more control over the device than the owner does, and can install software that gives themselves, or the FBI, or whoever they want -- privileged device access.If this was a "front door", it'd require owner permission, we could review the binaries, and introspect the system.We can't, though. The binaries are encrypted using on-die keys available only to Apple's signed code, our permission isn't required, and we can't inspect the system.That's a backdoor by any sane measure. If you still don't get this, try this on for size:If a foreign state compromised Apple tomorrow and acquired Apple's signing keys, could that foreign state use it to compromise every single iPhone owned by their citizens, with almost no possibility of users discovering this due to binary encryption and device DRM? (For instance, they could push modified application updates that have Apple-only permission entitlements that grant full device access).The answer is YES. If Apple didn't have a backdoor, the answer would be NO.</comment>
+
+<comment>DFU allows installing new firmware on the locked device.Try again.</comment>
+
+<comment>Or you can go ahead and keep playing with your android phone, which yes owner can load their own OS whenever they want, but so does the FBI too and they don't even need to comes to google or whatever manufacturer and triggering this public showdown.</comment>
+
+<comment>This isn't a "my platform is better than yours" issue.This is a corporation being wantonly careless by building a backdoor into every one of their devices for their own commercial benefit while claiming otherwise, and then trying to muddy the waters when a lawful writ demonstrates the liability inherent in their security model.</comment>
+
+<comment>There is not a Backdoor. For the god sake you are so uninformed about this.The lock itself must be trusted, got it?!How can an iPhone knows its lock has not been tempered with?!</comment>
+
+<comment>For this case, at least, they have the owner's permission.</comment>
+
+<comment>Yes, the phone can d/l updates from Apple while in sleep mode. Those updates won't install though, until the phone is opened.You may install a different OS on an iPhone. It will take some modification though. The same as I can put a Chevy big block into a Fiat 500; abet also with serious modification. Both operations may well be more bother that it is worth but they can be done.A back door is where the OS may be accessed without permission. The front door is the use of a password to open the OS. Windows is full of backdoors. I bet you use Windows.</comment>
+
+<comment>How can you install a different OS on an iPhone, unless you find a vulnerability in their boot loader trust code?The entire device is built to only allow Apple signed code to run, period.</comment>
+
+<comment>Sigh. From the court order: The SIF will be coded by Apple with a unique identifier of the phone so that the SIF would only load and execute on the SUBJECT DEVICE.</comment>
+
+<comment>If it can be coded to one phone, it can most easily be coded to any other phone.The legal term is "you can't unring a bell". Once the code is written, it has been written. It can always be rewritten if destroyed or applied if kept.</comment>
+
+<comment>I do not believe that it is technically possible to key it to an individual phone. The FBI is claiming they want to apply the change to a single phone -- a claim this article calls into question.</comment>
+
+<comment>WHY NOT BLAME THE ONE ACCOUNTABLE--THE COUNTY THAT DID NOT TO MAINTAIN THEIR ABILITY TO CONTROL THEIR PROPERTY?</comment>
+
+<comment>From a due process standpoint. From a tech standpoint, you can't create a backdoor just for the American government that some other entity can't pry open.</comment>
+
+<comment>Of course you can. That was the point of having the OS check the hash of the software accessing it. The phones have individual IDs and the patch was specifically asked to apply to only the phones in question.</comment>
+
+<comment>Right, but once it exists the FBI will ask for the same process to be applied to other phones.</comment>
+
+<comment>Yes. And?This isn't a request. It is a court order. It is also not unpaid labor. The FBI will pay for the work.Apple is simply pushing this as a test of whether corporations are above the law. Since they have already been declared persons, you are arguing that some persons should be above the law.</comment>
+
+<comment>Paying you after I force you, at gunpoint, to clean my kitchen floor doesn't wipe away the crime.</comment>
+
+<comment>But a magistrate's initial order is not the final word of the law, however.   The AWA order explicitly allows the recipient to respond with reasons why they believe the request is an undue burden, or was an improper request to begin with.  And the legal system grinds those arguments out, going up to SCOTUS if need be.How is following a pre-existing legal process of challenging an order, 'above the law'?</comment>
+
+<comment>We await the result of the appeal with bated breath.</comment>
+
+<comment>No, Apple is pushing this to see if the request is actually legal.</comment>
+
+<comment>Where is the Government offering to pay for the labor involved? I have not seen that reported.</comment>
+
+<comment>Poor analogy, mostly due to the fact that you don't rent your phone from Apple.A better analogy would be the person who built your house (that you now own) being forced to create a device which will circumvent the security system on all the houses it has built.</comment>
+
+<comment>You may own the case and the hardware inside it, but if you have read your software license, you will find that you do indeed rent it from Apple.</comment>
+
+<comment>I don't see how housebuilder has the responsibility of translating some localized-ancient-Indian written paper in the house for FBI because they couldn't translate it themselves </comment>
+
+<comment>You seem to be missing the point that the FBI just needs the one house (phone) unlocked,</comment>
+
+<comment>FBI already get into the house(they have that phone and can image or cryptanalysis the storage all they like), they just find a paper written with language they don't understand. (Data encrypted)How translating that paper is house builder's responsibility?</comment>
+
+<comment>translating you would be the harder task.</comment>
+
+<comment>You should try to attack my argument not attacking me.Encrypted information is a kind of information no different than a written paper in some rarely used language.The warrant can only get FBI that far, it is not apple's responsibility to provide them a dictionary or a way to make a dictionary.</comment>
+
+<comment>12, in case you didn't read the article.</comment>
+
+<comment> if you have read your software license, you will find that you do indeed rent it from Apple.Yes, and like many people, I rent my water heater and furnace from the gas company. I get to use them all day. What I don't get to do is modify them. If I sell my house, that rental goes with it.</comment>
+
+<comment>All correct. And if the court orders the gas company to install a modification to one or both, the gas company has to comply, and you have to allow them access for it.</comment>
+
+<comment>But the court can't order the gas company to make any modifications without a hearing.  Nor may those modifications be outside the public interest or compromise the safety of the users. Any regulations the court would be enforcing would have to be clear and direct.It is going to be pretty difficult for an appeal court to agree that a magistrate may order a third party to do anything it says, just because.</comment>
+
+<comment>Actually, it's more like the house builder intentionally retaining a master key for your house's wall safe, as well as every other house he's built, and then being forced to cough it up.Apple's decision here was grossly irresponsible; lawful court orders are the least of risks created by Apple's choice to grant themselves total centralized authority over their customers' iPhones.</comment>
+
+<comment>Nope, it isn't.  The master key does not exist.  The FBI is asking Apple to *create* the master key and then give it to them.</comment>
+
+<comment>This is where Apple has been intentionally misleading.The ability to install new software on a locked device, without the owner's permission, is a security backdoor by any reasonable definition.The software is a red herring; if the FBI had access to Apple's 'master keys', they wouldn't need Apple's help with the software.</comment>
+
+<comment>So you concede that the key does not at this point exist, and the FBI wants the court to require Apple to create it?</comment>
+
+<comment>No, the key exists. If it didn't, the FBI wouldn't have anything to ask Apple for.Apple doesn't need to have a master key; they intentionally chose to make one.The software issue is a red herring. If there wasn't a backdoor, there'd be no amount of software development that could achieve what the FBI needs.</comment>
+
+<comment>The software doesn't exist.  The court is ordering Apple to create the software.</comment>
+
+<comment>Again, as a software engineer who has a background in crypto systems:"The software" doesn't matter. It's a red herring. It's totally silly misdirection on Apple's part to hide the fact that they gave themselves a backdoor.It's as if Apple had the alarm codes and vault keys to a bank with otherwise perfect security. You would still need to bring your own truck to move all the loot, but the truck isn't the issue.If you didn't have the codes and keys, there'd be no point in bringing a truck to the bank.Likewise, if they didn't have a backdoor, we wouldn't be having this conversation, because no amount of money spent on software development could create a backdoor.Apple doesn't have magic elvish software engineers capable of producing a "software backdoor" that nobody else can write. What they have are the master keys that give them a backdoor into devices, at which point a software tool can be used.</comment>
+
+<comment>I do find it interesting that you consider the actual court order to be a red herring.  Perhaps the FBI isn't as smart as you are?  </comment>
+
+<comment>No, I consider Apple's "software is a backdoor, don't look behind the curtain!" misdirection to be a red herring.The reason why the FBI isn't asking for the master keys to Apple's backdoor, and instead is asking for Apple to write the software and use their backdoor on this one device, is that the FBI truly would have control over every iPhone on the market if Apple gave them those master keys.What they're requesting is a solution that limits the scope to exactly this single device by letting Apple maintain complete control over the process.</comment>
+
+<comment>Yeah well, the law has been known to break the law too,Especially in citizen's privacy matters.</comment>
+
+<comment>It has. And I oppose it when it does.</comment>
+
+<comment>I agree that it is similar to court directed cooperation of a landlord to provide access.  But the turning of a key in a lock is not at the same level as requisitioning the advanced skillset of an unwilling organization towards a federal purpose.</comment>
+
+<comment>The warrant has already been served when FBI can image the storage of that iPhone.How do they decode the data on that storage is not what a warrant can get them.</comment>
+
+<comment>SINCE APPLE WAS NOT A PARTY TO THE CRIME--THERE IS NO JUSTIFICATION FOR THIS----TO GET A WARRANT THERE HAS TO BE CAUSE --SINCE APPLE WAS NOT A PARTY THERE IS NO CAUSE--APPLE IS RIGHT!</comment>
+
+<comment>Is anyone actually surprised about this?</comment>
+
+<comment>So, just to be clear, the FBI obscured the fact that the cloud password on the device had been changed once they had the device (thus eliminating one avenue for obtaining the desired data), obscured the fact that they were the ones who changed it, and now are essentially lying about the issue of legal precedent.</comment>
+
+<comment>What if Apple re-ecrypted all current phones with a new update, then gave the fbi software to decrypt old phones?</comment>
+
+<comment>Apple can't decrypt what's on that phone. The FBI knows this, which is why they have asked the court to force Apple to create a weakened version of iOS that will let the FBI attempt millions of possible passwords within minutes in the hope that one of those possible millions will decrypt the phone. And once Apple makes this weakened version, they can't unmake it.</comment>
+
+<comment>But they can, as they have been ordered, make it specific to the individual phones, rendering it unusable on anything else.Genie still in bottle. Your porn is safe.</comment>
+
+<comment>No, it'd be a master key for every existing similar phone.</comment>
+
+<comment>Most Americans think Apple is wrong because most Americans lack the ability to think in the long or medium term.</comment>
+
+<comment>Correction - "most Americans (humans really) lack the ability to think."</comment>
+
+<comment>To an extent it's more "most English speaking people lack the ability to think in the long or medium term." It's thought that it's partially because of our distinct conjugation of verbs into current, past, and future tense disassociating the future from the present. Countries like China (who Mandarin and other Chinese languages don't conjugate based on time) are 20-25% more likely to save money for the future and 20-25% less likely to smoke and etc.</comment>
+
+<comment>Some people seem to think Apple should not be subject to the law.</comment>
+
+<comment>That's not what this is about.</comment>
+
+<comment>Yes, that is exactly what it is about.</comment>
+
+<comment>Then the law is phucked.</comment>
+
+<comment>Not really.  It is a disagreement on what the law says.If this goes all the way to SCOTUS, and Apple loses a final ruling, then absolutely Apple should build the tool and open up the phone for the FBI.   If at that point Apple still refuses, Cook would belong in jail with the Bundy Brothers.Being subject to the law does not, however, mean you have to agree with the FBI's interpretation of the law.</comment>
+
+<comment>The FBI *and* the court. The judge is satisfied there is Probable Cause. Due Process has been served. Ah, but this is Apple, the corporation, which is also a person now, and not just Cook who is refusing. What if the judge issues a contempt of court citation, and puts the entire corporation in jail for 90 days?</comment>
+
+<comment>I'd love to see the conservatives try to jail a company -- after all, they're people, right?</comment>
+
+<comment>Arresting Tim Cook and putting him through a perp walk would be a major PR win for Apple. The feds must know this.More likely they's try to disrupt parts of Apple's business. Government agencies might be forbidden from purchasing Apple products and services. Or iPhones might be confiscated at their ports of entry.</comment>
+
+<comment>But Tim Cook is not the "person" of Apple, he's just the CEO.  They need to jail "Apple", right?  I mean, we've established that companies are people, right?</comment>
+
+<comment>I suppose that confiscating Apple products would be a proxy for imprisoning the company. I have no idea what the law would hold here, however.</comment>
+
+<comment>confiscating Apple products would be a proxy for imprisoning the company.Why punish me for owning Apple products? Isn't the government's action then barred by the Fifth Amendment?</comment>
+
+<comment>Fifth? The feds would be confiscating products you don't yet possess.</comment>
+
+<comment>Government agencies might be forbidden from purchasing Apple products and services.The "Government" prefers its employees use iPhones, specifically for their security.</comment>
+
+<comment>The feds can turn on a dime in these sorts of matters, especially if they are ideologically charged.Security? This might be just the thing to restore the fortunes of BlackBerry.</comment>
+
+<comment>Yeah. It could be interesting. Would all the stockholders combined, constitute the company? Just the board of directors? (and CEO) The employees?Since it would be physically impossible to jail everyone, perhaps just shutting the doors and preventing it from doing business for 90 days would suffice?</comment>
+
+<comment>If the magistrate simply ignores Apple's response and rather than hold hearings she places an immediate contempt order on them, then the magistrate (not a judge, which matters here) will get smacked down by a federal District court judge or appelate panel, unless those higher bodies agree that Apple's response is frivolous.Apple is under ZERO obligation to act until the legal process plays out.</comment>
+
+<comment>A Magistrate Judge doesn't generally have that authority, this will be reviewed and reconsidered by Federal Judge.  Thereafter, Apple can appeal to higher court.</comment>
+
+<comment>Almost. A Magistrate Judge can cite someone for contempt and hear the case. The defendant though can always appeal it to the District Court and ultimately the Circuit Court.</comment>
+
+<comment>Or even a Magistrate Judge's interpretation of the law.  Apple is right to seek reconsideration by Federal Judge and then appeal to higher courts.</comment>
+
+<comment>This was a search warrant. They are heard ex parte (just the prosecutor and the judge). Usually, magistrates only does the administrative work such as signing warrants, setting bail, etc. Usually any dispute goes to the District Court judge.</comment>
+
+<comment>The opposition to the FBI is a knee-jerk reaction based on discomfort with bulk records data collection, which their current requests have nothing to do with.</comment>
+
+<comment>Hardly.</comment>
+
+<comment>My concern is that I do not think the Chinese and Russians are stupid.</comment>
+
+<comment>Which is why you can be sure they're looking at ways to steal Apple's  backdoor.They don't need the FBI case; if a foreign state compromises Apple's network, or one of Apple's employees, they can just steal what they need and produce something far, far, far worse than a US legal precedent for unlocking a vendor-controlled device.</comment>
+
+<comment>However, where the FBI and state AGs are going with this litigation is to leverage these precedents into preventing Apple and other mfgs from building unbreakable devices.   As I understand it even newer existing iPhones could not be broken into using the method proposed for the San Bernadino phone.If Apple *must* include vulnerabilities that could be used as backdoors, then there are vectors for corrupt/disgruntled employees, foreign intel services, etc.If Apple (and other mfgs) are free to lock up the devices as tightly as they wish, so that even Apple is powerless to pry it open, there isn't much that can be stolen by nefarious actors.Michael Hayden, former director of both the NSA and CIA, actually believes the USA is better off with Apple and Google making unbreakable phones -- Hayden believes the loss to domestic law enforcement is more than offset by preventing other countries and non-state actors from having available exploits.</comment>
+
+<comment>I read Hayden's editorial. I never thought I'd agree with the man, but I do here.</comment>
+
+<comment>I've actually been in small group conversations with both Hayden and his NSA successor Keith Alexander (not that I know them well, just a couple of meetings).  I can assure you I normally don't expect myself to agree with him either.</comment>
+
+<comment>Unfortunately, Apple and other manufacturers put our right to secure devices at risk by making themselves such enormous single points of failure via platform DRM.At this point, I'm unconvinced that this is a winnable battle. We fought against CALEA in 1994, and against it's expansion in 2006, and lost both times. The lesson from that should have been that a technological monoculture and centralized control over end-user devices invariably leads to security and privacy-compromising regulation.And yet, here we are again. Worse, Apple is trying to conflate their DRM with the larger and very real issue of government-mandated crypto backdoors, and doing us no favors in the process.</comment>
+
+<comment>These same geniuses likely bought the line that American troops were going to be welcomed with flowers in Iraq. Instead the wold got ISIS</comment>
+
+<comment>Most Americans hear the word terrorist and become sheep (see most TSA screening areas across the country).  Most Americans also think that these acts by the government won't ever impact them so what the heck......</comment>
+
+<comment>Most people think Apple is wrong because the technical media in the USA is in the bag. Very little has been written about this and nothing so far I've seen with any real credentials behind it. Why is that?</comment>
+
+<comment>I would agree if you changed 'Americans' to 'people'. Discounting the future is a human bias; the result of evolutionary path dependence. Homo not-so sapiens.</comment>
+
+<comment>The idea of a Constitutional right to privacy is ridiculous.</comment>
+
+<comment>In case you didn't notice, Justice Scalia is dead.</comment>
+
+<comment>That's what Joe Stalin said!</comment>
+
+<comment>So says "Courageous Mister J".</comment>
+
+<comment>Now, now, I'm sure that's Mr. J's real name!</comment>
+
+<comment>Good thing people are developing strong encryption, then.</comment>
+
+<comment>Thank you Judge Bork.</comment>
+
+<comment>The 4th Amendment disagrees with you.</comment>
+
+<comment>Also important to note that:1. the phone in question is Farook's work phone. He and his wife intentionally destroyed their personal iPhones just before attacking, so why would Farook store any incriminating data on this phone?2. the FBI already has his call records and copies of his iCloud data3. the NSA already has numerous ways to crack into this iPhone, as the Snowden leaks showed4. the backdoor suggested by the FBI will not prevent future terrorist attacks. Circumventing it is as simple as picking a 11-character password, which would take approximately 157 years to brute-force.This case is entirely about establishing a dangerous precedent.</comment>
+
+<comment>I read about the iCloud being hacked every few months. It obviously can't be that secure.</comment>
+
+<comment>iCloud and the contents of an individual phone are very different things.</comment>
+
+<comment>Not different per se. iCloud is an opt-in service that lets you store your personal data on Apple's servers. What you choose to store on their servers is entirely up to you but one of the terms of service states that this stored data is encrypted and decrypted with a pair of keys that belongs to Apple, and can therefore be subject to subpoenas.However, whatever is stored strictly on your iPhone is encrypted and decrypted with a pair of keys known only to you (it's autogenerated from the unlock passcode you choose). It's impossible for Apple to get a hold of this key pair.</comment>
+
+<comment>I'd say the difference in encryption key generation logic and ownership is pretty fundamental.</comment>
+
+<comment>Thank you. But I was only speaking to the security of the iCloud data.</comment>
+
+<comment>Incidentally, the FBI's proposed backdoor is exactly the type of flaw that hackers used to pilfer the iCloud accounts of famous celebrities last year.</comment>
+
+<comment>Oooo! Dangerous! Phones being searched with warrants issued by a judge!Meanwhile, Apple tracks everything you do.</comment>
+
+<comment>To paraphrase your earlier comment: "Ah, the Relativist fallacy! The last refuge of weak thinkers."</comment>
+
+<comment>They really don't.</comment>
+
+<comment>I'm not troubled by phones being searched with warrants.The real issue is that the precedent will be used to force Apple and other mfgs to build backdoors into all future phones.  This particular method of unlocking a phone won't work on newer versions.   But the next step, which is where Comey and Vance both say they want to go, would be to prohibit Apple from selling a phone that does not contain some sort of hook that law enforcement can use to break into any given phone.   Thus creating potential security holes *and* making it much easier for governments that are rather less restrained in their use of police powers to access their citizens' phones, then if Apple can make phones that are designed to be inaccessible even by Apple.</comment>
+
+<comment>Unfortunately, I think this was inevitable from the moment Apple decided to operate as if centralizing authority over these devices in their own hands wasn't massively risky.If anything, I think the FBI winning this case would underline the liability inherent in designing device security with the vendor in a position of absolute trust, and might make it easier to make the case that vendor-controlled opaque non-auditable platform DRM is not a viable security model.</comment>
+
+<comment>Not only that; if it's out there, other countries will use it to spy on our own.</comment>
+
+<comment>About 2/3 of Apple’s sales are overseas. I’m reasonably certain that their foreign customers would not be happy with equipment that the US government requires to be hackable whenever it thinks doing so would be in its best interests.</comment>
+
+<comment>That is not as much my concern as a lawful order by China or Russia to be given the same software. They have just as much a right to it as any other lawful government such as the US right?</comment>
+
+<comment>I’m not a lawyer, But I’d say if Apple was doing business in that country yes--that government has the authority to regulate businesses in their country. Like when China was requiring Google to censor web searches originating from computers within China.</comment>
+
+<comment>I don't trust Comey one bit.  He is responsible for 'Reefer Madness' style anti-heroin propaganda:'All abused prescription painkillers, a common trait that has them appearing in a new documentary, “Chasing the Dragon,” produced at the behest of FBI director James Comey.'https://www.washingtonpost.com...Of course, what he fails to mention is that most of these people 'borrowed' or stole the prescriptions in the first place.  Meaning, their crimes cannot be blamed on 'heroin'.Also the FBI has their "Don't be a puppet" campaign which was nicely satirized by SNL:http://www.nytimes.com/2015/11...http://www.nbc.com/saturday-ni...This is obviously just another attempt to drum up business as the drug war dies down.  They need to 'prove' that 'hate speech incites violence' and they do this by breaking into the phone and find tenuous connections to others who might have been 'radicalized'.  It's a witch hunt.  And like all witch hunts, will not end well.</comment>
+
+<comment>Terrorist's iPhone sure go ahead so what you need to, poor teenager selling pot in BK not so much. Who draws the file? Anything can be a national security issue. Soon It'll be like: whoops you get pulled over cops see your phone in the open and ask to have it scan in the patrol car.</comment>
+
+<comment>I don't get it. All of these phones are part of criminal investigations where the government receives a warrant. How is that any different from getting a warrant to tap your phone lines or search your house? If you've got a warrant against your property, then I don't have a lot of sympathy.</comment>
+
+<comment>Search warrants are supposed to be presented to the owner of the property -- not the people who built the house.</comment>
+
+<comment>The FBI is free to poke around in Farook's phone all they want, though. However, their being unable to understand the data they find isn't Apple's problem.</comment>
+
+<comment>No, the FBI cannot get to the data. If you attempt multiple incorrect passwords on the IPhone it will wipe the personal data on the phone. The FBI wants a workaround so it can access the data. Apple wants to protect this security measure it has put into place for it's customer's privacy. If Apple creates a backdoor (which is not currently in place) then others (think thieves)  can use it too to hack your stolen phone and get your info (bank info, password list, whatever other stupid stuff you keep on your phone cuz you think it is safe).</comment>
+
+<comment>Apple has been confusing the debate by trying to pretend that it's the not-yet-written software that provides a backdoor.That's not true. Apple holds keys that provide the ability to load custom software on a locked phone. That's the backdoor that carries with it the risk of abuse, and it's one that Apple quite intentionally built.</comment>
+
+<comment>Citation? I am interested in reading what you write about.</comment>
+
+<comment>Probably something like:https://www.theiphonewiki.com/...Detailed description:https://blog.trailofbits.com/2..."Even though this 80ms limit is not ideal, it is a massive improvement from guessing only one passcode per hour with unmodified software. After the elimination of passcode delays, it will take a half hour to recover a 4-digit PIN, hours to recover a 6-digit PIN, or years to recover a 6-character alphanumeric password. It has not been reported whether the recovered iPhone uses a 4-digit PIN or a longer, more complicated alphanumeric passcode."</comment>
+
+<comment>Here's one high-level overview: http://www.counterpunch.org/20...</comment>
+
+<comment>Thanks.</comment>
+
+<comment>Sure they can. The data is sitting right there easily accessible to anyone who cares to look, so Apple isn't denying them access to it in a technical sense.This is an interesting case due to all the nuances involved; a "search" warrant is clearly insufficient since the gov't can search through the phone's hard drive all they want.There's no requirement in search warrants that the government has to be able to understand what they find when they execute a search, so this case is really more about creating what might be called a "comprehension" warrant (i.e. "we have what we were searching for, now you need to help us understand what we have").A good enough lawyer might even be able to use that angle to introduce Fifth Amendment arguments against the government's case.</comment>
+
+<comment>I don't understand why Apple doesn't just make an encrypted phone that even it can't hack into. Then they could just say to the FBI that they can't do what they ask.</comment>
+
+<comment>That's exactly what they will likely do with upcoming models.  Unless the US government makes it illegal to do so.</comment>
+
+<comment>Which it will, and for good reason.</comment>
+
+<comment>Should strong encryption products be made illegal as well?</comment>
+
+<comment>No.</comment>
+
+<comment>Nope. It's not the same thing as selling a phone you use on a public network.</comment>
+
+<comment>You can use encryption on a public network.  Why the distinction?  </comment>
+
+<comment>You don't have one of the major corporations in the world providing the technological oomph, AND - the point - on a device sold for use on a public network.</comment>
+
+<comment>As I pointed out, encryption products are often used on a public network, so that is not a distinction.But I get you point--it's the size of the corporation selling the product that is determinative.  So if a small or mid-sized corporation produced the phone at issue here, you don't think they should have to comply with the FBI's request, but Apple does.Where is the cutoff on market cap for your standard, exactly?</comment>
+
+<comment>I think what it'll come to are legal prohibitions against an equipment provider engineering a completely secure system into a device intended for use on a public network. That's a lot different than an individual using his own version of encryption software.I notice Bill Gates has gone public with some cynicism about Apple's supposed inability to open the phone without opening the whole system. I don't have the engineering pedigree Gates does, but I was cynical, too, on the pragmatic ground that no company in the world would vend a product that it couldn't access itself in a worst case. The back door is built in for self-protection. On that view, Apple is simply reluctant to tell its customers that they were never as fully secure as advertised. Cynical, but it makes sense to me.</comment>
+
+<comment>You're just restating that you think it's different without offering any sort of rationale.</comment>
+
+<comment>Ok. The user of private encryption is not utilizing the common carrier network in the same way as the provider of equipment.   The government can and does set standards for the capability of phone equipment, which you can see labeled on just about every device - what fequencies, what power, and so forth. It's no great leap to imagine some basic formula about access. This seems to me the distinction.</comment>
+
+<comment>It's a distinction without a difference.  I can use effectively unbreakable encryption over a common carrier network.</comment>
+
+<comment>You as an individual, sure. But you'd have to learn quite a bit about it, and it might not be all that unbreakable.Engineering it into a device so it becomes the default to me is quite a distinction, quite a different, and liable to be legislatively prohibited. When the cell phone of someone who's just committed a mass murder comes into possession of the investigators, I want them to be able to access it. I think the majority of citizens feel the same way.</comment>
+
+<comment>But you'd have to learn quite a bit about it, and it might not be all that unbreakable.Nope, not at all.  Off the shelf encryption is pretty easy to use.  And strong encryption is effectively unbreakable.  That's why you have to attack it by other means, and that's why the government doesn't like it.</comment>
+
+<comment>I don't see workable legislation, though it could be annoying.  You can even make vague First Amendment and penumbra arguments about it.I do see legislation against equipment providers. There are no Constitutional arguments there.</comment>
+
+<comment>GR, I do have to hand it to you--you don't let someone pointing out factual inaccuracies or inconsistencies in your position give you even the slightest pause.  You just shift the goalposts and proceed as if nothing was amiss.</comment>
+
+<comment>? My thought about legislation is all about the relation of equipment providers to common carriers, and I have  been quite consistent. How private individuals maintain their correspondence really is beside that point.  It's apples and oranges.</comment>
+
+<comment>There is no difference between a tablet and a phone, except for size and a cellphone radio.Your distinctions are beyond worthless.  Indeed, I would suggest they are disingenuous:  even you know that if phones can be legislated insecure, then why not everything else, since they are effectively all the same.Had Farook used Skype via WiFi on a tablet, do you think the FBI would be crying in the corner?"Public network".  Piffle.</comment>
+
+<comment>You didn't even understand the point. Re-read the post.I wouldn't allow a tablet on a common carrier network either. FYI, my belief is that we'll come in a few years to a portable communication device, maybe eight inches long, with phone capability, so popular that men's fashions will change for it.</comment>
+
+<comment>No substantive difference except a bit of radio hardware.</comment>
+
+<comment>But by that logic, any potential demand of the police must be accommodated in advance by design.  Should safe makers not be allowed to make safes that it happens the police could not break into?  Should private homes not be allowed to design physical security systems that it turns out the police cannot bypass? Should cars that can go faster than police cars be illegal?</comment>
+
+<comment>Let's alter the vocabulary. It's not the police. It's the judges. The FBI isn't requesting on its own. It has a warrant. No, I do not think a phone should be vended such that the owner can resist judicial process.A home the police can't get into? So you can beat your child to death in complete security? A car faster than any? So you can rob a bank and get away with impunity? We control the police by legal sanction, and do it pretty well. (The controversies are all RE-active, even the ones I think should be prosecuted, e.g, the cops in Tamir Rice are responding to a citizen call). We do NOT want aanti-social persons to be able to act as they will. Ultimately, the police are acting as the agent of society.Thus, the FBI didn't seek the warrant out of simple curiosity. There are 14 people dead and likely uncharged conspirators, and possibly continued endangerment (based on what neighbors saw in the days before). They aren't the Bad Guys.</comment>
+
+<comment>The police are acting as the agent of government.  In some/most cases that it in accord with society at large, but as we've recently seen, that is not always the case.In an event, I am profoundly uncomfortable with the notion that products have to be designed specifically so that police can access them.  You'll note that we don't currently demand that cars be able to go no faster than police cars, or that homes must not physically prevent access to law enforcement.  (We also don't require that guns be constructed so that they won't fire when pointed at police.)And in the digital world, we have not outlawed Tor or other software that masks the identity or activity of those who are online, despite that making law enforcement's job difficult.For the most part we have not constructed society to make it easier for law enforcement to do their job in all circumstances.  In this instance, I think it is a reasonable trade off to suggest that individuals should not be required to purchase only devices that give police access to them.I also think, though, that this focus on our society is missing the larger picture.  Once we, in our democratic society, decide that such access should be granted to police, there is nothing stopping more tyrannical governments from demanding the same access for much less benign purposes.  I think that is the real issue here.  The US is effectively helping China, Iran, Russia, and any other oppressive regime to attack their citizens by demanding this of its citizens.</comment>
+
+<comment>I am a lot more uncomfortable with the notion that products could be designed that no access at all is possible, no matter how pressing the need. There ARE anti-social types, you know - Bad Guys.</comment>
+
+<comment>Should we make decisions that apply to everybody on the basis of 'It's OK because these are bad guys?"Not attacking you personally just arguing at the extreme: Isn't this the argument for torture? There is a pressing need for information that is in this persons head, and you know these are "Bad Guys."  That makes me uncomfortable, but it is a persuasive argument to many, even many of our highest public officials and current aspirants to the Presidency.</comment>
+
+<comment>No, no no.  Not for good reason.  The "g-men" are not some special, morally superior individuals just because they have that job.  If you force every company to not design "full proof" protection (e.g. safe, phone, etc...), then it inherently means that you are voluntarily making it possible for someone to break into.  And that means not just government officials.</comment>
+
+<comment>I agree they are morally superior. Nor are they morally inferior. When they apply to a court of law for judicial process, they are acting as agents of the larger society, the government of the people, for the people, by the people. Remember that?And as for breaking in, will you please get Snowden out of your head? There is not a snowflake of evidence that the FBI, or NSA, or CIA, or any of them, has ever broken into anything without authorization.  There is a real good reason for that. It's against the law. You can go to jail. You can be impeached.The FBI is not morally superior, but people who conspire to mass murder are morally inferior. Investigating the full extent of the persons involved and possibly preventing other crimes is a fairly worthy goal.</comment>
+
+<comment>The FBI presumably went to the NSA to get into this phone, and they failed. We've spent a good part of a trillion on that agency over the years, yet they haven't stopped a terrorist attack yet. Can't even get into a phone. So what have they really been doing with our money?</comment>
+
+<comment>Collecting data for blackmail.</comment>
+
+<comment>Absolutely. The FBI has a long history of blackmailing presidents and congressmen, and in 2001 Cheney convinced Hayden of the amazing power he had in his hands with the NSA's spy machine--really a blackmail machine a thousand times more powerful than Hoover's gumshoes.</comment>
+
+<comment>The FBI has no history of any kind of blackmailing, beyond the lurid speculations of its adversaries</comment>
+
+<comment>Hoover is famous for his blackmailing, but of course some Americans think that couldn't have happened. Harry Truman said that the FBI was "dabbling in sex-life scandals and plain blackmail. J. Edgar Hoover would give his right eye to take over, and all congressmen and senators are afraid of him."</comment>
+
+<comment>Yeah, but the FBI didn't blackmail anyone.  Just the head of the FBI.  Using FBI resources.  For decades.  That doesn't count, does it?</comment>
+
+<comment>Except that he neved did take over, and what exactly he did (if anything) is conjectural.J. Edgar Hoover was an incredibly hidebound fussy librarian (though very unlikely a cross dresser). His big contribution to Watergate was a refusal to do anything without a warrant, which was about his speed.</comment>
+
+<comment>The FBI had no history of blackmailing anyone? A half dozen presidents who were only nominally J Edgar Hoover's boss might disagree.Then there's this:http://reason.com/blog/2015/01...</comment>
+
+<comment>You absolutely cannot separate myth from reality on this stuff.J. Edgar Hoover was a fussy librarian. His big contribution to Watergate was a refusal to do anything without a lawful warrant. That was the actual culture. Mind you, he built up his legend ridiculously. But whether he blackmailed anyone, or what he had them do, if anything, is completely conjectural.</comment>
+
+<comment>Let me introduce you to the late Curt Gentry.http://www.amazon.com/J-Edgar-...</comment>
+
+<comment>Yup. Stuffed those concentration camps.  Used his political clout to put his own people in legislagtive offices. Corrupted . . . .Er . ..  exactly none of that happened. Even during the years when Hoover built up his reputation with a ludicrously self-aggrandizing publicity campaign, nothing much happened in the macro politics. FDR and Truman did their own thing, Eisenhower, etc. The major cases the FBI is associated with - Alger Hiss and the Rosenbergs - are pretty solid cases in terms of evidence.  So this 'dark chapter' to me doesn't match the reality.Hoover's big mistake was staying on too long. If he'd retired at a sensible age, in 1960, he'd have a much better reputation.  As it was he took an anti-Communist attitude that was more or less valid during most of his career into the 60's, and made a fool of himself.</comment>
+
+<comment>You don't know much about Hoover. Read the book.And mentioning concentration camps is such a red herring as to discredit the rest of your argument.</comment>
+
+<comment>No, my point is that evil is measured by effects, and it is hard to point to any.  Hoover is supposed to have done all this stuff, but there doesn't seem to be much that was consequential.</comment>
+
+<comment>Collecting all our nudie photos and stalking the girls that ignored them in high school.</comment>
+
+<comment>The FBI presumably went to the NSA to get into this phone, and they failed. .I'm not so sure I would presume that.</comment>
+
+<comment>If the FBI didn't go to the NSA, then they are even more incompetent than generally believed.</comment>
+
+<comment>The FBI may or may not be incompetent.But there are reasons that the FBI might want to do through NSA:1. Interservice rivalry.2. NSA are experts in signals intelligence, which of course does include crypto. But they are not necessarily experts on the internals of non-open source operating systems. 3. (Most likely.) Since legislative relief in the form of more lax supervising laws may seem impossible in the short term, the FBI has elected to cherrypick the perfect and most emotional case to take to the courts. They wish, in other words, to establish a precedent as general as possible.</comment>
+
+<comment>Good points, but here's what I don't understand - or maybe can't comprehend.  Is the private sector that much more competent in regards to programming that any government agency can't write the "virus" that would do this themselves?  If so, that really worries me, and makes me question the ability of our government to keep us safe.</comment>
+
+<comment>1. What the feds have requested of Apple is not a virus, as commonly understood. It is a probably substantial customization of the iOS operating system. This will require access to the program source, which he feds presumably do not have. (Not would they admit it if they had access.) 2. In general, the private sector is much better at technical stuff, especially in fields like software where there is a large concentration of extremely able but socially unconventional workers. Then there is the immense difference in compensation. 3. But the real reason for the tech gap does not lie with the government techies. DC is dominated by people with degrees in law, public policy, international relations, and the like. They tend to be pretty proudly innumerate, in my experience. (The numerate lawyers tend to end up in Silicon Valley, or perhaps Wall Street.)  Almost proudly innumerate. Yet they set tech policies and manage the techies.</comment>
+
+<comment>Makes sense.  With #1, I wonder if the government can force a company to essentially "give it" proprietary information such as that.</comment>
+
+<comment>Not just give the fed information--the FBI is insisting that Apple develop new software with crippled security. That software presumably does not exist today.</comment>
+
+<comment>In my humble opinion, this is about the US government compelling a non-government agency... private citizens in fact, into acting as agents of the government.  That's not the same as a warrant, where law enforcement enters your private property and exercises their role as government agents.  During the execution of a warrant, you are compelled to allow agents to act.  The case against Apple, however, is an action compelling Apple to, in effect, become an agent of the government and exercise their expertise on behalf of same.  I'm not sure that will stand in court.</comment>
+
+<comment>'Compelling a private citizen'? You mean, a private citizen that vends its products onto a huge common carier only made possible by a zillion dollars in public funding??Not exactly mom and pop stuff.</comment>
+
+<comment>Nonetheless, it is disturbing that the government feels it has the right to compel citizens to act as agents of the government.  That's scarey sh*t.</comment>
+
+<comment>The phone company got used to it a long time ago.</comment>
+
+<comment>We can chop your leg off -- I'm sure you'll eventually get used to it.</comment>
+
+<comment>Oh, that's really clever. The point is large companies, that make use of public provided communications systems, do accommodate government requests.Now . . . . you have anything substantial to say?Moron.</comment>
+
+<comment>Thank you for the lovely feedback and in-depth analysis of the debate points.  Always nice to hear from someone who uses their brain for more than just a place to park their ballcap... no doubt on backwards.  But as I was saying, there is a distinct difference between accepting and accommodating the execution of a federal warrant,  and the drafting of engineering expertise to crack a technical problem that eludes the technical experts at the FBI.  What if the FBI decides that one of their black suburbans has a funny noise in the engine.  Can they get a court order compelling a local private garage to troubleshoot it?  There is a principle involved here.</comment>
+
+<comment>If the FBI agent found a statute that empowered a judge to order a mechanic to fix a car, yeah, he'd have to do it, or appeal the order. But there ain't no such statute, and no judge that dumb.I come back to the use of the phone network over and over. If you vend products into it, I believe you're going to have to answer for them. I expect Congress to address that by statute presently.No problem with preventing bystanders including government agencies from peeking in. (BTW, the NSA collects metadata. When it wants to examine contents, it obtains a warrant under FISA). But provding the means to avoid the impact of judicial process? That's very dubious.</comment>
+
+<comment>Apple makes secure phones -- not judicial workarounds.  Refusing production orders, etc, are things that Apple's customers may or may not engage in.  Not sure how any of that is Apple's problem.</comment>
+
+<comment>In response to the problem of state confiscation of private property -- in this case, Apple labor -- you merely _claimed_ that "The phone company got used to it a long time ago."If that was your "point", then truly I have a machete:  you really will not miss that leg after a while.Of course, you will miss that leg, just like Apple has better things to do than labor forth on futile government fishing expeditions, and truly -- go ahead, ask them -- the telecom people would rather not have to host alien hardware that contribute a big, fat, zero to their customers.</comment>
+
+<comment>You've managed to write several of the most irrelevant posts imaginable.In my view, judicial process can compel the service, but the Fifth Amendment prevents working a forfeiture. Apple gets reimbursement for its costs. You settle the amount at a hearing. It's not really that tough. Happens all the time.</comment>
+
+<comment>The phone company is a public utility, and they gave up part of their soul when the went into business as such. In compensation for their compromise, they receive near monopoly access to public resources.  But Apple is a private company... private in the sense that they are NOT a government entity, nor are they a public utility.</comment>
+
+<comment>Wireless phones use public airwaves leased to private carriers. Enforcement of traffic laws on public infrastructure is something you may possibly understand.</comment>
+
+<comment>TelCo's are split along business lines.  The PSTN group is an entirely different organization from their mobile phone carrier entity.  They're treated differently because of the public utility thing.  If you sign up for phone service that comes in on copper pairs to your house... it's a public utility just like power, water, or gas.  Mobile phone?  Completely different.</comment>
+
+<comment>Sure, but no one is saying cellphones cannot be tapped. Apple is not using the public airwaves, the service carriers are. So yes, its clear under calea that at&t or T-Mobile is required to facilitate a wiretap, but this is a separate issue.I don't think its clear apple has a duty to create a novel solution to decrypt the same way Verizon must facilitate a tap.</comment>
+
+<comment>Yes... but the FBI or some government entity would be doing the headphone tap.  They couldn't... at least they shouldn't, be able to force AT&T to tap and record the phone for them.  That seems like a government "taking", and one that I'm not sure is constitutional.</comment>
+
+<comment>Yes, but they can and do force att Qwest, etc. to provide a communications platform that allows for legal taps.It was an argument in the mid to late 90s because some carriers were forced to "expensively" redesign their platforms to accommodate taps with the change to digital switches.</comment>
+
+<comment>Agreed.  Forcing the TelCos to create a portal is legitimate in my  mind.  But again, can the government force an organization like QWEST (now gone) to actually do the tap?</comment>
+
+<comment>I don't think so, and remember part of the reason Qwest is gone is Nacchio refused to roll over for the NSA. They got him for insider trading, but it would have been something.So the incentive is certainly there to cooperate.</comment>
+
+<comment>I agree.  There is quite a bit of carrot involved with cooperation.  We've yet to see the stick.  I wonder if Apple will grow a pair and stand up to the feds?</comment>
+
+<comment>What precisely is a wiretap these days? Believe me, I had to go over CALEA requirements very carefully in early VoIP days, and I'm still not sure.Except that it's no longer restricted to a pair of alligator clips on a 5ESS with a tape records and a guy monitoring it. Far from it.</comment>
+
+<comment>There's a portal system in the PSTN network that allows a trace and a tap.  The government required it, but they also paid/ pay for it.  So it's a compensated "taking".</comment>
+
+<comment>POTS/SS7/IN or more general?I know that almost all phone calls, including those originating on POTS landlines, go over the IP fiber backbone at some point (likely via SIP trunking).</comment>
+
+<comment>All three of those feed into the morass that is the PSTN.  The portal tap exists there... at least from what I've seen.  NCC's usually have a caged area where that equipment exists.</comment>
+
+<comment>No, I was wondering what domain the intercept is done in the (I assume legacy) network. Seems redundant now that almost all voice and text calls go over the IP backbone.</comment>
+
+<comment>I'm honestly not sure.  It would have to be done based on region, as legacy networks abound and I cannot imagine that there is a single ingress point for a data tap.</comment>
+
+<comment>Assume that the NSA et al have access to a bit by bit copy of everything that travels over the national IP fiber backbone. There are optical splitters installed in all the sufficiently large POPs, peering points, etc.</comment>
+
+<comment>Its a good question, but at a minimum the ability to listen in to a conversation just like the old gman with the clips is required.  I would imagine it would preclude the ability for the carrier to provide end to end voice encryption although since there are a wide variety of apps available for that it would seem vendors can provide that service.</comment>
+
+<comment>I agree.  What if, hypothetically, Apple didn't have a way to decrypt a phone?  Could they be required to use their engineering and creativity skills to make one?  Gray area here.  What if Apple claims that they would suffer irreparable harm by participating in something that would cause the public to lose trust in the security of their phones?  This is SO going to federal court.</comment>
+
+<comment>If Apple were not providing phones for use on a common carrier network, you'd have a better point. But I think the government - meaning society as a whole - has some right to decide the limits of technology there.</comment>
+
+<comment>I don't disagree with that rather broad statement.  But again, can the feds walk into the Apple lab, hand a piece of equipment to an Apple engineer, and tell them to work on it?  I can understand a warrant forcing Apple to provide schematics, source code, etc.  But the actual use of Apple people?</comment>
+
+<comment>Well, when  process is served on a corporation, people do have to do the work. The government is liable for costs, otherwise there is a forfeiture.</comment>
+

@@ -1,0 +1,556 @@
+<comment>Hard to believe that this would go apparently unnoticed and unchecked in this, a progressivist administration dedicated to the preservation of individual freedoms.</comment>
+
+<comment>Gov't administration and preserving freedoms don't go together</comment>
+
+<comment>Overstepping bounds in the name of counter-terrorism seems to be a bi-partisan political agenda.</comment>
+
+<comment>One thing the Rs and Ds agree on!</comment>
+
+<comment>The ones in Washington at least. The real dividing line on this one is those who can abuse the power and those who can be abused by it (and are paying enough attention to be bothered by this fact).</comment>
+
+<comment>The FBI, as do most agencies of the government, do have considerable independence.</comment>
+
+<comment>Apple is way too smart for this nonsense.https://www.youtube.com/watch?...Why are the "terrorists" driving slow with their Hazard Lights on??</comment>
+
+<comment>Yes, it does, but "Well, they do it, too!" is s very poor argument.</comment>
+
+<comment>Snowden showed us how the government abuses private data.It's posted online at http://www.cjfe.org/snowden</comment>
+
+<comment>You mean that ironically, right?  Obama has not been much of a friend to those concerned with the rise of the surveillance state.</comment>
+
+<comment>I was being facetious, you are right.The first clue I had that he was "selectively progressive" was that right after the 2008 collapse, and the national mood would have supported the public castration of the entire board of directors of Goldman Sachs as part of the halftime show of the 2010 Super Bowl, he managed to do--what?--to limit Wall Street.That right there told me that he was in their collective pocket, and not what he purported to be. So the lengthy brow-beating rhetoric over "paying one's fair share" down to an income of 250K, was not aimed, per se, at Wall Street, but to the upper-middle productive segments of the tax revenue base.</comment>
+
+<comment>I think Edward Snowden, Glenn Greenwald, Chelsea Manning, and a lot of other people would have a different perspective.</comment>
+
+<comment>Funny how that works...</comment>
+
+<comment>Modify the request to just that one phone.  Seems they want more than they really need.</comment>
+
+<comment>That is the request, but it inherently hands the FBI an operating system that could be loaded to any phone and leave it vulnerable to the FBI's brute force methods (guessing a lot of passwords, very quickly).</comment>
+
+<comment>So there is no way for one tech guy to sit down with one FBI agent in a private room and remove the info ?  I'm suggesting a program is already created and Apple has it at their right hand .</comment>
+
+<comment>I'm skeptical with Apple's contention that they don't already  have the "back door"In your scenario the FBI hands over the phone. Apple with the FBI present if need be extracts the data, Apple removes the malware from the phone. That would seem Ok</comment>
+
+<comment>And then the FBI comes to them with another phone, and another, and then demands to have the software themselves, and then demands that the software be built in to all new phones...</comment>
+
+<comment>brute force cracking doesn't work with newer iphones. but unlike peterw I am not confident that there is no backdoor ...even if Apple didn't put it into its own design.</comment>
+
+<comment>if they did someone would've found it already and it'd be all over the InternetThis was sure true before they started securing their phone more thoroughly</comment>
+
+<comment>That is not how their encryption works.https://stratechery.com/2016/a...</comment>
+
+<comment>beyond my understanding</comment>
+
+<comment>Basically only software the Apple itself writes will work.  And if they write a tool that does it it would theoretically work on any similar device</comment>
+
+<comment>Not true if written to require a unique identifier. In effect the software would be strongly encrypted to run using the unique identifier as half a key.</comment>
+
+<comment>If not willing to research and learn the facts, perhaps not qualified to comment then.</comment>
+
+<comment>No need to be ugly about it.</comment>
+
+<comment>They probably have software used during the development phase -- when there was no passkey input required to boot into the rest of the software. That part of the boot sequence could be used to flash new firmware allowing multiple guesses.</comment>
+
+<comment>But without the passcode you can't decrypt the data.  The passcode becomes part of the key.</comment>
+
+<comment>I refer to the part that limits failed tries and inserts time limits.They can brute force crack this model provided it uses only a 4 character pass code." it will take a half hour to recover a 4-digit PIN, hours to recover a 6-digit PIN, or years to recover a 6-character alphanumeric password. It has not been reported whether the recovered iPhone uses a 4-digit PIN or a longer, more complicated alphanumeric passcode."your link</comment>
+
+<comment>Then  don't hand it to the FBI.Let Apple open it up.I don't get why it has to be the FBI who opens it up since all they want is the information.</comment>
+
+<comment>Because there is no code. The FBI wants Apple to write the code. That would violate the Fifth Amendment "taking clause", and the XIIIth Amendment "involuntary servitude" clause.The FBI currently has possession of the phone. They are entitled to do whatever they want to in order to break it. What they are restrained in doing is forcing third parties to do the work for them.</comment>
+
+<comment>I've gone back and forth on this one.I don't think the gov't has the right to force Apple to create the "back door".Apple could voluntarily develop the code and keep it under their possession. The FBI could submit the phone and Apple would supply the data. The "back door" would be just as safe as any of the other proprietary Apple code. You're only as safe as your weakest link.  I think they should do that.  But I don't think gov't has the right to force you to create something for them.</comment>
+
+<comment>The problem with the approach you suggested is that Apple is being asked to turn off the feature that locks out a user after too many failed attempts. Apple is not using the brute force methods to break into the phone, the FBI plans to after Apple weakens its protections against brute force attempts (guessing til you get it right). So Apple would not be extracting the data unless they developed or borrowed the brute force password software.</comment>
+
+<comment>That approach  I disagree with. Because once the phone with the malware on it is out of Apple's possession the "Big Brother" concerns become real.I don't trust the FBI to not use the malware as they please in that case</comment>
+
+<comment>If the government can force Apple to write the code, they can also force the company to turn over the code.</comment>
+
+<comment>More importantly, the government is telling Apple to completely reverse its business strategy, which is to offer secure phones and features.If you told Exxon that they were no longer able to sell oil because of the environment, the Republicans would rightly call it ridiculous overreach.  </comment>
+
+<comment>I don't see how you can have missed the torrent of security updates necessary to keep any operating system and its software secure.It is a pretend business model now. The backdoor would be the most secure part of the device.</comment>
+
+<comment>If the government can force Apple to hack a secure phone, it can force apple to install back doors in each software update.</comment>
+
+<comment>Says you. This is a particular case and what is being asked in it is not what you describe. The software is particular to an individual phone.</comment>
+
+<comment>I'm not talking about this one case, but about power.</comment>
+
+<comment>Nonsense. You can't tell me that one of the world's most sophisticated technology companies can't figure out a way to allow brute-force hacking without giving the government a copy of the program that allows it? Just nonsense that doesn't withstand two seconds of scrutiny.</comment>
+
+<comment>And you can't tell me that once Apple creates such software, the government won't use that as a precedent for future cases, or even demand in future that Apple provide it that software.</comment>
+
+<comment>They designed their software so that people couldn't circumvent the limited password attempts. They could probably make a phone from scratch that does what you suggest, but it was never designed with what you are asking in mind.Seriously, people ask engineers for ridiculous things all the time and say "surely someone with your expertise can overcome the initial design of this existing product". It doesn't work that way.</comment>
+
+<comment>Its a common Dilbert theme, people expecting engineers to do ridiculous things</comment>
+
+<comment>They could do it but don't want to for obvious reasonsbasically they've have to write a custom version of iOS to circumvent the password limitation.Of course there's no way to make it just for one phone.  You'd have to potentially compromise every current iOs out there to do it.</comment>
+
+<comment>according to the link posted by wiredog, the necessary software could be made to work only for a specific iphone by using its unique id.http://blog.trailofbits.com/20..."In order to limit the risk of abuse, Apple can lock the customized version of iOS to only work on the specific recovered iPhone and perform all recovery on their own,without sharing the firmware image with the FBI."</comment>
+
+<comment>"The "back door" would be just as safe as any of the other proprietary Apple code. "Which is precisely the problem...  Just as safe, and no more.</comment>
+
+<comment>People would be angry if the government conscripted gun makers to add features that allowed law enforcement to remotely disable any gun."But we'll only use it on the bad guys. And we'll be the only ones who can figure out how to use it, it'll never leak out to the public."</comment>
+
+<comment>Apple is way too smart for this nonsense.https://www.youtube.com/watch?...Why are the "terrorists" driving slow with their Hazard Lights on??</comment>
+
+<comment>People already went nuts when Colt offered a gun with a defeat device, let alone making it mandatory.</comment>
+
+<comment>Who would of thought that massive data collection centers in the dessert would be built to collect phone data on all citizens.You really can't give an inch</comment>
+
+<comment>I'd like to know how the heck the FPI is going to install a modified OS on a phone to which they have no access. If this is technically possible, why don't they install an old iOS version that does not have such strong encryption? Anyone know?</comment>
+
+<comment>It is the boot sequence that is to be changed to allow unlimited brute force guess of the key without wiping the content, I gather.</comment>
+
+<comment>For anyone interested, the ACLU has a good position on this:  https://goo.gl/Cwcmu2When the ACLU, the EFF, and Amnesty International are all weighing in strongly against this action, it should really give pause to those who want to force Apple to comply with the FBI's request.</comment>
+
+<comment>The software is for a previous generation iphone and would not work on a newer model. It is acknowledged that the capability already probably exists in the hacker world. There is a lot of non-authorized software designed to do what is asked for android phones and devices. Many people use android phones and devices.Apple, Microsoft and Android already build in back doors that make changes and collect data, as do many apps..Apple will be paid for services rendered. Many laws do require individuals to undertake work in order to comply with laws. So that is a red herring.Apple could make the software, use it to decrypt this particular phone and give the contents but not the software to the court.</comment>
+
+<comment>Apple is being asked to make the phone not erase data after multiple password failures. The actual brute force password testers are FBI software.</comment>
+
+<comment>Yes I get that, but if Apple doesn't want to expose the new software to the FBI they could do it without giving the phone back until their software hack had been removed.</comment>
+
+<comment>It isn't Apple's phone.Let the FBI do their own work.</comment>
+
+<comment>then let the FBI crack it(or erase it after 10 failed attempts)</comment>
+
+<comment>Exactly.If the FBI can't figure out how to do it, then the FBI fails.Apple isn't in the business of being FBI agents.</comment>
+
+<comment>If there is a court order they have to comply.</comment>
+
+<comment>So the court could order Elon Musk to build a rocket to take an FBI agent to Mars?Or slightly less absurd, order and force Virgin Galactic to build and launch a surveillance satellite into orbit for the FBI to use?</comment>
+
+<comment>Not the impossible. But in this instance what is being asked is not difficult.http://blog.trailofbits.com/20...</comment>
+
+<comment>If it's "not difficult" then the FBI can and should do it themselves.How pathetic are they?</comment>
+
+<comment>Not the point is it. Properly executed, the request in this case has no actual downside.</comment>
+
+<comment>Nonsense.Forcing Apple to CREATE a malware hack -- one that would hack EVERY phone -- is unconstitutional.If the FBI wants malware to hack iPhones, let them create it themselves, or buy it from Russian or Israeli hackers.</comment>
+
+<comment>It isn't what is being asked in this case. Read the wiredog link.They are being asked to provide software that will only work on this one particular phone.</comment>
+
+<comment>They are being COMMANDED to CREATE malware hack software for the FBI, software that by its very nature would be able to be used on ANY similar iPhone.</comment>
+
+<comment>Why not read the link, because it explains why you are wrong. Upper case letters  don't change the facts. "On the iPhone 5C, the passcode delay and device erasure are implemented in software and Apple can add support for peripheral devices that facilitate PIN code entry. In order to limit the risk of abuse, Apple can lock the customized version of iOS to only work on the specific recovered iPhone and perform all recovery on their own, without sharing the firmware image with the FBI."http://blog.trailofbits.com/20...</comment>
+
+<comment>Then the Legal Chain of Custody is broken, and inadmissible forensically.</comment>
+
+<comment>The suspect is already dead. This is a fishing expedition.</comment>
+
+<comment>If this isn't difficult, then why can't the FBI do it?</comment>
+
+<comment>They may appeal. This order is in uncharted territory. It is very possible that if the FBI wins, this ends up at the Supreme Court.</comment>
+
+<comment>I simply don't believe that is true. The data (and hardware) is evidence in an ongoing case. Think they'll let Apple keep it and transmit the data? What about the chain of custody?You know that if the FBI ever got the hardware back, they would do what they could to copy the OS.</comment>
+
+<comment>I agree with the last part. As to the chain of custody, that could be addressed with a protocol approved by the court.</comment>
+
+<comment>Chain of custody is only an issue in legal proceedings.  I doubt that any information they would discover would be acted on directly in a US court.</comment>
+
+<comment>That's true but what if there is information about an upcoming terror attack with the names of the individuals involved.  I could see a lawyer successfully arguing that their clients' were only busted because of information extracted during a break in the chain of custody.Not that that's at all likely - I don't believe that there's any information on that phone worth doing what the government is asking.</comment>
+
+<comment>Apple will be paid for services rendered.The XIIIth Amendment prevents "involuntary servitude". That includes doing something you don't want to do.The Fifth Amendment prevents the government from "taking" without just compensation. Creating a back door would diminish Apple's brand value. It would also diminish the value of every iPhone that uses this encryption.Many laws do require individuals to undertake work in order to comply with laws.Apple is currently obeying every law out there. There is no law that states Apple must build a back door. Nor could they without violating the Fourth Amendment.</comment>
+
+<comment>I would add that is VERY short sighted by the US government.Currently, the world's major tech hub is in the USA.  Most major tech companies are US.  This is good for the US economy, and very good for US security because it gives the government, and the military, a leading edge.  If the "ticking bomb" scenario exists, the US government knows it can go to the right people.But if you force US companies to create a system that can be hacked at will by the US government, then OTHER, non-US companies will start to offer services that cannot be hacked.  It could likely start with a European company, e.g. German. This could be complete smart phones, physical add ons to smart phones, secure cloud storage, or apps. But with enough demand, more companies and people will start to seek greater encryption.  This will lead to a greater capability across the board, and greater ease of encryption, until smaller companies and even individuals will be capable.  Once it gets to the level of an app, ISIS will be able to offer highly secure encryption.The US government is trying to have it all, and ends up killing the goose that laid many many golden eggs.We have already seen this in other areas. -Because of the NSA, a lot of secure encrypted systems have been created outside the USA, often in countries that are friendly but suspicious of US power: e.g. Israel, Northern Europe, New Zealand, South America. -GPS was US only, until even friendly countries were concerned about the US dominance.  Now there are separate GPS systems.  -A lot of the drone technology is advancing outside the USA because of FAA restrictions.-In the less military sensitive areas, US restrictions on cloning and stem cells has been a great spur to development outside the USA, giving US policy makers less leverage.</comment>
+
+<comment>And other governments will also start demanding that companies like Apple provide the same phone-cracking services for people they deem as threats to their state, such as dissidents.</comment>
+
+<comment>Individuals have the option of using their own encryption and different phones.</comment>
+
+<comment>Intelligent people who want Privacy will dump their iPhones and switch to more secure devices, with uncrackable encryption.</comment>
+
+<comment>The newest iPhones already have the best phone encryption. At least there's none better.  The whole Error 53 problem is a result of a strong security model.</comment>
+
+<comment>no such thing if the companies can be compelled to create backdoors at the governments request</comment>
+
+<comment>Buy a phone made using non-us hardware. Install a secure operating system. Avoid apps.</comment>
+
+<comment>Yes, and the more that people do that, the less options the US Govt will have.  Essentially, the real terrorists will go dark, while the government can spy with impunity on pretty much everyone else.</comment>
+
+<comment>true, already.</comment>
+
+<comment>Publicly available open source RSA encryption has no "back door" and isn't crackable in any practical sense.http://lifehacker.com/five-bes....</comment>
+
+<comment>If you use that on your phone you can still be hacked if you are not careful with what goes on or is already on your system.</comment>
+
+<comment>Prove it.</comment>
+
+<comment>Go here:http://www.zdnet.com/product/s...</comment>
+
+<comment>GIVE ME A BREAK. I'm against bulk records collection and other over-the-top, invasive government snooping, but Apple and the tech community are being idiotic here.First, what prevents Apple from writing the simple code needed to break into this phone--THEN DELETING THAT CODE? You can't tell me that there isn't a technological solution that avoids giving the government the program to break into the phone.Second, this isn't about precedents. This is a slippery-slope argument that falls apart in two seconds. The case here is about a specific device in the FBI's hands. It is trivial to distinguish between cases where a single device is in the government's possession and devices where they are not. That is a clear, bright line.Third, Apple's own language about "back doors" is disingenuous here, as this article ironically points out. It's not a "back door," and Apple is using that language to scare people.Apple needs to get its priorities straight.</comment>
+
+<comment>So if Apple is required by the Chinese or Russian governments to do the same thing so that those states can punish dissidents, you'd be ok with that?</comment>
+
+<comment>Those governments probably have the software. They can use torture as Trump proposes, already. They very likely have pre-installed trojans. </comment>
+
+<comment>You also need to understand the technology.  Its not that simple.</comment>
+
+<comment>That's right, it's not a "back door," it's just a way to get around the lock on the front door.  Way different!</comment>
+
+<comment>So let the FBI do it themselves, on their own dime.</comment>
+
+<comment>Apple's "defense" is the theater of the absurd.  It is a smokescreen.</comment>
+
+<comment>What's to stop the government from asking for it again? Do you really think that they won't want to do this to thousands of other phones?</comment>
+
+<comment>Another analogy - a bank is keeping documents in a safe.  The person who stored the documents is indicted. We wouldn't let the bank claim that the only person with a key is the alleged criminal and there is no other way to get the documents.I understand the balance, but I don't see why data encryption gets protections that old technology on information storage doesn't.</comment>
+
+<comment>But Apple doesn't have the key to the phone.  The analogy is that the government is demanding that the safe maker create a completely new tool that bypasses safecracking prevention features built into the safe.</comment>
+
+<comment>What's wrong with that? Courts force people to do stuff they don't want to all the time (e.g., jury duty, witness, deposition).</comment>
+
+<comment>The examples you provide are completely different -- witnessing or being deposed are about providing information.  This case is about actually requiring a company to create a new device.  Do you want the government to be able to come to you and demand you do work on a case?</comment>
+
+<comment>Are you good with hackers figuring out the code and getting into your phone? Having your info? Recording your sites and keystrokes? Accessing your credit cards and bank accounts if you ever use them from your phone? That is what this one "little" court order can lead to. Once the door is built, the lock can be picked.</comment>
+
+<comment>Can the government come up to you and force you to use your car to deliver pizzas for them?</comment>
+
+<comment>Because asking the bank to open the safe is not the correct analogy.  This is like forcing banks to re-engineer all of their safes to have a little door that can be used to access by the government.  How do we stop a thief from using that little door?  Would you trust your money to a bank that has dodgy safes?</comment>
+
+<comment>Here's a better analogy:  a bank sells someone a safe, and the government orders the bank to create a tool which will bypass the safe's security, as well as all the safe's the bank sells.</comment>
+
+<comment>And so no one will buy those safes.  Its what happens in corrupt or autocratic societies.</comment>
+
+<comment>The difference is that the criminal doesn't own the contents of the safe.</comment>
+
+<comment>Apple is way too smart for this nonsense...https://www.youtube.com/watch?...Why are the "terrorists" driving slow with their Hazard Lights on??</comment>
+
+<comment>Conor, you are making a Libertarian (and therefore conservative) argument here, presumably.  Where were you when Twitter recently cracked down on Libertarians and Conservatives by curtailing their posting privileges?  Where were you when Facebook cooperated with the German government to silence opposition to Merkel's policies, in a blatant Stasi tactic?  You seem to approve of government coercion when it helps the far left silence its opposition, as in China when it forced Yahoo to reveal the name of a dissident, but when it is for helping defeat terrorism, you suddenly become a Libertarian.</comment>
+
+<comment>Neither Twitter nor Facebook are the government, so Libertarianism isn't implicated.  Can you provide a link for the China claim?</comment>
+
+<comment>Sure, it is a well known case, Shi Tao is the dissident, https://en.wikipedia.org/wiki/...</comment>
+
+<comment>"On Tuesday, a federal judge ordered Apple to write malware..."Conscription is a good word for it, and if it stands ANYONE can be conscripted to do the government's bidding. Many of these judges are like sheep, doing whatever the government asks them to do. It's disgraceful. Have they no sense of judicial ethics?</comment>
+
+<comment>The court order says nothing of the kind.  It is written the way it is for obvious reasons. If Apple found a way to merely bypass the password yet not preserve the data, then they would be technically complying with "opening the phone" but obviously not complying with the intent of the court order, which is to allow access the data, preserved.</comment>
+
+<comment>for the 900th timethere is no way to "just bypass the password"read the most basic writeups on the tech before you make comments</comment>
+
+<comment>You are a software code expert now?  You do not understand basic logic.  How could you understand technology?</comment>
+
+<comment>Yes I do work in software actuallyTell me your "basic logic"?Apple already has a backdoor into their phones because?</comment>
+
+<comment>You write like a second grader.  What sort of software is that?</comment>
+
+<comment>You keep acting like Apple can just open the phoneI am asking you how they can do that</comment>
+
+<comment>"On the iPhone 5C, the passcode delay and device erasure are implemented in software and Apple can add support for peripheral devices that facilitate PIN code entry"etc</comment>
+
+<comment>This is false for this model. Read the link provided by wiredog."On the iPhone 5C, the passcode delay and device erasure are implemented in software and Apple can add support for peripheral devices that facilitate PIN code entry. In order to limit the risk of abuse, Apple can lock the customized version of iOS to only work on the specific recovered iPhone and perform all recovery on their own, without sharing the firmware image with the FBI."http://blog.trailofbits.com/20...</comment>
+
+<comment>The fact that the order the magistrate issued is a verbatim copy of the proposed order the FBI submitted is pretty telling.</comment>
+
+<comment>Actually, magistrates and judges do that all the time.  They ask the parties to submit proposed orders and if they like it then that is what goes out under the judges name.</comment>
+
+<comment>'The FBI may be targeting the iPhone of the San Bernardino shooter, but its actions imperil us all.'The actions of people like the San Bernardino shooters imperil us all too. The problem is, how do we enable law enforcement to protect us from terrorists while maintaining our own freedoms and privacy at the same time?</comment>
+
+<comment>40 years ago the idea of a phone that could not be accessed by the authorities was science fiction.  There is NO WAY we are ever going to allow a communication device that is impenetrable.  Those advocating this are not defending the US Constitution in any way, shape, or form. They are certainly not defending freedom of any kind. They are defending terrorism, anarchy, or both. Are we more free now that terrorists have the upper hand?  Think about it.</comment>
+
+<comment>I have thought about it, and it scares the living daylights out of me. But then so does the prospect of Orwell's '1984'.</comment>
+
+<comment>It's not about wiretapping.  It's about content.  40 years ago the government wasn't allowed to come into your house and root around at will, were they?  They didn't force you to keep a door unlocked so they could get in, did they?</comment>
+
+<comment>no they don't</comment>
+
+<comment>No who doesn't what?</comment>
+
+<comment>Terrorists like that do not pose any kind of large scale threat</comment>
+
+<comment>I suspect that you would get a different perspective from those nearby and living in San Bernardino.</comment>
+
+<comment>I live in NYC buddy.  Lived here on 9/11Don't lecture me about if i should be afraid or not.</comment>
+
+<comment>It's a free country, I can post comments if I want to. Freedom of speech still exists in this country whether you like it or not.</comment>
+
+<comment>So is Apple free not to create code, i.e., speech?</comment>
+
+<comment>And what will you be saying when all these compromised encryption systems are in place so the NSA and FBI can hack them and then find out that Russian hackers have been penetrating our most vital systems through the same backdoors? Going to feel safer then?</comment>
+
+<comment>I suspect that these things are already happening.</comment>
+
+<comment>I agree. The problem is we aren't hearing enough that backdoors while undoubtedly helpful short term to law enforcement are two edged swords.</comment>
+
+<comment>Guns are two edged swords too, as I suppose are some swords.The problem still exists on how to enable law enforcement to protect us while preserving our freedom and privacy, though.</comment>
+
+<comment>The potential damage that compromised system hacks can do in cyber warfare has no comparison to guns. Weakening encryption standards for any reason is a disastrous idea.</comment>
+
+<comment>You apparently aren't aware of how much damage and injury guns can do. We're under threat from a large array of possible attacks, both cyber and kinetic. Weakening law enforcement protection isn't a good idea either.</comment>
+
+<comment>With respect, gun incidents are specks of sand compared to a Hiroshima.</comment>
+
+<comment>Ironically, we are not allowed to impact citizen's ability to unfettered access to gun, but jeopardizing phone data security you are okay with. BTW, guns are a straw man in this conversation.</comment>
+
+<comment>See also Jupiter switches and the Sony hack.</comment>
+
+<comment>If there is no backdoor it keeps others from using it, that is the point. If there was a backdoor the FBI would have already hacked the phone and would not be asking for help.</comment>
+
+<comment>The FBI could be asking for help even if the NSA or Russian hackers have made their own back door, and aren't sharing it with the FBI.</comment>
+
+<comment>There is no back doorany that might exist would've been discovered b hackers already</comment>
+
+<comment>See, here is the thing, the coder makes a back door. So to get to the code and change it you have to get through the secure front door which is tough to do undetected. There really isn't a means to stand outside an blow a hole in the wall.</comment>
+
+<comment>Already happened.  Bad security is a huge liability for US companies.</comment>
+
+<comment>There is no total protection from "terrorism" ... anymore than there is protection from "crime".</comment>
+
+<comment>True.</comment>
+
+<comment>Every back door is a security vulnerability. This is the technology equivalent to a law of physics, not some technical problem we haven’t solved yet. (Read the whole article.  Lots of good stuff).For the intersection of this issue with the Error 53 issue read the "Secure Enclave" section of Apple can comply with the FBI court order.  (Technically can, not morally can).</comment>
+
+<comment>Everyone should read the second link. It explains what is being asked. Rather than blow up the request to everything that can be imagined in stating your fears and hopes, focus on the actual facts. As I see it, the weakness in the request is that the software if provided could be modified to ignore the limitation to a specific phone. This is an issue that could be addressed.</comment>
+
+<comment>Are we more free now that terrorists have the upper hand?  Think about it.</comment>
+
+<comment>Only a clueless cowardly imbecile would assert that "terrorists" have the upper hand.</comment>
+
+<comment>Terrorists apparently had the upper hand on 9/11, and at San Bernardino.</comment>
+
+<comment>And White U$ Born Christian Criminals have the upper hand every day in the U$A, committing MILLIONS of CRIMES every year.</comment>
+
+<comment>And I expect that the FBI would like to be able to get into their cell phones to protect us from their attacks too.</comment>
+
+<comment>So MILLIONS of Americans.Perhaps cowardly citizens should allow government access to ALL personal communications, since you never know when a previously "honest" citizen will break bad and go on a crime spree.</comment>
+
+<comment>Really?  Do you never fly the friendly skies?  Did you know that across Europe many New Year's Eve celebrations were cancelled last year?</comment>
+
+<comment>Tissue, crybaby coward?</comment>
+
+<comment>You seem to like totalitarianism.</comment>
+
+<comment>You seem like a pisspant coward afraid of his own shadow.</comment>
+
+<comment>You remind me of the guy in 1984 who tortured poor Winston.</comment>
+
+<comment>You sound like chicken little</comment>
+
+<comment>It says you are a verified Donkey.  I agree. You are a verified azz.</comment>
+
+<comment>Stay scared, it's your best skill.</comment>
+
+<comment>Says the guy who wants to give the government access to anyone's phone.</comment>
+
+<comment>Big Brother, is that you?</comment>
+
+<comment>Those who would give up essential Liberty, to purchase a little temporary Safety, deserve neither Liberty nor Safety.-Ben Franklin</comment>
+
+<comment>I did not know that Ben Franklin owned an impenetrable smartphone made by Apple.</comment>
+
+<comment>I wouldn't go down that route, Iggy, as Ben didn't know about Glocks either.</comment>
+
+<comment>I like how the New York Times put it: "After revelations by the former National Security Agency contractor Edward J. Snowden in 2013 that the government both cozied up to certain tech companies and hacked into others to gain access to private data on an enormous scale, tech giants began to recognize the United States government as a hostile actor."In other words, self-inflicted by the overreaching intelligence community who assumed the world would accept their boundless intrusiveness carte blanche as if they are the only government actor on the planet.</comment>
+
+<comment>This is the perfect test case for law enforcement because people are so -- understandably -- worked up over these shootings. Anyone who believes this is really just about this one phone is incredibly naive. I hope Apple stands strong and wins or our devices will never be secure again.New York Bill Aims to Ban Encrypted PhonesLaw enforcement officials including FBI Director James Comey have criticized Google and Apple for pledging that they would no longer hold the keys for encrypted products, limiting their ability to share a user’s data at the request of the government. http://www.usnews.com/news/art...Preserve Privacy -- Stop NY from banning strong phone encryptionhttp://petitions.moveon.org/si...</comment>
+
+<comment>and its stupid because having a way to crack this phone will give them nothing that would've stopped these peopleand its highly unlikely that phone contains something the person's internet accounts and computer did notand EVEN IF IT DID erasing such data is trivially easy.</comment>
+
+<comment>Apple won't give anybody the key to Pandorra's box.A key, that doesn't even exist yet.It's goodbye Iphone (and 'goodbye Apple' following up) if Americans and the rest of the world realised their top of the line Iphone was compromised from being the best secured personal device on the planet, to a device as safe as a wire tap.People who buy an Apple product pay (dearly) for certain specs, and the high (top) level of security of it's devices is one of the icons of the Apple concern.I think there are a lot of people who now see the proof the Iphone is really inpenitrable.The FBI spend 2 months trying to crack a 5C, and they just can't...talk about free marketing  publicity in a real live test situation...Expect the Iphone to get a good sales bump after this.Not that I care about Apple sales: I care about no government *and no one else for that matter* being able to crack my personal stuff.</comment>
+
+<comment>No one seems to be discussing the fact that while getting into the iPhone data is a good shortcut to their investigation, it is certainly not the only investigative tool available to law enforcement for getting the information they need.</comment>
+
+<comment>I think they're using this to establish precedent as much as help with their actual investigation. They have been all over Apple's case a lot lately on their new more hard line stance about data security.</comment>
+
+<comment>Absolutely!</comment>
+
+<comment>I haven't decided where I stand pragmatically, but I don't see the bright lines the author points to.  Perhaps it is without precedent to conscript the labor of Apple engineers, but an alternative to achieve the same end is to subpoena all the Apple source code, and hire their own team of engineers to perform the necessary hacks.  That would require a great deal of time and expense but would give the FBI a lot more flexibility going forward.Rather than block our government from obtaining these powers, I think we need to focus on why they cannot be trusted with them, and work on fixing that.  The utility of an iPhone arises from and continues to depend upon a mass effort of society working in orderly cooperation.  If you want to participate in any collective effort, you need to sacrifice some personal freedoms.  If you value your freedoms more highly, you can go off the grid.</comment>
+
+<comment>Or the FBI could simply contact Israel's Mossad or Russia's KGB to get the job done.</comment>
+
+<comment>The bright line everyone who knows about cybersecurity points to is either a device is secure from everyone or it is secure from no one.  Even the former NSA director says what the FBI wants is a bad idea: "On Tuesday, the ex-NSA director weighed into the encryption debate. He broke away from the view carried by law enforcement. He instead sided with most academics who study this subject. "There's a consensus on this among mathematicians and cybersecurity experts. Encrypting data protects everything. It raises a wall that keeps out everyone. Forcing companies to keep an extra set of keys to unlock customer data makes them a target for foreign spies and criminal hackers too."http://money.cnn.com/2016/01/1...</comment>
+
+<comment>If that bright line exists, then there is no issue.  If Apple is capable of complying with the FBI request then, by your logic, the device is not secure anyway, so helping the FBI does not make it any less secure.  If the device is in fact secure, then Apple would not be capable of complying and should simply say that.  Then we can argue about whether they should be required to make future versions of the OS insecure.If Apple had cause to believe a competitor was infringing on their intellectual property rights, they would expect the courts to compel the other party to reveal whatever information is necessary to make their case.  The iPhone would not exist without such concepts of ownership and law enforcement.  If you don't believe in those laws, you are free not to use an iPhone.</comment>
+
+<comment>Everything is a balance and in this balancing equation I'll take the opinion of tech experts who actually know what it all means in detail and the implications of it. Even the former NSA director says the FBI is wrong on this. America is better served with strong encryption protections than without them, even if it makes it a little harder for law enforcement.http://money.cnn.com/2016/01/1...</comment>
+
+<comment>Except that article is about a different issue, whether companies should be required to build a backdoor that would allow law enforcement to eavesdrop on communications while the phones are still in use.  That is quite different than being able to pry into a phone they have in their possession.   Law enforcement has had this kind of ability for decades, and it is only in the last few years that technology advances have closed it off.  Do you know of any case where civil liberties were abused as a result of law enforcement analyzing someone's phone?  In the case of wiretapping, we know there have been many abuses, so the case against a general backdoor is much stronger.Most of us keep a good deal of private information as well as valuable property in our homes.  Yet, these homes can be easily broken into.  The reason we feel relatively secure is they cannot generally be broken into easily without other people becoming aware of it.  That is what we must demand of law enforcement getting into people's phones.  There needs to be a rock solid oversight process that cannot easily be compromised.</comment>
+
+<comment>It is not different. This precedent-setting case would be the first step towards that. And they are using this hot-button case to get popular sympathy for the intrusions the public would not otherwise approve of.</comment>
+
+<comment>It is a step toward that, but we still have a choice on whether to take further steps.  Personally, I am okay with going further.  Despite the documented abuses of wire-tapping, I think it has been a net positive for our society.</comment>
+
+<comment>I'm not. Not for my government, not for all the other governments in the world, and certainly not for all the cyber criminals just waiting their chance.</comment>
+
+<comment>There is a BIG difference between the very people who created the secure encryption being forced to break it, and outside hackers trying to do it. Their point is once broken by the creators of it, there is no keeping it safe.</comment>
+
+<comment>Not really.  Either they have the ability to get into these phones or they do not.  Getting into that one does not make it any easier for anyone else to get into any other phone, except in so much as a legal precedent is set that will make the legal proceeding quicker in the future.</comment>
+
+<comment>And you are an encryption specialist I take it?</comment>
+
+<comment>Relatively speaking, yes.  It is not my 100% focus, but I write software, for iPhones lately, that uses encryption.  Shortly after 9/11 I had the FBI show up unexpectedly wanting to know what my eavesdropping capabilities were.  A European government had evidence that people were using my software for "terrorist plotting."  As it turned out, all of the communication was peer-to-peer so I had no ability to help them, except I could tell them what IP addresses were communicating with what others (which they turned out to never ask for).  In any case, I would have been happy to cooperate in any way I could, whether they were after "terrorists" or financial malfeasance on Wall Street.</comment>
+
+<comment>What about dissidents in China or Egypt?</comment>
+
+<comment>With the increasing availability of explosive, chemical, biological and radiological weapons, I have become a fan of law and order.   We don't need to be in the business of tearing down foreign governments.  The bad ones will fail in time, as we saw with the Soviet Union.  We need to encourage the public flow of information, rather than enable secret plotting.</comment>
+
+<comment>You are certainly entitled to your opinion, but I wholeheartedly disagree with it.</comment>
+
+<comment>Blackberry's global user base halved after it opened up it's encryption for the Indian government.  Samsung will be celebrating if Apple comply.</comment>
+
+<comment>Any idea what is in Sansung firmware? I don't.</comment>
+
+<comment>You may want to buy a Blackphone then.</comment>
+
+<comment>In my opinion such options make the issue framed in absolutes specious.The most likely route of access to standard phone with or without backdoors would be through trojans.</comment>
+
+<comment>We could just pass a law.  Heck, the president could just issue an executive order.  I wonder,  would cell phone producers refuse to sell phones in the USA???  LOL</comment>
+
+<comment>The most important aspect of this isn't even mentioned in the article: all of the US's technology companies will go belly up in a year if they have a backdoor. Forcing Apple's software developers is begging them to pick up and move to another country that won't do that. Please believe that these people have literally nothing but options - they are the solid gold of this era, and I would prefer they stay in my country.Imagine draining our economy of trillions of dollars and tens of thousands of the most brilliant technologists in the world. You want a surefire way to defeat the US? Destroy our tech sector.</comment>
+
+<comment>You and I have no idea whether there is a backdoor in firmware now.</comment>
+
+<comment>That's true. What I'm saying is that if it's ever revealed that the US Government forces technology firms to install those back doors, our economy and our society will crumble into dust for a century.</comment>
+
+<comment>I really disagree. Every operating system has security updates pretty much all the time. Many allow back doors if exploited.People haven't stopped using computing equipment. The economy hasn't crumbled to dust. People take risks all the time.A hospital just paid to have ransom ware removed.</comment>
+
+<comment>If you have any apps on your phone--any os==then you have no way of knowing if your device is secure.For example, did you set the time and date? Ever check the weather? Etc.Here is an example of a security oriented android os which is open source:https://copperhead.co/android/"CopperheadOS currently runs on the Nexus 5, Nexus 9 and Nexus 5X. Support for the Nexus 6 and Nexus 6P is planned. It will not support devices outside of the Nexus line. "Hardware trojan back doors are not excluded.https://en.wikipedia.org/wiki/...</comment>
+
+<comment>Android is not Apple. Apple controls what apps on its products can do. If the iPhone were not secure, the FBI would not be making this demand,</comment>
+
+<comment>"Apple's signing key gives the company wide power over the software-levelprotections built in to iOS. The FBI knows this, and that is why it's demanding the company's assistance.""Apple already performs lock screen bypasses on devices running old versions of iOS;law enforcement sends the device to Apple, Apple does the data extraction using tools the company has explicitly created to perform theextraction, and law enforcement receives a FireWire or USB drive with the data. Apple's custom tools never leave Cupertino."http://arstechnica.com/apple/2...</comment>
+
+<comment>Exactly, "using tools the company already has." The FBI is asking that they create something they do not have and does not want to create.</comment>
+
+<comment>Apple already has the software for some models, and very likely for the particular model that is the subject of this request.When software is developed, it doesn't use the lockdown feature during testing for obvious reasons. They are being asked for a custom bootloader program such as are used in moded firmware for android and other phones. The request is not a request to decrypt a phone with hard encryption.There is an offer to do the job in three weeks free of charge by the anti-virus guy McAfee. If he does it it really will be in the wild and not limited to a single phone.</comment>
+
+<comment>Don't believe for one moment this about this one phone. It isn't. The FBI has been on a crusade against secure encryption and this case gives them the perfect wedge to get to where they want to go by setting a dangerous precedent.</comment>
+
+<comment>PS: That makes me not trust McAfee</comment>
+
+<comment>"Helping out the FBI seems like an odd move for McAfee, who’s been outspoken about the government’s antiquated attitudes toward security and privacy (and tech in general). So why would he offer to help them break into Syed Farook’s iPhone? Because it’s better than the alternative."McAfee totally agrees with statements Tim Cook made in his open letter. It’s a tool that’s too dangerous to exist, and forcing Apple to produce it will have serious repercussions. A compromised version of iOS puts everyone who owns an iOS device — the good guys as well as the bad — in immediate danger."http://www.geek.com/news/john-...</comment>
+
+<comment>You don't know what they have. The lock screen bypass is one set of software the data extraction is another. In this instance the FBI is asking for the lock screen bypass to do the extraction itself.</comment>
+
+<comment>So are saying Apple is lying and they don't have to write new code?</comment>
+
+<comment>Apple's idiotic resistance is just window dressing for morons.  They are going to lose the case.  Tim Cook should be arrested for obstruction of justice in a terrorism investigation and for being obtuse.  The iPhone is both a radio transmitter and a receiver.  The federal government literally owns the frequency bands the iPhone operates on.  Anyone ever heard of the FCC?</comment>
+
+<comment>Stop using "morons" to characterise people you disagree with.</comment>
+
+<comment>That is a ridiculous reason for destroying the security of mobile devices.</comment>
+
+<comment>Okay, so if these phones are bricked after someone enters the wrong password 10 times, what's stopping people from just doing that to the phones of people they hate?  </comment>
+
+<comment>You can take the brick to the Apple store where they will reset to factory and reinstall an image from the cloud, assuming you have cloud backup enabled, which almost every one does.</comment>
+
+<comment>And the government can subpoena cloud back-up data, and Apple has and does comply with those subpoenas.</comment>
+
+<comment>And that data can be scrambled & password protected with an arbitrarally long password, that will take a large part of forever to brute force open.</comment>
+
+<comment>Or a personal backup on your own harddrive.Which can be scrambled with an arbitraraly large password using itunes that even poweful computer working password combinations by brute force it would take longer than a human lifetime to unlock if you are sneaky about your password.</comment>
+
+<comment>That would be the safest way to do it. You keep the image and have it iTunes protected. At that point, if you're really worried, you could further encrypt that image with a file encryption utility. Gnupg defaults to a 2048 bit key and can generate a key as large as 4096 bits (for RSA).</comment>
+
+<comment>They're actually not bricked. They are completely wiped clean, all the data deleted.</comment>
+
+<comment>Ah yes, the old "Shit, you mean you didn't back up your phone?"</comment>
+
+<comment>Physical possession of the phone.  If they can take your phone, they can destroy your phone anyway.This prevents them from getting your data too.  If a malicious person does this then gives the phone back, you can get the phone reset, and reinstall your data from a backup.If you do not want sweet old uncle sugar reading all your data, store your back-up data on a hard drive using a nasty evil pgp type encryption software with a brutal take no prisoners 20+ character password with numbers, off the wall symbols, and both upper and lower case characters.A cray supercomputer can indeed break your password, probably well before the sun turns red giant, but probably long after you, or the federal officers working the case will be alive to give a tinker's darn.</comment>
+
+<comment>I'm generally opposed to the government's plan, but the analogy of coercion here is ridiculous.  Individuals are compelled by the government all the time to do things they don't want to do - to testify under subpoena, provide passwords to their electronic devices, and change their products' designs to comply with intellectual property agreements, among many others.Objection to the idea of security backdoors or to the government being able to execute such warrants is fine, but let's not confuse the issue by creating an entirely novel new principle around it.</comment>
+
+<comment>I disagree. None of your examples reach the same level as what the FBI is asking. Your closest example, making product designs comply with intellectual agreements, basically means making them follow the law because being designed differently would be breaking the law. It is not the same as making them work for the government in its investigations to create something for them that does not currently exist and that they do not believe should exist.</comment>
+
+<comment>The latter example is literally identical.  If someone is found to have infringed a software patent, they are compelled to either pay royalties or - as is the case here - modify their product.  Whether they agree intellectually with IP law is irrelevant.If you'd like a few others, purely off the top of my head, I could also cite labor laws that compel citizens back to work following union actions (including but not limited to air traffic controllers), draft registration (where people are compelled to sign up for military service and potentially even die for their country), or the current controversy over whether religious pharmacists can be compelled to sell contraception (causing them to act where they have moral convictions against doing so).Frankly, nobody except anarchists believes that the government can't compel private citizens to action when circumstances warrant it (including Libertarians).  So what is really being discussed here is what circumstances are considered "warranted," which is a valid but certainly not a novel question.</comment>
+
+<comment>None of your examples are in service of the government itself. That is the difference.</comment>
+
+<comment>How are you defining "in service of the government"?  I would assume you mean serving a government interest, but obviously military service, intellectual property protection, and trade and religious liberties are all government interests.</comment>
+
+<comment>All your examples involve third parties in which the government is the arbiter and enforcer of the law. In this case, the government is the one wanting the action taken; it is the one who investigation is being helped. There is no third party making this request. And granting the request gives the government a lot more direct power over all of us.</comment>
+
+<comment>The draft doesn't involve a third party.</comment>
+
+<comment>That's a better example of a precedent.</comment>
+
+<comment>Thanks... I agree.  That's why I provided it six messages earlier - I think you missed it. =)</comment>
+
+<comment>I did miss it, sorry. Of course, the draft is an extraordinary power for times of war. If this is granted under those powers, that means we really are in endless war on terror and that is very bad news for civil rights and privacy of all kinds.</comment>
+
+<comment>An example of a bad precident that should not be allowed. That should be ruled as violation of the 13th amendment.</comment>
+
+<comment>To answer the perhaps inevitable rebuttal, yes indeed conscription of a jury should also be unlawful.The issue of needing a jury can be delt with as follows, a tax law that states that a person is given a choice of paying a moderatly high tax, perhaps equal to a median american's salery for 2 weeks, or they can sign a contract for jury duty prior to the case being selected. Those that sign the contract get paid for jury duty out of income from the tax.The tax is imposed randomly as jury summons are, the prospective juror gets a summons in the mail and may pay, or sign the contract.  Payment can be by any normal means, cash, check, credit card.  You might also consider legislation to require an employer to not fire an employee for jury duty, and pay a large fraction of the tax if he cannot afford the employee to be missing.Bottom line, no BS excuses.  Conscription should be absolutly illegal.  </comment>
+
+<comment>Jury duty is a civic duty, not involuntary servitude. The same as voting and being a constructive member of the community. While some States may have legislated jury duty, it is based upon common law.</comment>
+
+<comment>Pretending that jury  duty does not fit the letter of the 13th amendment, and yammering about civic duty is evasion of the issue, not a rational argument.</comment>
+
+<comment>You are forgetting causality.  The governmeny is ordering the creation of software that does not exist.  If I have a software patent or copyright and seek to enforce it against another, the software already exists and is property, so any issue of compelling labor is now in the past tense.If the labor was compelled, then a crime was committed, if not then no.  The issue over a software patent or copyright is who lawfully owns the ip that is that software, not whether labor is compelled as this is after the fact of the labor of writing the software.Your asinine assertion that only anarchists believe that NO-ONE, government, corporation, or private individual can lawfully compel labor other than as punishment for conviction of a crime is in direct contradiction of the history of the American Civil War.Forced labor is unlawful.</comment>
+
+<comment>Someone with your reasoning skills should be careful throwing around the word "asinine" so freely.  I in no way, shape, or form asserted that no one can compel labor other than as punishment.  You made those words up out of whole cloth.What I said is that no one besides anarchists believe the government can't act in a coercive way under certain circumstances.  They simply differ in what circumstances they believe the government can act.  (Note that the government can coerce people into paying taxes, for example, or joining the military.)You are highly unresponsive to all of the examples I provided that directly contradict your point.</comment>
+
+<comment>I make a good living on my reasoning skills thank you very much.Some of your examples were not of coerced labor, at least not within a conventional meaning of the term.  Almost no one professionally "testifies" to make a living, so being compelled to testify as to facts you were a witness to is not the same as being forced to work on a job you do not wish to.  Apple has not refused to provide information they have.The striking air traffic controllers were never compelled to work, they were given a choice of being fired or returning to work, that is not compulsory. Compulsory labor is a the use of threats of personal violence or imprisonment to cause a person to do work they would not otherwise choose to do.That is not at all the same as refusal to provide testimony. Same issue with various wartime and later shutdown of union strikes.  No one was forced to work, they were forced to stop disrupting work.Acting in a coercive manner under some circumstances, is not the same as forced labor.   Compelling someone to pay lawful taxes owed by law is not forcing labor. Military conscription is a violation of the 13th amendment and should be ruled so, that SCOTUS has not yet ruled so is a crying shame.  The same applies to jury duty.That someone has been getting away with breaking the law is not a valid excuse to break the law.</comment>
+
+<comment>Your definition of "compulsory labor" seems to have been painstakingly constructed to exclude basically every form of compulsory labor that doesn't involve someone's typical 9 - 5 job.  I would argue the dictionary definition includes any time someone is compelled to do something against their will.  But even with your definition, it doesn't really help your argument:- Apple employees have precisely the same choice that air traffic controllers have.  They may choose to resign (or be fired) or to comply with the court order.  If they choose to resign, the government will not march them back into their offices and chain them to their computers: the court order applies to Apple as a company, not specific individuals.- Please see the other example above regarding telecom employees who are ordered to comply with police warrants for customer data.  Even with your definition, that fits as "compulsory labor."  Other examples might be environmental regulation that compels companies and their employees to comply with clean air or water laws, that force businesses to comply with the ADA by installing various accommodations, etc.  I make no value judgment as to whether this is "good" or "bad", but it is nevertheless the way things work right now.Finally, you can choose to hold whatever views you wish to regarding the Constitutionality of military drafts, but your view is a fringe one.  It has been litigated many times, and never won.  But you can't simply define "against the law" as "things you don't like," or this entire argument is pointless.</comment>
+
+<comment>Does the corporate person Apple have the right to decline the labor, and forfit the pay offered by the US Government?  No says you?Then I as an Apple stockholder object, I may even have standing to appeal.  Tim Cook as CEO says Apple objects and refuses, I agree for both moral and business reasons.  I suspect most Apple stockholders do.  I think Tim Cook would easily get a vote of confidence on this issue from Apple stockholders.I support Cook's decision and would support large scale civil disobediance to get the point across, that chaining the doors, standing in front, firing any employee who cooperated.Perhaps large scale demonstrations at federal court houses and  FBI offices.No means no.  This is about law enforcement putting their doughnut eating, over stuffed pension demanding, lazy no work ethic, convenience over the rights of the people.  It is disgusting and needs to be slapped down hard.The 13th amendment does not say it only applys to non-corporate persons FYI.</comment>
+
+<comment>I could also cite labor laws that compel citizens back to work following union actions (including but not limited to air traffic controllers), draft registration (where people are compelled to sign up for military service and potentially even die for their country), or the current controversy over whether religious pharmacists can be compelled to sell contraception (causing them to act where they have moral convictions against doing so).1) Unions may be forced back to work, not the workers. The employees may quit en mass but then wouldn't have any jobs to go to. That is how Reagan fired the air traffic controllers.2)The Constitution allows for the recruitment of military. Art. I, Sec. 8, Cl. 123) No one is forcing anyone to dispense birth control. The Constitution (XIV) requires that everyone is equal under the law. Denying women access to a legal product is a greater right than the voluntary profession of working in a pharmacy. (see the Civil Rights Act of 1965) Being a Pharmacist is optional, being born a women isn't. Drugs don't have morals.</comment>
+
+<comment>1.  The union point is an interesting one.  However, I don't think it's substantively different.  The government isn't ordering workers back to work in this case either, it's ordering Apple employees.  The engineers could quit here as well to avoid complying with the order, or go to jail.  In both the Apple and union examples, the government is still acting in a coercive way.   (Similarly, being an Apple engineer is just as optional as being a pharmacist; we are back to a discussion of whether this is a good idea, not whether the situations are different.)2.  You're confusing a normative argument about whether the government *should* be allowed to do this with a legal one about whether the government is permitted or prohibited from doing so.  Ironically, the legal argument is by far the weaker of the two, as the case law seems highly ambiguous; see, for example, Orin Kerr's discussions here: https://www.washingtonpost.com...3.  Perhaps another analogy will be helpful.  Consider a criminal case where the police department obtains a warrant for a defendant's cell phone, which has had its text messages erased.  The department can, wholly without controversy, obtain an order for the telephone company to retrieve these records and furnish them to the police.  The government is compelling the telephone company's employees to work in the same way that it is compelling Apple's employees to work, and the former probably need to write queries as well.  The only difference is that in Apple's case, you're looking at software engineers instead of the telephone company's IT department.There are no due process questions in Apple's case; the government has obtained authorization to take this action.  The only real differentiation here is if you believe software development belongs in a different category of work for some reason.I am just as concerned as many of the commenters here about what Apple is being ordered to do.  I am simply unwilling to create an arbitrary new rationale - "people shouldn't be forced to write software against their will" - to justify my concern.  Instead, I believe this is unjustified because the information the government will obtain is not material enough to outweigh the costs of the coercion.</comment>
+
+<comment>1) The union argument is the true one. It is always the union that is ordered back to work by either a judge or the National Labor Relations Board.2) If you have an argument then present it. That though is why the Military Draft is legal, even with the XIIIth Amendment. See https://supreme.justia.com/cas...and https://en.wikipedia.org/wiki/...3) Phone companies are required to submit phone records on demand to police. These records are the same records that the phone company retains for billing purposes.If the phone is in the hands of the phone company then they may demand the phone with a warrant. If the phone is in the hands of the police then the police may open it. The phone company is not required to open the phone for the police.If the police have a warrant for my phone I am not forced to give them the password.  Nor am I forced to share the password of any phone I happen to know the password to.</comment>
+
+<comment>Oh nonsense.  This is over the top coersion of labor.   Neither Apple, nor the individual Apple software engineers have been covicted of any sort of crime.  The only lawful  way to compel labor in the USA is after a person has been convicted of a preexisting crime for which said labor is a lawful punishment.This court order on it's face violates the 13th anendment.  It requires involintary servitude of human beings.My take the judge and FBI lawyers that asked for this should be charged with violation of civil rights under color of law.</comment>
+
+<comment>If the FBI told body armor manufacturers that FBI bullets must be able to pass through their armor, would that be OK?</comment>
+
+<comment>Eminent domain?  Isn't this prospective taking of intellectual property a violation of the Fifth Amendment?  Justice Scalia died too soon.</comment>
+
+<comment>Ex-NSA boss says FBI director is wrong on encryption On Tuesday, the ex-NSA director weighed into the encryption debate. He broke away from the view carried by law enforcement. He instead sided with most academics who study this subject. There's a consensus on this among mathematicians and cybersecurity experts. Encrypting data protects everything. It raises a wall that keeps out everyone. Forcing companies to keep an extra set of keys to unlock customer data makes them a target for foreign spies and criminal hackers too. "I know encryption represents a particular challenge for the FBI," Hayden said. "But on balance, I actually think it creates greater security for the American nation than the alternative: a backdoor." http://money.cnn.com/2016/01/1...</comment>
+
+<comment>If the FBI forces Apple to do this, every government will come knocking on Apple's door to give them the back door too and from there it is pretty fast that it gets out and crime syndicates get it too. No more security for anyone, anywhere.</comment>
+
+<comment>Crime syndicates use trojans and stolen passwords.</comment>
+
+<comment>What are you talking about? The government's not going to have a copy of this software. That's just a crazy conspiracy theory that has taken root.</comment>
+
+<comment>As I said, that is explicitly what the court ordered.  The BS about limiting the software to one phone is smoke and mirrors.  No way to effectivly do that.Any piece of software so provided can be easily hacked to open any phone you know the id of. </comment>
+
+<comment>Either the software will exist, so other government agencies might use it, or Apple can again be ordered to write the code to break another phone. Either way, once Apple complies, the genie is out of the bottle.</comment>
+
+<comment>Why not have Apple personally pull all the data from just that one mobile for the Feds, rather than grant any sort of master key access</comment>
+
+<comment>Because like anyone else they need the password.  You need to pay attention, the issue is that the phone software is set to erase the phone once the wrong password is entered 10 times.A brute force way to guess someone's password is to enter guess after guess and keep track of all the guesses, eventually you run out of possible passwords.   This is especially true of the older iphone in this case that used only numbers and 4 of them 10,000 possible combinations, but if the phone self erases after 10 tries, you have one chance in 1000 of being right one of the 10 times.So they want apple to write a hack that turns off the erase after 10 trys thing.</comment>
+
+<comment>The County tried to access the phone already. Apparently, they already used up four of those ten tries.The County owns the phone. Why their administrator pass-code didn't work is unknown. Give the County creds though for asking the FBI to break it when they couldn't.</comment>
+
+<comment>So the perp changed the code, the County trusted the wrong person, it happens, so what?This does not justify abrogating the privacy rights of literally billions of people.Had the perp survived he could not be compelled to testify against himself, nor give the password to the phone, nor tell law enforcement where he hid documents or anything else courtesy of the 5th amendment.What Apple, and other entrepreneurs have done is provide a secure virtual hiding place for documents, and data where not even the vendor can access the hiding place.  No one can without the password.  One might think of the password as a map to a secure hiding place.That is not illegal, never has been.   Apple has not committed a crime.  Most academics and economists agree that the human species is much better off with such secure hiding places.The issue is that law enforcement sees this as an inconvenience to them, and fail to see that they themselves are a major threat to the public.  If you look at academic works on the subject of democide, the average human being in the 20th century was about 10 times more likely to be murdered by their own government than private criminals.We need secure places to keep information out of the hands of government officials.The argument that terrorists who have over the last 20 odd years have at most killed thousands weighs anything next to the 262 million civilians murdered by their own governments (excluding war) in the 20th century is ludicrous.Heck with law enforcement's conveniance.</comment>
+
+<comment>Lets get some things straight, that others in this discussion have been BSing about.Here is a copy of the court order:https://assets.documentcloud.o...In item 3 of the court order the judge orders Apple having written this software to hand it over to the FBI.In my opinion this order is illegal and unconstitutional for boatloads of reasons.   More important is this is awful policy.  This software gets out, and you can bet your last doller that this software will be in posession of authoritarian states all over the world, and criminal gangs, in a proverbial new york second.Put that in your pipe and smoke on it.</comment>
+
+<comment>You are completely and utterly wrong. I encourage every one to read the link you posted. It says the exact opposite of what you claim.The government is asking for access to THIS PHONE, and is not asking for the software to unlock all phones. It is willing to have the phone be unlocked at Apple's property. It is willing to consider other means of getting to the data that Apple would propose.</comment>
+
+<comment>No I am not.  I think perhaps you have never written software and have no clue as to how to write or reverse engineer it.Quoting with my comments interjected inside <comment>Apple's reasonable technical assistance may include, but is not limited to:< not limited to is critical --that means the FBI can expand the scope at whim, that makes this court order a throwaway puff piece to feed to gullible people like you >providing the FBI with a signed iPhone Software file, recovery bundle, or other Software Image File ("SIP"} that can be loaded onto the SUBJECT DEVICE.< here very clearly they REQUIRE Apple to fork over the software>The SIF will load and run from Random Access Memory ("RAM") and will not modify the iOS on the actual phone, the user data partition or system partition on the device's flash memory. The SIF will be coded by Apple with a unique identifier ot the phone so that the SIP would only load and execute on the SUBJECT DEVICE.< this is propaganda,  if you have the compiled software and know the language it was written in, and the identification of the phone, and the phone, and you have some other phones, you can reverse engineer it, even somone incapable of writing the original software>The SIF will be loaded via Device Firmware Upgrade ("DFU") mode, recovery mode, or other applicable mode available to the FBI. Once active on the SUBJECT DEVICE, the SIF will accomplish the three functions specified in paragraph, 2. -- end quoteSpecifically she orders Apple to write the software and deliver the software to the FBI, the identification BS about the phone is a smoke screen, as such a feature in the software must have the ID embedded in the software, that gives the FBI the leverage to either reverse engineer it themselves or get a contractor software engineer to do it.</comment>
+
+<comment>"this is propaganda, if you have the compiled software and know the language it was written in, and the identification of the phone, and the phone, and you have some other phones, you can reverse engineer it, even somone incapable of writing the original software"  um, you can also just as easily reverse engineer the memory running on the phone...</comment>
+
+<comment>Nope.If I know the programming language and specific text strings in the code ( the phone ID) by running the code step by step, you can isolate what part of the code checks the phone id, that leads to being able to see where that code is, and what it looks like encoded.</comment>
+
+<comment>Yes, and my point is so what, they could do the same thing by debugging the phone. look for the value of how many password attempts you have in memory, change it to whatever you want, and keep guessing.  or just have it jump over the check, it's not rocket science.</comment>
+
+<comment>hey fbiuse HARDWARE - an in-circuit emulator</comment>
+
+<comment>How is the US government not competent enough to hack into an iphone, what exactly are we paying for?  Here is hoping we elect Ted Cruz to throw himself onto the gears of the bloat and waste machine we call Washington.</comment>
+
+<comment>How is Cruz going to hack an unbreakable code? Oh wait, if the FBI lays off all the agents then the code will magically open itself.Too bad Raphael Cruz is unqualified to be President. Maybe Prime Minister if anyone in Canada wanted him back.</comment>
+
+<comment>Defund and dismantle the legions of inept government experts and offices who are in fact expert at nothing, serving no purpose but their own self-preservation, and pay security professionals like McAfee to hack it when necessary.</comment>
+
+<comment>The FBI needs to go back to the encryption days of WWII, that of Turing and cracking the Enigma project. A hole in a system is a hole in a system and can be exploited by anyone</comment>
+
+<comment>I agree with Cook when he says that his company should not be conscripted to create something that would endanger the privacy of his customers and betray a promise he felt was implicit it the manufacture of his product.When he brings in the rights of his employees not to create such software however, it is a blatant play for sympathy and he is on ground that is less firm.When Apple, or any company for that matter, sets out to create a new product or a new feature, does it routinely ask its employees how they feel ethically about that product and to allow them to opt out if it makes them uneasy? If an engineer said that he would only work on a new product if Apple promised to make it in the United  States or to assure that anybody working on it overseas were treated more humanely, would Apple accede to his wishes?If Apple agreed as a company to cooperate with the government, but individual employees refused to do the work, could the government force the employees to do it? Could the government force Apple to discipline any employees who refuse? In the end, if Apple chose to cooperate with the government, how would an employee who refused to participate be different than Kim Davis, refusing to issue marriage licenses?If Apple said yes, I could see their customers objecting. Their employees? Not so much.</comment>
+
+<comment>The XIIIth Amendment prohibits "involuntary servitude". If an employee has moral objections to working on any employer's program, they are free to leave or, if the employer agrees, transfer to another project. If the government has conscripted them, as here, they wouldn't have that option.</comment>
+
+<comment>But is it clear the government would be conscripting the individual employee and not merely the corporate entity? Are there examples, other than the military or prison, of the federal government conscripting individuals? If an employee refuses work on moral grounds, is the company permitted to dismiss them?</comment>
+
+<comment>A company is the collection of its people. Thus, we still blame the makers of the poison used in the WWII gas ovens even though they were forced to make the poison.I know of no forced conscription of workers in America since the XIIIth amendment that wasn't also referred to as kidnapping or slavery.Generally, an employee may not refuse work on moral grounds. Who gets to decide what is moral? Because morality is the property of the holder, there is no way a law may be written to reflect or define what is moral.</comment>
+
+<comment>Not sure now if you're describing how the law views things or how the general public views it. As public opinion goes, an engineer who creates a backdoor for a company that has been ordered to do so in Federal Court is not going to be viewed the same way as the maker of poison gas that was used for the mass extinction of millions.If there has been no forced conscription of workers, has there ever been a forced conscription of a company, as the court is attempting to do with Apple?Since an employee may not refuse work on moral grounds (without risking termination) but a company can choose to allow an employee to refuse work they object to, would Apple be outside the law if they asked its engineers to comply with the court order, but permitted them to opt out without penalty based on personal objection.My only point in my comment was that this business is between the court and Apple and Apple could comply while also shielding their employees from "conscripture" if they so choose.</comment>
+
+<comment>Obama was virtually the patron saint of the declining popular trust in government in recent times.  Obama prosecuted more legitimate whistleblowers than any other U.S. President.  Like the Clintons before, Obama put a "for sale" sign on the U.S.,  turning our political system into a quid pro quo arbitrage without modern precedent.  By the end of Reagan's first term, the "Gipper" had attended a mere 4 fundraising events.  By the same milestone in the Obama administration, the Kenyan Sheikh hit up more donors than a whirling dervish at a total of 133 fund raisers attended.  Maybe Reagan was "low energy", or, more likely, Obama has been the most corrupt "bought and paid for" sellout of a President in all of U.S. history.</comment>
+
