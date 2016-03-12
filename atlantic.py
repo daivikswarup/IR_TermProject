@@ -101,6 +101,8 @@ def writetofile():
 			#page = urllib.urlopen(url)
 			#soup = BeautifulSoup(page.read())
 				#print "yo"
+				headline=soup.find('h1',{'class':'hed'})
+        		headline=headline.text
 				storydiv=soup.find('div',{'class':'article-body'})
 				#print storydiv
 				story=""

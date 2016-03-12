@@ -1,0 +1,13 @@
+Format:
+
+
+Headline::::XYZ
+3x Line Breaks
+Date::::XYZ
+3x Line Breaks
+Article text
+3x Line Breaks
+author::::<a href="url">XYZ</a>
+comment::::<div class="com_user_text">XYZ</div>
+3x Line Breaks
+next comment and so on.
