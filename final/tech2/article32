@@ -1,0 +1,365 @@
+Headline::::
+What is WUB? And where is my free Windows 10 upgrade?
+
+
+
+
+DateTime::::2016-03-03T10:09:17+0000
+
+
+
+<p></p>
+
+<p><em>I keep reading about WUB (Windows Update for Business). Will that allow a PC joined to a domain to get the over-the-web upgrade to <a class="u-underline" data-component="auto-linked-tag" data-link-name="auto-linked-tag" href="http://www.theguardian.com/technology/windows-10">Windows 10</a>? </em><strong>Scott</strong></p>
+
+<p>These are two different things, though somewhat related.</p>
+
+<p>When <a class="u-underline" data-component="auto-linked-tag" data-link-name="auto-linked-tag" href="http://www.theguardian.com/technology/microsoft">Microsoft</a> released the free Windows 10 upgrade to consumers, it tried to exclude business users. After all, businesses are usually slow to upgrade because they want to test their software first. Also, system managers (like you) generally don’t want users installing software that the company has not approved.</p>
+
+<p>Of course, it’s not easy to tell a business PC from a home or soho (small office/home office) machine. One of Microsoft’s techniques was to exclude PCs attached to domains. Home and soho PCs are often joined to home networks or workgroups, but very rarely to Active Directory domains.</p>
+
+<p><a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://blogs.technet.com/b/windowsitpro/archive/2016/01/13/making-it-easier-for-small-businesses-to-upgrade-to-windows-10.aspx">That strategy is changing</a>. Last month, Microsoft started to distribute the “Get Windows 10” (gwx.exe) app to PCs that are running licensed copies of Windows 7 Pro or Windows 8.1 Pro, that are joined to an Active Directory domain, and that are receiving updates directly from the Windows Update service. If your PCs meet all three conditions, your free upgrades are on the way.</p>
+
+<p>The new approach still excludes PCs in large organisations where PC updates are installed via <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="https://msdn.microsoft.com/en-us/library/bb332157.aspx">WSUS</a> (Windows Server Update Services) or the <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="https://www.microsoft.com/en-gb/server-cloud/products/system-center-configuration-manager/overview.aspx">System Center Configuration Manager</a>. It also excludes PCs running any version of Windows Enterprise.</p>
+
+<p>Microsoft is likely to take the roll-out slowly, because it wants to avoid problems with business PCs. It will watch the telemetry for early adopters in the US before expanding overseas. However, Microsoft will be under some pressure from its own deadline. It offered free <a class="u-underline" data-component="auto-linked-tag" data-link-name="auto-linked-tag" href="http://www.theguardian.com/technology/windows">Windows</a> 10 upgrades for a year, and there are only five months left.</p>
+
+<p>Most consumer PCs are automatically updated on (or just after) the second Tuesday of each month, which is unofficially known as Patch Tuesday.</p>
+
+<p>However, Windows 10 has changed the way Windows works. Before, Windows Update only installed security patches. New features were only added when a new version of Windows appeared every three years or so. This led to many users falling behind and using obsolete software.</p>
+
+<p> With Windows 10, Windows Update installs both security patches and new features, as determined using <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.zdnet.com/article/windows-10-telemetry-secrets/">anonymised telemetry</a> about the actual behaviour of Windows 10. This is <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="https://technet.microsoft.com/en-us/library/mt574263(v=vs.85).aspx">Windows as a Service</a> maintained from the cloud. It’s also how large websites (Gmail, Facebook etc), smartphones and other devices are maintained.</p>
+
+<p>Ideally, every PC should be running the latest version of Windows 10. Selective blocking is expensive and time-consuming to implement, creates what Microsoft calls “customer-unique quality issues”, fragments the market for developers, and may introduce security risks.</p>
+
+<p>Of course, Microsoft knows that large organisations will still worry about installing new updates. It has therefore created Windows Update for Business, to enable businesses to delay updates without blocking them. The delay increases the amount of testing, and thus reduces the chances that updates will cause problems.</p>
+
+<p>In the old days, Microsoft wrote a version of Windows, held a public beta test, then shipped a final version, usually with DVDs in boxes. Windows 10, by contrast, is continuously updated from the cloud. This means testing has to be continuous as well.</p>
+
+<p>Windows starts with the programmers, who use engineering builds. When they have chosen a stable set of updates, this “canary” build is gradually installed on tens of thousands of PCs inside Microsoft for “internal validation” and bug fixing.</p>
+
+<p>After some days or weeks, the new code is released to Windows Insiders as a preview version (there are millions of Windows Insiders, who get Windows 10 free for testing.) So, code from the Microsoft Rings goes to Windows Insiders on the Fast Ring and then after further debugging, to Windows Insiders on the Slow Ring.</p>
+
+<p>After it has been tested by the Slow Ring, the new Windows 10 code is finally distributed to Windows 10 users via Windows Update.</p>
+
+<p>Since Windows 10 has more than 200 million users, any remaining problems should quickly become apparent (via telemetry). Weeks or months after that, the updates are finally released to businesses via Windows Update for Business.</p>
+
+<p>Windows 10 has two main branches: the Current Branch (CB) and the Current Business Branch (CBB). The Current Branch is the one installed by Windows Update. The Current Business Branch is the one installed by Windows Update for Business.</p>
+
+<p><a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="https://technet.microsoft.com/en-us/library/mt622730%28v=vs.85%29.aspx">Windows Update for Business</a> lets you delay updates (mainly security patches) for up to four weeks, selected in weekly intervals. You can also delay upgrades (mainly feature changes) for up to eight months, selected in monthly intervals.</p>
+
+<p>Alternatively, perhaps businesses could install updates two or three times a year, when significant upgrades appear. The last one, codenamed Threshold 2, was the November update, version 1511. There will be two this year, codenamed Redstone 1 and 2.</p>
+
+<p>These milestone releases are, in effect, clean installations. They will reinstall anything that has been manually removed from the operating system (to be blunt, you’re an idiot if you do this instead of using <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="https://technet.microsoft.com/en-us/library/mt577208%28v=vs.85%29.aspx">MDM and Group Policies</a>.)</p>
+
+<p>Incidentally, by default, Windows Update for Business uses peer-to-peer distribution. It’s a waste of bandwidth to have thousands of PCs downloading the same code from Microsoft. Instead, WUB shares the download across your PC network. This is called “<a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://windows.microsoft.com/en-us/windows-10/windows-update-delivery-optimization-faq">Windows Update Delivery Optimisation</a>” and it can be turned off.</p>
+
+<p>There are a few cases where businesses will want to install a copy of Windows 10 Enterprise that doesn’t change, apart from security fixes. For these “mission critical” cases, Microsoft has a Long Term Servicing Branch (LTSB). This version includes Internet Explorer 11 but not the Edge browser or Cortana digital assistant, which are still being developed. Also, Microsoft has removed numerous apps, including the Windows Store.</p>
+
+<p>Historically, it has been very expensive and extremely painful to roll out big Windows upgrades by re-imaging or replacing PCs every three to five years. IT departments that particularly enjoy expensive and painful experiences – why else are they there? – can try to recreate them by taking out volume licences to Windows Enterprise LTSB.</p>
+
+<p><strong>Have you got another question for Jack? Email it to <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="mailto:Ask.Jack@theguardian.com">Ask.Jack@theguardian.com</a></strong></p>
+
+
+
+
+Author::::MarcoPoloMint
+DateTime::::2016-03-10T02:38:20Z
+You still can. Microsoft allows you to upgrade whenever you want by using the Download Tool - it's pretty great as the tool allows you the choice to install in place, or else to make a bootable USB stick or DVD. Worked for me.
+
+
+
+Author::::roobags
+DateTime::::2016-03-09T20:44:50Z
+WinCrap 10
+
+
+
+Author::::MarcoPoloMint
+DateTime::::2016-03-09T18:28:37Z
+Although I've not had driver or configuration issues with W10, I'm getting tired of the constant updates, so I dual-boot the lappy and have been 'distro-hopping' with Linux. Now's a great time to do this: since December there have been several big updates (Mint, elementaryOS, Fedora, Solus). Debian-based distros are easy to install and have 'live' versions that can be run off USB sticks. Try elementaryOS - it's clean, slick, beautiful, and easy for newbies, as the name would suggest. Yet very configurable (uses the same package manager as Ubuntu). I've been using this for a few weeks now, it looks and functions very similarly to Mac OS X but is faster IMO. Also, Linux Mint is aesthetically comparable to Windows 7 (although needs a kernel update). I'm loving having a fully configurable OS where you can have much more ownership of the software and can tweak to your heart's content. No bloatware, no viruses, no having to reboot every week while 1 of 117 updates need to download and install...
+
+
+
+Author::::MarcoPoloMint
+DateTime::::2016-03-09T18:27:21Z
+Yeah, much as I'd love to recommend local small PC repair and build shops, you know, for the sake of the local economy etc., inevitably there are going to be those that will rip you (and your wife) off. Like car mechanics. Find a good local repair shop based on word of mouth or online recommendations, perhaps?
+
+
+
+Author::::Skalavagr
+DateTime::::2016-03-09T17:53:39Z
+Why bother waiting? If your software isn't compatible now it never will be. What exactly is it, by the way?
+
+
+
+Author::::valdez
+DateTime::::2016-03-09T12:19:41Z
+I'm on Window 8, and bought my laptop just before 10 came out. I'd like to download the system, and upgrade at my leisure, and that option seemed to exist for a short time - now it seems it's upgrade or lose the opportunity. As a previous Vista user, I think I may pass.
+
+
+
+Author::::Vinnyr
+DateTime::::2016-03-09T12:14:54Z
+Really? I upgraded 2 machines (Win 8.1 and Win 7) and they were absolutely fine. Win 10 is not a major leap from Windows 8.1 especially so I would be surprised if there were compatibility problems.
+
+
+
+Author::::DownhamDave
+DateTime::::2016-03-09T00:21:05Z
+Agree updates are a bit of Russian roulette; but as the article says there's multiple stages of testing:developers only (10-100 users perhaps) ; MS-internal only (few thousand users); inner circle Windows insiders (perhaps 100,000 or so users); rest of Windows insiders (a few million users); Joe Public (about 150million users so far); business -- with each step having a period of time for testing to identify and fix problems.
+
+
+
+Author::::DownhamDave
+DateTime::::2016-03-09T00:12:18Z
+By 2020 if your computer is still working, you might start caring that it is no longer supported.
+
+
+
+Author::::Skalavagr
+DateTime::::2016-03-08T19:36:18Z
+Apologies - you're quite right of course about most magazine revenue coming from advertising; newspapers too, of course. But to digress - do any reputable websites use popups in this day and age? I haven't seen one in ages; I believe most browsers block them nowadays.
+
+
+
+Author::::Skalavagr
+DateTime::::2016-03-08T19:33:00Z
+I've used Macs running OS X and its predecessors since 1996 :(
+
+
+
+Author::::compaid
+DateTime::::2016-03-08T11:00:30Z
+Win 10 just gave me 2 weeks of misery and system hangs. Plus most of my software suddenly became non compatable or stopped working properly. Think I will wait about 4 years.
+
+
+
+Author::::HumanLogic
+DateTime::::2016-03-07T09:37:25Z
+Telemetry this, telemetry that - a new fashionable buzzword?In the meantime prepare for M$ ''upgrading'' your OS with loads of junk and telling you that since you have chosen a ''free'' OS they now owe your PC and your data.
+
+
+
+Author::::Baldsparrow
+DateTime::::2016-03-06T18:24:55Z
+Yes, you should, its rather good
+
+
+
+Author::::ReidRailton
+DateTime::::2016-03-06T11:57:19Z
+W10 destroying HD seems like tosh to me. (I have difficulty with a decent hammer.) 
+
+
+
+Author::::JaitcH
+DateTime::::2016-03-06T09:32:17Z
+After a few weeks of fiddling, deleting unwelcome downloads, removing some of the misrepresented patches (MS lies) we are now back to a peaceful life and all the InterNet-connected computers are fine. Mind you, the firewalls are working overtime.
+
+
+
+Author::::JaitcH
+DateTime::::2016-03-06T09:25:19Z
+The Hubble Telescope uses good old, slow but reliable 486 processors.
+
+
+
+Author::::tomreasmith
+DateTime::::2016-03-06T00:01:05Z
+I think you'll find that, yes, most (well, many) magazines do pay their journalists and contributors, but that this money does not come from the cover price. The cover price basically pays for the paper and the printing. The journalists are paid out of advertising. So therefore, if you are blocking the ads, the publisher is still paying the journalists but is not receiving the money from advertisers to pay them. The only payment asked of you is half a second to close a popup, and you are unwilling even to pay that. 
+
+
+
+Author::::roobags
+DateTime::::2016-03-05T15:12:11Z
+Aye, commiserations and ((hugs))
+
+
+
+Author::::JackSchofield
+DateTime::::2016-03-05T11:16:13Z
+@Peter Seymour
+
+
+
+Author::::Diziet7
+DateTime::::2016-03-04T15:00:26Z
+Any fewl no that a wub is "an enormous pig-like creature". 
+
+
+
+Author::::ID423574
+DateTime::::2016-03-04T12:59:46Z
+I got it on one my PC's after the last cumulative update. I used to get it quite regularly before the Fall Update. I solved it by doing a system restore to before the cumulative update. This fixed it, but strangely enough, the system version still showed the same version as before the restore.
+
+
+
+Author::::mukoshi
+DateTime::::2016-03-04T11:18:26Z
+roo and lib: I have no doubt that you are both right. Although that's little consolation.
+
+
+
+Author::::BristolBoy
+DateTime::::2016-03-04T10:24:24Z
+can't be that common, I've never seen it and never heard anyone complain about it.
+
+
+
+Author::::LiberalinCalif
+DateTime::::2016-03-04T05:35:34Z
+Nope.
+
+
+
+Author::::LiberalinCalif
+DateTime::::2016-03-04T05:32:45Z
+Did they tell her it was going to cost a LOT to repair it?
+
+
+
+Author::::LiberalinCalif
+DateTime::::2016-03-04T05:31:11Z
+Overheating of the CPU is the most common cause of a sudden shutdown. Usually due to an obstructed fan exhaust.
+
+
+
+Author::::Willinilli
+DateTime::::2016-03-04T05:20:44Z
+XP when virtualised on another decent operating system still works and remains virus / malware free; unlike many new installs that are connected directly to t'interweb. Think I will go with NASA: at least their telemetry has sometimes worked in the past ;|
+
+
+
+Author::::KenDoddsDadsDogDead
+DateTime::::2016-03-04T01:26:02Z
+Incredible photograph (the soldiers on the plane).
+
+
+
+Author::::JackSchofield
+DateTime::::2016-03-03T21:50:36Z
+@SignedUpToWriteThis
+
+
+
+Author::::Edgewick
+DateTime::::2016-03-03T21:17:15Z
+I have a work notebook running Windows 7. It is attached to a domain at work.
+
+
+
+Author::::baldyman01
+DateTime::::2016-03-03T20:49:07Z
+Umm, generally speaking IT departments exist to please themselves. They have to do a certain unavoidable amount of dealing with users, but they tend to avoid that as much as possible.
+
+
+
+Author::::Peter Seymour
+DateTime::::2016-03-03T20:33:41Z
+Upgrading an OS is never straight forward. Clean builds will always ensure existing issues, corruption and nasties aren't inherited. Therefore reaping the full benefits or at least claims of the OSs capabilities. As soon as I can be arsed I'll wipe my laptop and install 10 using the 7 licence key. For now only new 10 preloads get my support at work.
+
+
+
+Author::::Skalavagr
+DateTime::::2016-03-03T19:39:27Z
+You should try OS X some time :(
+
+
+
+Author::::Josh Graver
+DateTime::::2016-03-03T18:21:51Z
+I had no problem at all. The November update, I did a clean install instead. Asus provides all the necessary Windows 10 64-bit drivers for my Rampage V Extreme.
+
+
+
+Author::::wightpaint
+DateTime::::2016-03-03T18:03:27Z
+Mind relieved, thanks. And by 2020 I might be past caring anyway...
+
+
+
+Author::::Guards
+DateTime::::2016-03-03T17:03:46Z
+Stability is one thing, keeping safe from exploits and the painful inevitability of upgrades to later OS when they proven stable is another. Have NASA learned nothing from these dangers from "Independence Day"? https://www.yahoo.com/movies/independence-day-producer-explains-hacking-scene-104676447332.html
+
+
+
+Author::::neosio
+DateTime::::2016-03-03T16:26:17Z
+Complicated, unnecessary, inefficient. Bit like Windows, well, Microsoft in general.
+
+
+
+Author::::roobags
+DateTime::::2016-03-03T15:18:51Z
+I think they saw her coming...
+
+
+
+Author::::John McCulloch
+DateTime::::2016-03-03T13:49:01Z
+Just like Eddie the Eagle!
+
+
+
+Author::::PicRic
+DateTime::::2016-03-03T13:25:21Z
+I upgraded an older laptop (Lenovo W520) from W7 to W10 a few months ago. The machine is used daily but only to play programmes via BBC iPlayer radio. I wanted to see how W10 performed. It made the PC a bit slower and there were frequent restarts needed - I wasn't sold on the benefits. I read many articles from many sources including Ask Jack about the pros and cons of W10 and decided to wait a while before upgrading my other laptop and desktop.
+
+
+
+Author::::SignedUpToWriteThis
+DateTime::::2016-03-03T13:20:32Z
+If everyday tasks comprise things like using MS Word, Excel and Outlook, using an accounts program like SAP, sending emails and browsing the internet, then Windows XP certainly does handle most everyday tasks absolutely fine. If we're talking about specialised, complex and resource-hungry programs, it would probably struggle (or indeed not be compatible at all), but it can still handle routine, everyday office and personal tasks without difficulty.
+
+
+
+Author::::mukoshi
+DateTime::::2016-03-03T13:19:44Z
+My wife decided to update to W10 on her Lenovo machine. It completely destroyed the hard disk (so I was told in the computer shop). I have advised her to use an older model; sticking rusty pins into a wax model of Wm.Gates.
+
+
+
+Author::::Robthablob
+DateTime::::2016-03-03T13:08:26Z
+Windows XP cannot handle most everyday tasks absolutely fine.
+
+
+
+Author::::Robthablob
+DateTime::::2016-03-03T13:03:25Z
+I must admit I'm a bit horrified by the inline ad shown here...
+
+
+
+Author::::pol098
+DateTime::::2016-03-03T13:00:23Z
+not to advise laggy solutions that prey on business fears of IT change risk
+
+
+
+Author::::JackSchofield
+DateTime::::2016-03-03T12:36:16Z
+@wightpaint
+
+
+
+Author::::stalin son
+DateTime::::2016-03-03T12:20:58Z
+I love the way the latest downloads/installations are called "upgrades".Do not many "upgrades" prove to be less reliable , use more memory and give the user less control over his computer?
+
+
+
+Author::::GambaKufu
+DateTime::::2016-03-03T12:18:38Z
+You can decline Chrome OS updates, you just have to not reboot...
+
+
+
+Author::::LiberalinCalif
+DateTime::::2016-03-03T12:17:59Z
+I look at updates as a modern version of Russian Roulette and always have the corresponding anxiety during the process. Luckily, odds of the loaded chamber is less likely in this version of the game.
+
+
+

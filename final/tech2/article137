@@ -1,0 +1,157 @@
+Headline::::
+Minecraft comes to Oculus Rift – hands-on in the virtual world
+
+
+
+
+DateTime::::2016-03-02T10:00:01+0000
+
+
+
+<p><span class="drop-cap"><span class="drop-cap__inner">I</span></span>t is the sense of scale that hits you. Despite intentionally blocky visuals, the open-world building game <a class="u-underline" data-component="auto-linked-tag" data-link-name="auto-linked-tag" href="http://www.theguardian.com/technology/minecraft">Minecraft</a> has always produced landscapes of great diversity and beauty. To stand on a hillside and see the plains extend out for miles in all directions remains a great pleasure, even four years after its release.</p>
+
+<p>But visiting the game in virtual reality, actually standing among the craggy chasms, being able to look up at the looming mountains, seeing them extend into the sky far above you ... this is a new, rather breathtaking experience. </p>
+
+<p>In September Oculus founder <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.theguardian.com/technology/2016/jan/07/oculus-founder-apologises-to-vr-fans-over-rift-price">Palmer Luckey</a> announced a new version of Minecraft would support his company’s VR headset, the Oculus Rift. The original Java version of the game has been unofficially running on the hardware for over a year thanks to the efforts of the fan community, but the results have been mixed. This one is being co-developed by teams at Mojang (the game’s original developer), Oculus and at Microsoft’s Redmond campus, using the new Windows 10 iteration of the game, which will be the default going forward.</p>
+
+<p>“Just getting it on to the headset seemed hard to begin with, but that was just the start of the challenge,” says Mojang’s Tommaso Checchi. “We got it running in 2014, but then we had to go through and make the game actually work VR. It’s hard to hit a balance where the game is comfortable but still feels perfectly like Minecraft, and you can still play with other people on the same server. VR has one problem – it’s hard to pull off an experience where you can move and rotate freely in a vast open world.”</p>
+
+<p>At the Xbox spring showcase in San Francisco, Microsoft is showing off a demo map, prepared especially to show off the potential of VR Minecraft. The first thing you see when you put on the consumer headset, is a Minecraft-esque room with a large TV screen showing the map you’ve just opened. You can actually sit down and play the game like this – on a 2D virtual display within the VR environment, as though you’re playing it on a normal TV. The development team sees this as a crucial part of the VR ‘on ramp’. “It’s overwhelming at the start,” says Microsoft’s Saxs Persson, who has also been working on the <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.theguardian.com/technology/2015/jun/24/minecraft-hololens-mixed-augmented-reality-microsoft">Hololens version of the game</a>. “That’s why we start it in a living room, with a screen which is showing you Minecraft – because throwing you in there freezes people. This way, you get a chance to situate yourself, and it calms down the sensory systems, otherwise being fully immersed and moving around ... it can be uncomfortable.”</p>
+
+<p>A big part of the conversion process has been learning what works and what really doesn’t in a virtual reality experience. The VR development community is starting to establish a few basic rules, and one of them is that there can be no screen movement that isn’t instigated by the player – it’s a one way trip to nausea. “We’ve done a ton of user testing,” says Persson. “At first we just ported it over and put people in the world, and while it was technically Minecraft it wasn’t a good experience. I lasted about five seconds and then I was sick. It just isn’t made for VR: the controls, and simple things like screen shake when something his you – it throws you off kilter.” </p>
+
+<p>According to Persson, the team went through and systematically tweaked how Minecraft works: “We changed the movement: how you jump and turn, how swimming feels and how hit reactions affect the screen. And we had to change the way boats and mine carts worked too.”</p>
+
+<p>Some problems have been less expected though. “One thing we found out recently is that dimly lit caves can make you sick,” says Checchi. “We think it’s because people try to really focus on details, but things shift and blur in the darkness as you move. We’ve tried to fix that.”</p>
+
+<p>Once you’re ready, you can select to enter the Minecraft map, and then you find yourself immersed in the blocky environment, able to look around in all directions, as though it’s a real place. The game works with an <a class="u-underline" data-component="auto-linked-tag" data-link-name="auto-linked-tag" href="http://www.theguardian.com/technology/xbox">Xbox</a> controller, which you use to move around and interact with objects in the usual way – it’s just that the very slick head tracking replaces the need to look around with the analogue stick. It takes a little while to get used to directing the cursor with your head, especially when trying to open a chest or use a crafting table, but you do eventually acclimatise.</p>
+
+<p>The demo starts in a small field beneath a large mountain range. When you look up, you see a distant castle right at the top of a vast peak. For a second it seems almost impossibly distant and imposing – it feels like an epic journey away; when you play Minecraft on a 2D screen, the scale of the worlds, the heights, depths and lateral distances that the environment contains, are just numbers, but being inside the world, suddenly the distances are palpable. </p>
+
+<p>Chris Smith, a <a class="u-underline" data-component="auto-linked-tag" data-link-name="auto-linked-tag" href="http://www.theguardian.com/technology/microsoft">Microsoft</a> developer who spent a week designing this map, is an enthusiastic guide. He directs me to a minecart and when I clamber aboard the vehicle powers up and takes me very quickly up a steep incline along the mountainside. It feels like being on a rollercoaster simulator, and this was the only point where I began to feel a little bit of motion sickness (other journalists reported mild nausea at different stages in the demo). As you reach the top, you can look round in all directions and get this rather unsettling feeling of height – it’s something Smith plays with later, by featuring a high bridge created out of glass blocks: you look down as you walk and see the valley surface seemingly hundreds of metres below.</p>
+
+<p>Smith also shows off some impressive red stone machines he’s made; one fires TNT crates into an enormous target which explodes and reveals a massive sculpture of an enderman modelled out of obsidian. We walk for a while among the trees while chickens flutter about around us, looking ridiculously cute and tangible in their new virtual forms. </p>
+
+<p>Inside the castle though, the mood is darker. I very quickly run into a skeleton, which is often a slight shock in the 2D version of the game, but in the virtual world, with those dead eyes staring at you as it fires arrow after arrow, it’s actually pretty scary. Later, I’m rescued by some of the game’s giant Iron Golems, which tower above my character. Again, it’s a whole new feeling of scale and immersion – you get a sense of yourself as a rather puny physical presence in the world rather than a demigod-like figure. </p>
+
+<p>That sense of embodiment is also going to make this game interesting from a social standpoint. Players will be able to access any Minecraft server and play against people using standard 2D screens on <a class="u-underline" data-component="auto-linked-tag" data-link-name="auto-linked-tag" href="http://www.theguardian.com/technology/pc">PC</a> and smartphone. But it’ll be fascinating when groups of friends are using Oculus and meeting together in VR Minecraft.</p>
+
+<p>“One thing we’ve seen when playing with multiple people in VR is the heads are so expressive now, you can look each other in the eye - and that has certain connotations,” says Persson. “Some competitive multiplayer mini-games are just more fun now. Digging out underneath your buddy and then watching them looking up at you as they fall with these pleading eyes. It’s so different. And acting out, doing choreographed moves together, it’s super fun. It feels like you’re there, so the sort of things you want to do are slightly different.” </p>
+
+<p>One problem with VR Minecraft as a social platform is that it doesn’t support keyboard input so it’ll be hard for people to communicate via text chat. The team doesn’t see this as a barrier though. “It’ll be interesting to trying new ways to communicate,” says Checchi. “For example, streaming your voice out of the character’s mouth. It’s technically pretty hard, but the Oculus has a microphone in it, so I guess they’re looking at that.”</p>
+
+<p>As this VR experience runs in Windows 10 – like the Pocket, Desktop and Education iterations – it means most of the thousands of fan-made mods currently available won’t work. This makes it all the more important for Microsoft to start nurturing a refreshed creative community around its new Minecraft era. There are amazing possibilities here for completely innovative mini-games and adventures, but these will mostly come from amateur teams rather than Microsoft or Mojang – and most of those teams are still working on Java.</p>
+
+<p>But for Persson, this is still early days for Minecraft VR and for virtual reality games in general. “There’s still so much to learn about how to make a good VR experience,” he says. “You have to unlearn a whole bunch of the simple things that you used to just take for granted. Then it’s one step at a time – that’s the fun part of it.</p>
+
+<p>“With VR you can give people a new way to experience a world - which is what we set out to do. Very few developers have attempted open-world navigation in a VR space like this, but we’ve been forced to with this game. It’s exciting to be blazing trails. I’m not sure we have the answers to anything, but we’re further along the path than most. </p>
+
+<p>“Just getting people immersed in Minecraft is the big step. We’ll see what happens after that.”</p>
+
+<p><em><span class="bullet">•</span> Keith Stuart attended a press event in San Francisco, with travel and accommodation costs met by Microsoft.</em></p>
+
+
+
+
+Author::::Ewan Mac Mahon
+DateTime::::2016-03-04T17:26:52Z
+Indeed, imagine it because that's all you'll be able to do. As well as not being mod-friendly, Minecraft Windows 10 Edition also doesn't load saves or maps from proper Minecraft.
+
+
+
+Author::::ophiochos
+DateTime::::2016-03-04T00:28:20Z
+I believe that's the idea. But since PE has been playing catch-up for a good five years, I don't think it'll happen any day soon...
+
+
+
+Author::::Ewan Mac Mahon
+DateTime::::2016-03-03T23:08:49Z
+Windows 10 can indeed run either (or both, depending on how you look at it) versions of Minecraft - the Minecraft: Windows 10 Edition is basically Pocket Edition, it's not moddable, and if Microsoft are indeed going to push for it to be the 'default going forward', that's going to be a real problem.
+
+
+
+Author::::ophiochos
+DateTime::::2016-03-03T22:50:05Z
+Maybe you're right but it seems unlikely to me they'll just kill it all off, it's so much part of the Minecraft thing. And it'll probably save several forests running CPUs about a tenth of the pace. Unifying the code might be the quickest way to sort out a proper modding system.
+
+
+
+Author::::ophiochos
+DateTime::::2016-03-03T22:48:08Z
+I suspect, as my 13-year old son says, this was a shorthand for saying 'you're not -- despite initial rumours -- limited to the Pocket Edition port of Minecraft on Windows 10'. I believe you can run both versions?
+
+
+
+Author::::HiramsMaxim
+DateTime::::2016-03-03T12:12:32Z
+You mean the 8 year old expert was wrong? I can't wait to tell him. Never too early to learn how to be a CiF poster. :)
+
+
+
+Author::::Ewan Mac Mahon
+DateTime::::2016-03-03T09:42:11Z
+Java has lots of downsides, but this isn't one of them - it's proven quite accessible to modders. The Windows 10 version does not and will not support mods in the same way - this isn't simply a Windows application, it's a Windows 10 app, which is an entirely different thing, and they're quite highly tamper resistant. While updates have broken individual mods before there's usually some scope for fixing them. This would completely cut off the entire ecosystem in one go.
+
+
+
+Author::::Keef
+DateTime::::2016-03-03T08:15:15Z
+I'm afraid your nephew is wrong on this occasion.
+
+
+
+Author::::HiramsMaxim
+DateTime::::2016-03-03T00:41:10Z
+The Windows 10 version is not the Pocket version, according to my 8 year old nephew.
+
+
+
+Author::::Theodore Wirth
+DateTime::::2016-03-02T23:10:57Z
+Please. Use your hands to play with Lego bricks. It may turn out to be useful in the long term.
+
+
+
+Author::::ophiochos
+DateTime::::2016-03-02T20:38:34Z
+But the cumbersome code of java is left behind. They can get modding working. They've left behind mods with upgrades before.
+
+
+
+Author::::Ewan Mac Mahon
+DateTime::::2016-03-02T15:05:34Z
+using the new Windows 10 iteration of the game, which will be the default going forward
+
+
+
+Author::::mrshev71
+DateTime::::2016-03-02T12:54:31Z
+I think that this does sound like an amazing use of the VR headset but for all their ambition with how a user interacts with the game the game itself is on a little bit of a plateau. 
+
+
+
+Author::::paqman78
+DateTime::::2016-03-02T12:20:17Z
+This, and porn, is what the Oculus Rift was really intended for.
+
+
+
+Author::::Qu1nnc
+DateTime::::2016-03-02T11:19:55Z
+Oh my, imagine trying one of Vechs super hostile maps on this.
+
+
+
+Author::::Andy Tice
+DateTime::::2016-03-02T11:07:45Z
+Great, so all I need now is the capsule of fluid to lie back in. I mean there's even a Smith involved, what are the chances... o.O
+
+
+
+Author::::metronome23
+DateTime::::2016-03-02T11:00:13Z
+To quote Dr. Sam Beckett; Oh boy.
+
+
+

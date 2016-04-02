@@ -1,0 +1,379 @@
+Headline::::
+FBI told San Bernardino County staff to tamper with gunman's Apple account
+
+
+
+
+DateTime::::2016-02-21T14:04:09+0000
+
+
+
+<p>The San Bernardino County government on Friday night <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="https://twitter.com/countywire/status/700887823482630144?refsrc=email&amp;s=11">said the FBI told its staff</a> to tamper with the Apple account of Syed Farook, who with his wife, Tashfeen Malik, carried out <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.theguardian.com/us-news/san-bernardino-shooting">the December shooting</a> in which 14 people were killed.<br/></p>
+
+<p> <span>Related: </span><a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.theguardian.com/technology/2016/feb/19/apple-fbi-encryption-battle-san-bernardino-shooting-syed-farook-iphone">Apple says the FBI is making access demands even China hasn't asked for</a> </p>
+
+<p>The development matters because the change made to the account – a reset of Farook’s iCloud password – made it impossible to see if there was another way to get access to data on the shooter’s iPhone without taking <a class="u-underline" data-component="auto-linked-tag" data-link-name="auto-linked-tag" href="http://www.theguardian.com/technology/apple">Apple</a> to court.</p>
+
+<p>“The county was working cooperatively with the <a class="u-underline" data-component="auto-linked-tag" data-link-name="auto-linked-tag" href="http://www.theguardian.com/us-news/fbi">FBI</a> when it reset the iCloud password at the FBI’s request,” read a post on San Bernardino County’s official Twitter account.</p>
+
+<p>Late on 20 February the FBI said that it “worked with” county officials to reset the iCloud password, as discovery of the locked phone was “a logical next step was to obtain access to iCloud backups for the phone in order to obtain evidence related to the investigation in the days following the attack,” according to the statement from an FBI spokesman. </p>
+
+<p>On 16 February, a federal judge ordered Apple to write and digitally sign software that would make it easier for the US government to guess the 4-digit passcode on Farook’s device – not to be confused with the iCloud password. </p>
+
+<p>Apple contends such a move would violate user trust, the security of its products and a core tenet of its business. The FBI counters that Apple has placed marketing over national security.</p>
+
+<p>But Apple executives say there is a way this legal battle, <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.theguardian.com/technology/2016/feb/20/apple-fbi-iphone-explainer-san-bernardino">which will shape digital privacy for years to come</a>, could have been avoided – at least for now.</p>
+
+<p>The FBI seeks data on Farook’s iPhone, which was owned by the San Bernardino County government – his employer. But such data can be backed up into Apple’s cloud service automatically if the phone connects to one of its default Wi-Fi networks. People often pick places such as their homes or offices.</p>
+
+<p>Apple, which has the technical ability to get inside an iCloud account but not always an individual phone, has already provided the FBI with any iCloud data it has for Farook. Those backups only go back to 19 October, six weeks before the shooting. </p>
+
+<p>That feature is disabled as a security precaution if someone changes the iCloud password for an account.</p>
+
+<p>The FBI listed four options it said it had discussed with Apple after the shooting. Among those was a suggestion “to attempt an auto-backup of the subject device with the related iCloud account”. </p>
+
+<p>This would not work, the government’s counsel said, “because neither the owner nor the government knew the password to the iCloud account, and the owner, in an attempt to gain access to some information in the hours after the attack, was able to reset the password remotely, but that had the effect of eliminating the possibility of an auto-backup”.</p>
+
+<p>The resulting changes made the data “permanently inaccessible”, the lawyers wrote, saying that “Apple has the exclusive technical means” that would allow the search of Farook’s iPhone to take place. </p>
+
+<p>The government has said it wants to know if Farook communicated with any of the people he killed on 2 December or if, during the time his phone did not back up to iCloud, he communicated with any unknown co-conspirators. Farook had another phone he destroyed.</p>
+
+<p>The hours after the shooting in San Bernardino were no doubt chaotic, as victims began to sort through the tragedy. It would make sense, for instance, if a county employee tried to get into the shooter’s Apple account, in the search for clues.</p>
+
+<p>But the county took the unusual step Friday night of stating that the only reason it tampered with potential evidence was because the FBI told it do so.</p>
+
+<p>Under Apple’s current security settings, the company can no longer help authorities unlock physical iPhones. The passcodes, used to get through the lock screen, are encrypted within the device. Apple does not keep them in some master database.</p>
+
+<p class="tweet-body" dir="ltr" lang="en">The County was working cooperatively with the FBI when it reset the iCloud password at the FBI's request.</p>
+
+<p> <span>Related: </span><a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.theguardian.com/technology/2016/feb/20/apple-fbi-iphone-explainer-san-bernardino">Apple v the FBI: what's the beef, how did we get here and what's at stake?</a> </p>
+
+<p>But it is easier to get into an iCloud storage account, which can be accessed from any machine. There are two ways to get into someone’s account: know his password or be able to guess his security questions, such as: “Where did you go to high school?”</p>
+
+<p>It is possible that Farook’s employer, the county, could have had enough knowledge to assist in either method. It remains unclear if this plan would have worked had the iCloud account not been tampered with.</p>
+
+<p>It is possible Farook could have turned automatic updates off. Since Apple has enhanced its security practices, it has been well-covered that if iCloud backups are deactivated, it can be very difficult to recover data from an iPhone.</p>
+
+<p>Apple has acknowledged that it does have decryption keys to access to the iCloud account, but the FBI says this is legally irrelevant to the access it seeks now.</p>
+
+<p>“The reset of the iCloud account password does not impact Apple’s ability to assist with the the court order under the All Writs Act,” the bureau said.</p>
+
+<p>Additionally, the agency suggested that what remains inaccessible on the phone might never have made it to the remote iCloud servers, which the phone stopped backing up in October, months before the shooting.</p>
+
+<p>“Even if the password had not been changed and Apple could have turned on the auto-backup and loaded it to the cloud, there might be information on the phone that would not be accessible without Apple’s assistance as required by the All Writs Act order, since the iCloud backup does not contain everything on an iPhone,” the bureau said.</p>
+
+<p>Apple’s end-to-end encrypted iMessage chats optionally back up to associated iCloud accounts, as do photos and videos on the native Apple clients. Applications, to include secure communications applications, often do not. </p>
+
+<p>In a conference call with reporters on Friday, however, an Apple executive noted that had the password reset not happened, America’s most valuable company might not be going to court with its own government.</p>
+
+<p>On Sunday it emerged that some victims of the San Bernardino attack plan to file a legal brief in support of the US government’s attempt to force Apple to unlock the iPhone. </p>
+
+<p>Stephen Larson, a former federal judge who is now in private practice, told Reuters that the victims he represents have an interest in the information which goes beyond the Justice Department’s criminal investigation. </p>
+
+<p>“They were targeted by terrorists, and they need to know why, how this could happen,” Larson said. </p>
+
+<p>Larson declined to say how many victims he represents. </p>
+
+
+
+
+Author::::bobj1156
+DateTime::::2016-02-23T14:04:32Z
+Yes, and we know how that turned out. Plus, in the light speed digital age, being "on the ground" offers no real advantage in securing data from a device (especially if the participants on hand are unskilled), so that means nothing. Think foreign hackers penetrating computers that physically and geographically reside halfway around the globe. Do they need to "head for the nearest airport?" Are you seeing it now?
+
+
+
+Author::::Mark Harder
+DateTime::::2016-02-23T13:40:23Z
+Wait, is the FBI asking for backed-up records of this couple only? Or are they asking Apple to allow them to obtain back-ups in perpetuity? I'm not really concerned about the former. I'm quite willing to allow that dead people have no rights to privacy. What bothers me is that the FBI is looking for a way to access cloud backups of living people whenever they want to. So, which is it?
+
+
+
+Author::::quazar hadi
+DateTime::::2016-02-23T12:45:36Z
+as a dBase programmer long time before, i always knew that apple can copy and decode its source codes. then decode also the code that VALIDATES the passwords ... etc.== even a hard disk erased hundred times can be read, and encryptions can be decoded by the software vendors.== so far, black hole encryption is the only hurdle.... as the decoder is not known (god).
+
+
+
+Author::::75drayton
+DateTime::::2016-02-23T06:29:45Z
+Do you even know what a troll is?
+
+
+
+Author::::75drayton
+DateTime::::2016-02-23T06:26:12Z
+Why do you accuse anyone that fails to demand that Jobs should be beatified a troll?
+
+
+
+Author::::75drayton
+DateTime::::2016-02-23T06:18:56Z
+This is precisely what a backdoor is and is precisely a technic that allows brute force attacks that are so basic that a 14 year old hacker could execute. For apple to write something like this is essentially building a fortress out of papermache.
+
+
+
+Author::::vr13vr
+DateTime::::2016-02-23T03:41:20Z
+And...?
+
+
+
+Author::::Shubhang Pande
+DateTime::::2016-02-23T00:45:31Z
+That's not what the court order says. It specifically asks Apple to rebuild the OS without the data wipe feature so they can force the pin. ( basically try and hack it but even hacking takes a lot of attempts and the iPhone doesn't give in so easily plus after 10 attempts that data is gone forever ) So yeah, you better care.
+
+
+
+Author::::amellom
+DateTime::::2016-02-22T23:17:38Z
+I used to hope that the government was listening to my phone calls. I used my phone to call the bus company (public transport). Maybe they would learn how to catch the bus on time. But woe is me.. The government never did figure out how to catch the bus. They have their own vehicles.
+
+
+
+Author::::Andre LeMalle
+DateTime::::2016-02-22T21:30:22Z
+The FBI has set in motion what they have wanted for years. By setting up an "unwinnable" legal case, around cyber security and domestic terrorists, when they lose they can go limping to congress and say, "you need to change the laws, which are protecting evil doers. If you righteous AMERICAN legislators don't give us the tools, you are clearly helping terrorists". With the emotional images of isis decapitating small children in mind, the real privacy and security concept of secure communication for citizens and the government itself, will fade into a convenient background, allowing some legislators to prove how tough they are. It is easy to do given the complexity of the larger question. This entire question is not about encryption. It is about one agency weakening one of the strongest tools in the nation, for it's own narrow, short sighted, objectives.
+
+
+
+Author::::Lee Sturtevant
+DateTime::::2016-02-22T20:39:09Z
+The metadata would be part of the same program that "did not exist" according to NSA officials just a few short years ago, I assume. Since the program "did not exist" , what basis do you have for believing that only metadata was collected? All the data could have been collected, probably was, and probably still is. If the FBI were to come out with the contents of the iphone it would be apparent what they have been doing. By using this legal argument, they get a legal right to be doing what they have been doing all along. I'm not a conspiracy theorist, but my argument does have a certain amount of logic, wouldn't you agree?Considering the track record of governments the world over, the best course is to do what those self same governments recommend-"Trust, but verify!".
+
+
+
+Author::::Madranon
+DateTime::::2016-02-22T20:26:53Z
+Never heard about that one, but I'm sure there will be many theories popping up that lay the blame at anyone but those who did it.
+
+
+
+Author::::Madranon
+DateTime::::2016-02-22T20:24:14Z
+I use the left and right as lazy terms sometimes, the right, obviously have their own agenda that they want all communications to be restricted, of course, something that many in the left seem to want for separate reasons, of course.
+
+
+
+Author::::Jason Rahall
+DateTime::::2016-02-22T20:19:20Z
+Shame on the govt for playing the terrorist card. The feds should take John McAfee up on the offer to have his hacking team crack the security feature for the single device. Otherwise, it is reasonable to infer that the govt is just exploiting this incident to force the global backdoor access to Apple the govt has wanted for the past few years.
+
+
+
+Author::::SophieN
+DateTime::::2016-02-22T19:43:55Z
+The FBI is relying on the general American public's strong Islamophobia and general perception that violent acts carried out by Muslims, ie, the only "terrorism," are the only ones to be worried about and the only reasons to give up fundamental rights to privacy and for government intrusion. The general ignorance of most Americans will ensure this because they see it as targeting an already marginalized minority only, ie, Muslims.
+
+
+
+Author::::SophieN
+DateTime::::2016-02-22T19:41:19Z
+ I'm a massive opponent of government/corporate/1% surveillance/control of it's citicens.
+
+
+
+Author::::Ryan24
+DateTime::::2016-02-22T19:40:11Z
+You're talking about agents on the ground, who don't have that capability and fail to consider options. They can't write a protocol for everything, and I'd suspect there was concern there were others 'out there' who might have headed for the nearest airport...hence, "get to the data now!".
+
+
+
+Author::::SophieN
+DateTime::::2016-02-22T19:39:37Z
+What the FBI is asking Apple to create renders *all* iPhone password security basically useless, and Apple is absolutely correct in refusing. I wonder if such software exists for Samsung, etc.
+
+
+
+Author::::Ryan24
+DateTime::::2016-02-22T19:38:17Z
+Apple couldn't help more, as the article points out,.....because Apple has put in place multiple barriers to such requests, specifically to avoid having to address legal warrants. Things like encryption and auto-wipe after 10 password attempts.
+
+
+
+Author::::CmdrRiker
+DateTime::::2016-02-22T19:37:49Z
+Hi Troll.
+
+
+
+Author::::CmdrRiker
+DateTime::::2016-02-22T19:37:14Z
+More trolling.
+
+
+
+Author::::joAnn chartier
+DateTime::::2016-02-22T19:30:54Z
+This reminds me of the 9/11 attack and FBI/CIA issues around who knew what and when did the two agencies share information.
+
+
+
+Author::::Zendjan
+DateTime::::2016-02-22T19:23:29Z
+How many hours do you give him?
+
+
+
+Author::::Zendjan
+DateTime::::2016-02-22T19:19:32Z
+Q. What do you call a lawyer with an IQ of 80?A. Your Honor.
+
+
+
+Author::::vr13vr
+DateTime::::2016-02-22T18:25:44Z
+What are you talking about, "so vulnerable?" It will still keep it much more secure that it was in 2014 when the encryption was first introduced. Secondly, why do I care if a single phone that belonged to a confirmed murderer is "more vulnerable?" You realize this patch was to be installed on a single phone only, not on every phone in circulation? And you realize the FBI was not looking for the patch itself, that would remain in Apple's hands. Read the details of what was asked rather than a newspaper spin.
+
+
+
+Author::::75drayton
+DateTime::::2016-02-22T18:02:26Z
+Sorry Cmd
+
+
+
+Author::::75drayton
+DateTime::::2016-02-22T17:58:29Z
+It is not nit picking- Snowden accuses others of obscuring the truth and then obscures the truth.
+
+
+
+Author::::Record
+DateTime::::2016-02-22T17:55:38Z
+The FBI has never really reformed since J. Edgar. It still plays its games to try to force getting what it wants. It should absolutely be resisted.
+
+
+
+Author::::derekdj
+DateTime::::2016-02-22T16:16:57Z
+Sorry about the typos - I get heated when I see organizations like the FBI making such near sighted requests that have incredibly wider security implications.
+
+
+
+Author::::eastariel
+DateTime::::2016-02-22T16:13:04Z
+So ... what did Big Jim do with all those isil suspects he's got on his black-out list? Does he still wanna "touch the bad guys in a bad way," as he said to Pelley?I audacitly hope Big Jim can restrain himself from touching those "guilty suspects" in their private places. You know how he feels about the No-spy rule ... unless the spy's him (as Hogan found out the hard way)."Thou Shalt Not Tinker with Thy Neighbor," Mo says.
+
+
+
+Author::::derekdj
+DateTime::::2016-02-22T16:12:31Z
+I never said the FBI wiped the phone, but the FBI telling the country sheriff to tamper with the iCloud account instead of taking possession of the phone and allowing cyber-security experts to deal with the device is the first example of their ineptness. Then by tampering with the iCloud password it made any other efforts to circumvent the security even more difficult (and could result in data loss).
+
+
+
+Author::::75drayton
+DateTime::::2016-02-22T15:24:55Z
+It has been 17 months since Apple beefed up security.
+
+
+
+Author::::Naseer Ahmad
+DateTime::::2016-02-22T15:23:43Z
+Or maybe it allowed the FBI to plant incriminating evidence on their phones? Contaminate the chain? That's OK, many people don't believe the official story any way.
+
+
+
+Author::::Shubhang Pande
+DateTime::::2016-02-22T15:20:43Z
+Are you joking !? Just a patch makes it so vulnerable and it practically turns iOS into android !
+
+
+
+Author::::Alan05j
+DateTime::::2016-02-22T14:58:57Z
+ Its worth remembering who's been on the FBI's surveillance radar in the past. A lot of political Enemies Of The State, people like Martin Luther King. Obviously they wouldn't dream of political surveillance these days......or would they?
+
+
+
+Author::::Alan05j
+DateTime::::2016-02-22T14:49:56Z
+Thank god for my American right to free spee
+
+
+
+Author::::bobj1156
+DateTime::::2016-02-22T14:34:50Z
+Mind boggling! The FBI has some of the best and brightest computer cryptographers (and access to an even richer pool - hint: initials NSA) and they give this one to "Dave down in IT!"
+
+
+
+Author::::75drayton
+DateTime::::2016-02-22T14:32:30Z
+Sorry but I don't quite follow your reasoning.
+
+
+
+Author::::75drayton
+DateTime::::2016-02-22T14:07:05Z
+Well I think that the Guardian has managed to find sufficient grounds to have the FBI demands kicked to the curb.
+
+
+
+Author::::streetpuppy
+DateTime::::2016-02-22T13:58:33Z
+No it would not. If the phone is not set to sync, it won't. The phone is not being hacked which is Apples defensive stance, which I hasten to add, I don't disagree with. Apple have test facility's for devices before they are released in the wild, so a large part of the required structure will exist already, so it should work.
+
+
+
+Author::::derekdj
+DateTime::::2016-02-22T13:54:24Z
+The court and the public need to educate themselves on how cyber-security and encryption works before making claims that Apple is wrong here or that they're only doing this for marketing purposes. The FBI has demonstrated time and time again that they're woefully inept at dealing with cyber-crime. 
+
+
+
+Author::::jonbryce
+DateTime::::2016-02-22T13:52:42Z
+The iCloud password was changed, so you have to go into the phone and enter the new iCloud password before you can do anything, and you need the PIN for that.
+
+
+
+Author::::GreenWyvern
+DateTime::::2016-02-22T13:28:52Z
+This case is not really about the San Bernardino phone. It's about two things:
+
+
+
+Author::::normix
+DateTime::::2016-02-22T13:20:56Z
+Whereas someone who spells "you're" in two different ways in the same sentence, is of course, most definitely not stupid.
+
+
+
+Author::::normix
+DateTime::::2016-02-22T13:17:54Z
+I don't think Apple's beef is who owned the phone. It doesn't want to create something that can (and almost certainly would) be used by anyone who gets a hold of the decrypting method, be they the government or a rogue entity with entirely malicious intent.You cannot be a "massive opponent" of something, and a supporter, at the same time.
+
+
+
+Author::::Nfairrie
+DateTime::::2016-02-22T13:17:25Z
+I would have thought the chances are that any communications the assailants made by mobile phone - that had anything to do with their terrorist plans - would have been via the handset Syed Farook allegedly destroyed. which is precisely why he destroyed it?! He was surely smart enough not to use the iPhone he had been given for business use which is why he didn't destroy that handset as well.
+
+
+
+Author::::GreenWyvern
+DateTime::::2016-02-22T13:15:47Z
+The US Government has right-wingers very well trained. The training was done during the Bush years. As soon as anyone says the word 'terrorism' right-wingers immediately feel terror. 
+
+
+
+Author::::GreenWyvern
+DateTime::::2016-02-22T13:05:56Z
+Well, even if that could work - which I very much doubt - it would only be a different method of asking Apple to create a backdoor. The principle would be the same as the one Apple is already objecting to.
+
+
+
+Author::::streetpuppy
+DateTime::::2016-02-22T12:58:29Z
+The issue can be solved. 
+
+
+
+Author::::mawil1013
+DateTime::::2016-02-22T12:45:07Z
+Plus, the iphone wasn't even the personal property of the assailant. It is the property of the county! Apple, you are on the wrong side this time and I'm a massive opponent of government/corporate/1% surveillance/control of it's citicens.
+
+
+

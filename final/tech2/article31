@@ -1,0 +1,357 @@
+Headline::::
+The FBI wants a backdoor only it can use – but wanting it doesn’t make it possible
+
+
+
+
+DateTime::::2016-02-24T12:00:04+0000
+
+
+
+<p><span class="drop-cap"><span class="drop-cap__inner">T</span></span>he FBI’s demand that <a class="u-underline" data-component="auto-linked-tag" data-link-name="auto-linked-tag" href="http://www.theguardian.com/technology/apple">Apple</a> create a defeat device for decrypting a phone that belonged to a mass murderer has all the ingredients for a disastrous public conversation.</p>
+
+<p>Combine a highly technical debate about information security with an emotionally charged subject matter, then confuse the whole issue with a 24-hour news cycle tick-tock about who did what, when, and you end up bogged down in questions like, “Does it matter if the FBI directed the local cops to try to change the phone’s password, inadvertently creating the lockout?” </p>
+
+<p>The questions raised by this court order are deliberately the wrong ones: questions whose answers don’t get us any closer to a lasting peace in the crypto wars. After all, the order emanates from a lowly magistrate judge, meaning that no matter how the ruling comes down, it will be appealed, possibly all the way to the supreme court, given the seriousness of the issue. It could be years before we even get a final ruling. </p>
+
+<p>That final ruling will have very limited applicability, since the court’s order directs Apple to build a defeat device that wouldn’t work on its latest phones, nor will it work on its future devices, no matter how the judgment goes. This is the title sequence for Crypto Wars II, not the closing credits. </p>
+
+<p>The first Crypto War was fought in the 1990s when the NSA insisted on a ban on strong crypto in civilian hands, and the US classed the underlying mathematics as munitions. </p>
+
+<p>The Clinton administration lobbied for mandatory backdoors, insisting that it was possible to make a backdoor that only the good guys could walk through – precisely the same argument raised by the Obama administration in 2016 (see also: 2015, 2014, 2013, 2012, etc). </p>
+
+<p>The thing about this controversy is that it <em>isn’t</em> one. Independent cryptographers are virtually unanimous in their view that you can’t properly secure a system while simultaneously ensuring that it ships with a pre-broken mode that police can exploit. </p>
+
+<p>The fact that this would be useful doesn’t make it possible: as security experts Meredith Whittaker and Ben Laurie recently wrote: “<a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://boingboing.net/2016/02/21/wanting-it-bad-enough-wont-m.html">Wanting it badly isn’t enough</a>.” </p>
+
+<p class="pullquote-paragraph">Another urgent issue considered settled in expert circles, but still debated in policy circles: climate change</p>
+
+<p>Law enforcement would also be assisted by anti-gravity devices, time machines, psychic powers, and the ability to selectively reverse entropy, but that doesn’t make them possible. Likewise uncontroversial is the gravity of the cybersecurity question. Cybersecurity isn’t just about protecting your location data and your private emails: it’s about making sure randos <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://boingboing.net/2016/01/19/griefer-hacks-baby-monitor-te.html">aren’t spying on your children through your baby monitor</a>, or <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://boingboing.net/2015/07/24/chrysler-has-to-recall-its-car.html">driving your car off the road</a>, or killing you where you stand by <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://boingboing.net/2015/05/07/drug-pump-is-most-insecure.html">wirelessly hacking your insulin pump</a> – or <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://boingboing.net/2016/02/18/hollywood-hospital-ransoms-its.html">stealing entire hospitals</a>. </p>
+
+<p>If you’re not worried about this stuff, you’re not paying close enough attention. </p>
+
+<p>There’s precedent for this kind of contradiction, where something urgent is considered a settled matter in expert circles, but is still a political football in policy circles: climate change. Denialism is a deadly feature of 21st-century life. </p>
+
+<p>The people who deny climate change have a range of motivations, from good-faith (but ill-founded) scientific disagreements to self-delusion to self-interest (and self-delusion driven by self-interest, of course). Many tactics have been tried in the denialism battles, but there have been few successes. </p>
+
+<p>A notable exception is solar power and energy independence. This decade’s massive investment in solar power, driven by state subsidies, has bridged the gap between climate change denial and renewal energy advocacy. As the saying goes, “solar is a technology, not a fuel,” so it gets better (and cheaper) with investment and scale. The combination of better energy, good solar industry jobs and energy independence (with the promise of fewer disastrous foreign wars) has won over many climate deniers, who still think the Earth isn’t getting hotter, or that humans aren’t responsible for it, <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.motherjones.com/environment/2014/04/tea-party-wants-help-you-go-solar">but nevertheless are some of solar’s biggest fans</a>. </p>
+
+<p>The rallying cry of economics is “incentives matter”. Given the right incentives, denial’s effects can be overcome, even if the underlying mistaken beliefs remain intact. Vaccine denial is another matter. While vaccination denial is deadly and urgent, the most successful strategy for combatting it has been all stick, no carrot. In California, <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201520160SB277">SB277</a> simply prohibits children from attending school unless their parents get them vaccinated. </p>
+
+<p>As a parent in a California school district, I can tell you that it’s working: the bus-shelter outside our local pharmacy may sport a nutty anti-flu-jab ad, and I still hear parents fretting about canards like mercury and “too many vaccinations in one shot”, but all the kids in our local school are vaccinated, full stop. </p>
+
+<p>When we missed a doctor’s appointment for a Hep B shot, we got a note from the school nurse with a firm deadline to make it up, after which our daughter would no longer be welcomed on the premises. Measles, whooping cough and other preventable diseases are receding into the background. We hear stories about home-schooled, unvaccinated friends being disinvited from birthday parties because it’s simply ceased to be socially acceptable for someone to let their unfounded beliefs endanger their neighbors and their kids. </p>
+
+<p>The difference between the carrot approach (climate) and stick approach (vaccines) can be explained by looking at the social power of each denial movement. </p>
+
+<p>Climate denial is paid for by huge, powerful hydrocarbon industries, and any attempt to force them to decarbonize will meet with stiff political resistance. </p>
+
+<p>Vaccine denial makes a small number of unscrupulous celebrity alternative medicine advocates rich, but they’re small potatoes next to the <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.theguardian.com/us-news/koch-brothers">Koch brothers</a>. Their supporters can be pushed around in state legislatures with relative impunity. </p>
+
+<p>Denial by the powerful has been addressed with bribes; denial by the powerless has been addressed with coercion. </p>
+
+<p>Math denial – the belief that cryptographers are nefariously keeping all the cool stuff under wraps – is an idea with some powerful backers. One form of math denial is the belief in the ability to make computers that prevent copyright infringement. </p>
+
+<p>Computers only ever work by making copies: restricting copying on the internet is like restricting wetness in water. Nevertheless, big corporations with hawk-eyed activist investors get away with buying “digital rights management” technologies that purport to prevent unauthorized copying. </p>
+
+<p>Cryptographers (who don’t work for DRM companies) think this is ridiculous, the alternative medicine of computer science. But just as the NHS funds homeopathic “medicine” in public hospitals, legislatures continue to treat digital locks as going concerns, because orthodoxy and political expedience demands it. The entertainment industry is a powerful adversary, the security services are more powerful still. </p>
+
+<p>It’s tempting to play along with them here, offer them more magic beans in the form of backdoors that we pretend only the good guys can fit through, or in the form of purportedly copy-proof bits, but the stakes are awfully high, and climbing steadily. </p>
+
+
+
+
+Author::::Matt McGraw
+DateTime::::2016-02-27T04:19:21Z
+Here's some science even my 5 year old understands. Watch carefully and listen closely. You really can learn something.
+
+
+
+Author::::DaisyPetunia
+DateTime::::2016-02-27T03:55:49Z
+You can't have it both ways:
+
+
+
+Author::::baylect20
+DateTime::::2016-02-27T01:03:41Z
+I do not consider studies financed and conducted by BigPharma with stakes in the outcome to be reliable data.
+
+
+
+Author::::DaisyPetunia
+DateTime::::2016-02-26T22:02:25Z
+P.S. I do not consider studies financed and conducted by BigPharma with stakes in the outcome to be reliable data. Nor should you or anyone else, frankly. Just so you know.
+
+
+
+Author::::DaisyPetunia
+DateTime::::2016-02-26T21:57:31Z
+Huh? I have an opinion, true, which I stated. But let's read what I actually wrote, okay?
+
+
+
+Author::::BristolBoy
+DateTime::::2016-02-26T20:50:54Z
+... anyone (Russian Mafia, ISIS, Donald Trump) can use it ...
+
+
+
+Author::::baylect20
+DateTime::::2016-02-26T20:36:34Z
+And your qualification for such a magisterial pronouncement is exactly what? Do tell...
+
+
+
+Author::::baylect20
+DateTime::::2016-02-26T15:45:13Z
+The medical consensus about vaccine safety and things like timetables for vaccination and combining vaccines into single shots is all based on the best available data, i.e. information gathered from trials and experience of using vaccines over decades.
+
+
+
+Author::::theindyisbetter
+DateTime::::2016-02-26T15:36:19Z
+Polio has been completely eradicated in most of the world and should be completely gone in the next few years, unless nutters like you get together with Islamist extremists to stop the vaccination programme.
+
+
+
+Author::::baylect20
+DateTime::::2016-02-26T09:05:36Z
+What's an INTERNIST when it's at home? Some sort of homeopath by any chance? Nephrology isn't a particularly good background for being an expert on vaccines.
+
+
+
+Author::::Suzanne Sanders
+DateTime::::2016-02-26T08:09:44Z
+Dr. Humphries is an INTERNIST and a nephrologist...do YOUR research!
+
+
+
+Author::::JaitcH
+DateTime::::2016-02-26T02:31:43Z
+Cory Doctorow is an activist, science fiction author and co-editor of the blog Boing Boing.
+
+
+
+Author::::Kate Sylvia
+DateTime::::2016-02-26T01:43:03Z
+Probably over the next twenty years or so, the internet will move to a licensing model of encryption ...
+
+
+
+Author::::Kate Sylvia
+DateTime::::2016-02-26T01:34:52Z
+The thing about this controversy is that it isn’t one. Independent cryptographers are virtually unanimous in their view that you can’t properly secure a system while simultaneously ensuring that it ships with a pre-broken mode that police can exploit.
+
+
+
+Author::::baylect20
+DateTime::::2016-02-26T01:27:36Z
+You appear to pretty clueless if you quote the well known homeopath Suzanne Humphries as an expert on vaccine safety. Takedown here for anyone in need of a laugh.
+
+
+
+Author::::baylect20
+DateTime::::2016-02-26T01:23:04Z
+That's Dr Suzanne Humphries the well-known quack. Nicely taken down here.
+
+
+
+Author::::DaisyPetunia
+DateTime::::2016-02-25T20:50:21Z
+Ah, I see. Can't discuss an opposing opinion so you have to mock it. 
+
+
+
+Author::::EasilyLead
+DateTime::::2016-02-25T18:30:59Z
+Interesting.
+
+
+
+Author::::Suzanne Sanders
+DateTime::::2016-02-25T17:51:53Z
+the "left"....ha ha ha...as if corporate Clinton's were anything but a gift to the 1 percent to con the "left" and shift the WAR economy to the right....what a joke! People need to actually read what someone on the left is...not what the lamestream media tells you what the "left" is.
+
+
+
+Author::::Suzanne Sanders
+DateTime::::2016-02-25T17:44:41Z
+what evidence would that be? where are the 3rd party independent saline placebo studies on say POLIO?? They've NEVER been done...so we won't know if the Polio vaccines (many kinds) are either safe or effective....but don't let lack of evidence stop you from injecting mercury, aluminum, formaldehyde and other toxins into your body or your child's body.
+
+
+
+Author::::Suzanne Sanders
+DateTime::::2016-02-25T17:28:13Z
+Alec....sounds like you have as little education about vaccines as Cory. That is sad.
+
+
+
+Author::::Suzanne Sanders
+DateTime::::2016-02-25T17:26:50Z
+Agreed. Cory has not done any historical research on the issue of vaccines which shows. I couldn't understand how he is connecting the FBI cell phone issue to vaccines...as if there is any connection at all. 
+
+
+
+Author::::Suzanne Sanders
+DateTime::::2016-02-25T17:19:23Z
+I agree. I think Cory, who is usually coherent sci-fi, tech writer, is off the mark on this article.
+
+
+
+Author::::Suzanne Sanders
+DateTime::::2016-02-25T17:17:06Z
+So Cory, are you saying that your child is a needle-using drug user or who is sexually promiscuous with potentially Hep B infected people? Cory, stick with what you know something about. Clearly it isn't about vaccines (history of vaccines and the independent 3rd party clinical studies of efficacy or safety of vaccines since they don't exist on any single vaccine in use today or for the last 60 years). Cory, you are uneducated about vaccines and it shows in this convoluted article where you try to connect FBI spying w/ vaccine choice/non-choice. Do yourself (and us, freedom to choose, people) a favor and read "Dissolving Illusions: Disease, Vaccines, and the Forgotten History" by Dr. Suzanne Humphries.
+
+
+
+Author::::sandyssanders
+DateTime::::2016-02-25T17:13:11Z
+Either spin the chamber Russian Roulette or be ostracized for life? Again... again... and again... I am not ANTI-VACCINE only pro-choice vaccine and do the research that has not been done. And... please read and acknowledge this ...
+
+
+
+Author::::maggsgsr
+DateTime::::2016-02-25T16:45:30Z
+Yea and I want a 100 million dollars and 100 hot bikini models
+
+
+
+Author::::RandomPeasent
+DateTime::::2016-02-25T13:58:48Z
+Governments keep asking for this. But they don't seem to get it that it's no possible to make a backdoor that only they can use. Once you make one, anyone can get in.
+
+
+
+Author::::amberjack
+DateTime::::2016-02-25T12:18:26Z
+"denial by the powerful has been addressed with bribes; denial by the powerless has been addressed with coercion" certainly looks nice and symmetric,
+
+
+
+Author::::baylect20
+DateTime::::2016-02-25T12:13:41Z
+This entire discussion is spurious.
+
+
+
+Author::::twiglette
+DateTime::::2016-02-25T10:28:37Z
+It's slightly unclear what this article is saying, interesting though it is. Is he saying it is impossible to encrypt or the opposite??
+
+
+
+Author::::Drewv
+DateTime::::2016-02-25T10:05:12Z
+Glad you're pissed off. I predict many further increases in your anger levels, as our current economic system keeps deteriorating and brutalizing its many prisoners.
+
+
+
+Author::::Drewv
+DateTime::::2016-02-25T10:00:18Z
+Yeah, but only certain components of their software are open source. It's by no means about the totality of their products and they still practice walled-garden policies on most levels.
+
+
+
+Author::::Drewv
+DateTime::::2016-02-25T09:51:57Z
+True, but isn't that the universal rule now, anyway? Any debate involving digital security and digital surveillance consists largely of trying to explain complicated things to people who are either incapable or unwilling to open their minds to it. I'm not saying we should give up trying, but I don't recall any time when this has ever not been an uphill struggle.
+
+
+
+Author::::Alec Duncan
+DateTime::::2016-02-25T09:28:13Z
+Oh, please - not this nonsense again. Vaccines are one of the least profitable of all medications, not least because they are preventive. Your notional "Big Pharma" would make far more money just by ceasing manufacture of vaccines altogether - a single case of measles can result in medical costs of $10,000+, much of which flows directly to pharmaceutical companies. If we ceased vaccinating for measles there would be around 4 million cases every year in the US alone. The measles vaccine costs around US$60 (much less in most countries), and the total world market for vaccines is only around 2% of pharmaceutical sales. Do the math.
+
+
+
+Author::::sandyssanders
+DateTime::::2016-02-25T02:58:39Z
+I love Cory, but the vaccine and climate change analogies are poorly conceived. Denialism as related to Climate Change is a no brainer with 99% of the scientific community agreeing that CC is changing our climate patterns. Denial of knowledge regarding digital cryptography is not a clearly understood realm of knowledge and obviously, as exhibited in the misunderstanding generated by this issue, needs airing which this article partially exposes. Vaccines, on the other hand, have vast realms of data that correctly identify this technique loaded with unknowns and verified negative health impacts. (Listen to the work of Gary Null on WBAI... it's indisputable evidence that vaccines: need extensive non-pharma funded testing; have produced catastrophic effects on too many vaccinated "patients"; and must not be forced on people and create a population of the Scarlet Lettered for the sole reason that Big Pharma has Big Money to make. The inescapable fact of the matter is that if the vaccinated are "immune" what do they have to fear from those un-vaccinated? This simple fact, which previously allowed Christian Scientists and others to decide whether or not to vaccinate, is virtually totally ignored by media posted arguments. Forced vaccinations are an unnecessary totalitarian approach to public health and has nothing to do with "denial". 
+
+
+
+Author::::AmyInNH
+DateTime::::2016-02-25T02:36:14Z
+If you understand the abstraction of software backdoor, then you understand louisanthers doesn't.
+
+
+
+Author::::TomGray
+DateTime::::2016-02-25T02:28:45Z
+The question is not the encryption. That is the issue. The warrant demands that I provide the encryption key. if I don't I go to jail. It doesn't matter if the encryption is strong or weak or stored in some hidden bank vault. I have to provide it or go to jail. This entire discussion is spurious. The issue is decided.
+
+
+
+Author::::AmyInNH
+DateTime::::2016-02-25T02:27:38Z
+Many are weighing in, that Apple should just give them "the code". They think "the code" is a pin, like an ATM pin.Many are weighing in, that this phone is okay to break into, because it belonged to a "terrorist", a known criminal, a dead criminal. As though this is the one line to cross. What level of criminal, tomorrow?Many weighing in say Apple should just "unlock the phone", just the one phone. They've no idea it means to write new software, put it on "the one phone", and give the phone with the new software to the FBI. As though this software and technique and justification won't ever be used again. And again. And again.
+
+
+
+Author::::person9872
+DateTime::::2016-02-25T02:02:00Z
+Sally, there are already strong restrictions on what programmers are and are not allowed to do. Plus, you could always come after then for distributing. Honestly, there are certain jurisdictions where I would feel very wary about working, just because you have people with no understanding of the subject who more or less can tell you what or how you can code. And with this incident, I'm very worried that the US is moving the same direction.
+
+
+
+Author::::person9872
+DateTime::::2016-02-25T01:58:18Z
+Except, you know, for the fact that every other major smartphone software manufacturer has backed Apple. Along with the vast majority of computer scientists.
+
+
+
+Author::::Hooligan Mack
+DateTime::::2016-02-25T01:46:15Z
+IF the FBI shows us J Edgar's dress collection, we'll let them read our emails. XXXX OOOOO Luv ya Fibbies!
+
+
+
+Author::::AnglophileDe
+DateTime::::2016-02-24T20:09:02Z
+It's too much power for anyone, company or government agency or private citizen.
+
+
+
+Author::::baylect20
+DateTime::::2016-02-24T20:06:31Z
+What real difference would it make if Apple phones were secured with encryption that would take the police a month or a million years to break.
+
+
+
+Author::::AnglophileDe
+DateTime::::2016-02-24T20:05:56Z
+Contentious? Vaccination and climate change? If you really think that, I know someone who has a chemtrail measuring device for sale:)
+
+
+
+Author::::Pollik
+DateTime::::2016-02-24T19:40:47Z
+That argument reminds so much of Swedish prosecutor trying to make Assange go back to Sweden...they could have interviewed him over here. Similarly very obvious that something else is the goal.
+
+
+
+Author::::Spare
+DateTime::::2016-02-24T19:05:38Z
+If there weren't already clear, documented history of the FBI using illegally obtained surveillance information to strong-arm politicians then I might sympathize with their desires here. But we won't know that they've used an iPhone crack to subvert democracy until many years after the fact. A backdoor into a computer isn't merely too much power to leave lying around for criminals to discover, it's too much power to hand over to a government agency.
+
+
+
+Author::::Baaz
+DateTime::::2016-02-24T19:00:56Z
+First para: the issue is, the guy's dead. If you refuse then of course you'll go to jail for contempt. If you're dead, then what?
+
+
+
+Author::::Baaz
+DateTime::::2016-02-24T18:59:24Z
+https://en.wikipedia.org/wiki/RSA_(cryptosystem)
+
+
+
+Author::::Baaz
+DateTime::::2016-02-24T18:50:00Z
+You can get a warrant to find out the PIN on a bank card. But it won't help. If I forget it (or if I die), there is no way of finding out what the PIN is.
+
+
+

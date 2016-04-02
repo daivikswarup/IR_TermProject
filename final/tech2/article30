@@ -1,0 +1,355 @@
+Headline::::
+Microsoft wants to monopolise games development on PC. We must fight it
+
+
+
+
+DateTime::::2016-03-04T10:00:31+0000
+
+
+
+<p><span class="drop-cap"><span class="drop-cap__inner">W</span></span>ith its new Universal Windows Platform (UWP) initiative, Microsoft has built a closed platform-within-a-platform into <a class="u-underline" data-component="auto-linked-tag" data-link-name="auto-linked-tag" href="http://www.theguardian.com/technology/windows-10">Windows 10</a>, as the first apparent step towards locking down the consumer PC ecosystem and monopolising app distribution and commerce.<br/></p>
+
+<p>In my view, this is the most aggressive move Microsoft has ever made. While the company has been <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="https://en.wikipedia.org/wiki/United_States_v._Microsoft_Corp">convicted of violating antitrust law in the past</a>, its wrongful actions were limited to fights with specific competitors and contracts with certain PC manufacturers.</p>
+
+<p>This isn’t like that. Here, <a class="u-underline" data-component="auto-linked-tag" data-link-name="auto-linked-tag" href="http://www.theguardian.com/technology/microsoft">Microsoft</a> is moving against the entire PC industry – including consumers (and gamers in particular), software developers such as Epic Games, publishers like EA and Activision, and distributors like Valve and Good Old Games.</p>
+
+<p>Microsoft has launched new PC Windows features exclusively in UWP, and is effectively telling developers you can use these <a class="u-underline" data-component="auto-linked-tag" data-link-name="auto-linked-tag" href="http://www.theguardian.com/technology/windows">Windows</a> features only if you submit to the control of our locked-down UWP ecosystem. They’re curtailing users’ freedom to install full-featured PC software, and subverting the rights of developers and publishers to maintain a direct relationship with their customers.</p>
+
+<p>I’m not questioning the idea of a Windows Store. I believe Microsoft has every right to operate a <a class="u-underline" data-component="auto-linked-tag" data-link-name="auto-linked-tag" href="http://www.theguardian.com/technology/pc">PC</a> app store, and to curate it how they choose. This contrasts with the position the government took in its anti-trust prosecution, that Microsoft’s free bundling of Internet Explorer with Windows was anti-competitive.</p>
+
+<p>My view is that bundling is a valuable practice that benefits users, and my criticism is limited to Microsoft structuring its operating system to advantage its own store while unfairly disadvantaging competing app stores, as well as developers and publishers who distribute games directly to their customers.</p>
+
+<p>The specific problem here is that Microsoft’s shiny new “Universal Windows Platform” is locked down, and by default it’s impossible to download UWP apps from the websites of publishers and developers, to install them, update them, and conduct commerce in them outside of the Windows Store.</p>
+
+<p>It’s true that if you dig far enough into Microsoft’s settings-burying UI, you can find a way to install these apps by enabling <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="https://msdn.microsoft.com/en-us/windows/uwp/packaging/packaging-uwp-apps">“side-loading”</a>. But in turning this off by default, Microsoft is unfairly disadvantaging the competition. Bigger-picture, this is a feature Microsoft can revoke at any time using Windows 10’s forced-update process.</p>
+
+<p>If UWP is to gain the support of major PC game and application developers, it must be as open a platform as today’s predominant win32 API, which is used by all major PC games and applications. To the PC ecosystem, opening UWP means the following:</p>
+
+<p>This true openness requires that Microsoft not follow Google’s clever but conniving lead with the Android platform, which is technically open, but practically closed. In particular, Android makes it possible to install third-party applications outside of the Google Play store, which is required for Google to comply with the Linux kernel’s GNU General Public License. However, Google makes it comically difficult for users to do so, by defaulting the option to off, burying it, and <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="https://en.wikipedia.org/wiki/Sideloading">obfuscating it</a>. This is not merely a technical issue: it has the market impact of Google Play Store dominating over competing stores, despite not being very good.</p>
+
+<p class="pullquote-paragraph">Does Microsoft think independent PC developers and publishers, who cherish their freedom, are going to sign up for this</p>
+
+<p>Microsoft has certainly followed this lead in technically exposing, but practically burying, options that let users escape from its force-bundled services. If you’ve tried to change your Windows 10 search engine, web browser, or movie player, or to turn off their invasive new lock-screen ads, Windows search bar Bing spam, and invasive “analytics”, you know what I’m talking about. It’s a deliberately anti-customer experience: the options are there, but good luck finding them.</p>
+
+<p>The ultimate danger here is that Microsoft continually improves UWP while neglecting and even degrading win32, over time making it harder for developers and publishers to escape from Microsoft’s new UWP commerce monopoly. Ultimately, the open win32 Windows experience could be relegated to Enterprise and Developer editions of Windows.</p>
+
+<p>Valve’s Steam distribution service is booming with over 100m users, and publishers like Adobe, Autodesk, Blizzard, Riot <a class="u-underline" data-component="auto-linked-tag" data-link-name="auto-linked-tag" href="http://www.theguardian.com/technology/games">Games</a> and EA are operating highly successful businesses selling their games and content directly to consumers.</p>
+
+<p>Microsoft’s situation, however, is an embarrassment. Seven months after the launch of Windows Store alongside Windows 10, the place remains devoid of the top third-party games and signature applications that define the PC experience. Where’s Photoshop? Grand Theft Auto V? Fifa 2016? There are some PC ports of what were great mobile games, and some weirder things, such as the Windows 10 port of the Android port of the PC version of Grand Theft Auto from 2004.</p>
+
+<p>But the good PC stuff isn’t there, with the exception of Microsoft’s own software products. Does Microsoft really think that independent PC developers and publishers, who cherish their freedom and their direct customer relationships, are going to sign up for this current UWP fiasco?</p>
+
+<p>In my view, if Microsoft does not commit to opening PC UWP up in the manner described here, then PC UWP can, should, must and will, die as a result of industry backlash. Gamers, developers, publishers simply cannot trust the PC UWP “platform” so long as Microsoft gives evasive, ambiguous and sneaky answers to questions about UWP’s future, as if it’s a PR issue. This isn’t a PR issue, it’s an existential issue for Microsoft, a first-class determinant of Microsoft’s future role in the world.</p>
+
+<p>As the founder of a major Windows game developer and technology supplier, this is an op-ed I hoped I would never feel compelled to write. But Epic has prided itself on providing software directly to customers ever since I started mailing floppy disks in 1991. We wouldn’t let Microsoft close down the PC platform overnight without a fight, and therefore we won’t sit silently by while Microsoft embarks on a series of sneaky manoeuvres aimed at achieving this over a period of several years.</p>
+
+<p>This day has been approaching for over 18 months, and I need to give credit to Microsoft folks, especially Phil Spencer, for always being willing to listen to Epic’s concerns with UWP’s paradigm, and to proposed solutions. Because they listened very patiently, I hoped and believed that Microsoft would do the right thing, but here we are. Microsoft’s consumer launch and PR around UWP are in full swing, and this side of the story must be told.</p>
+
+<p>Microsoft’s intentions must be judged by Microsoft’s actions, not Microsoft’s words. Their actions speak plainly enough: they are working to turn today’s open PC ecosystem into a closed, Microsoft-controlled distribution and commerce monopoly, over time, in a series of steps of which we’re seeing the very first. Unless Microsoft changes course, all of the independent companies comprising the PC ecosystem have a decision to make: to oppose this, or cede control of their existing customer relationships and commerce to Microsoft’s exclusive control.<br/></p>
+
+<p><em>Tim Sweeney is the co-founder of US-based developer, Epic Games, creator of the Gears of War series of Xbox and PC titles, which has sold over 20m units worldwide. </em><br/></p>
+
+
+
+
+Author::::Antony Cooper
+DateTime::::2016-03-07T08:18:42Z
+If you can't read or critically think, you shouldn't have a PC to start with. If you can, this can be avoided. If not, bad luck your going to be walled in anyway with a Console!
+
+
+
+Author::::tragicallyhip
+DateTime::::2016-03-07T07:19:08Z
+Don't be ridiculous. Steam is an excellent client now that they have changed their refund policy.
+
+
+
+Author::::viper217
+DateTime::::2016-03-07T04:37:49Z
+Don't buy PC's with Windows 10 on it then and there won't be enough people to sell the games to.
+
+
+
+Author::::jdrch
+DateTime::::2016-03-07T02:42:02Z
+Tim Sweeney is the new Gabe Newell. Whatever, dude.
+
+
+
+Author::::李开元
+DateTime::::2016-03-07T00:52:55Z
+Apple limiting iOS users to only download apps from App Store unless user trust the 3rd publisher certificate manually: Strict app reviewing, ensures users get a good experienceGoogle limiting Android users to only download apps from built-in stores unless user change security settings: Limiting malware and good for Android usersMicrosoft limiting Windows users to only download universal apps from Store unless user change developer settings: Microsoft wants to monopolize PC gaming, we must fight it
+
+
+
+Author::::Monkeybus
+DateTime::::2016-03-07T00:26:03Z
+I've used Linux for 15 years. Was the blue screen of death sent me down this road. 
+
+
+
+Author::::martinusher
+DateTime::::2016-03-06T20:27:26Z
+The monopoly issue over Windows Explorer wasn't trivial, it was a blatant attempt by Microsoft to take over the entire Web ecosystem by integrating a proprietary version of the Web into Windows and providing proprietary tools to generate server side content. It failed for any number of reasons -- technical, legal, cultural -- and as a result arguably pushed Microsoft into one of its worst periods in its history where only inertia in business applications kept it afloat. I think they learned their lesson.
+
+
+
+Author::::Shawn Runewell
+DateTime::::2016-03-06T19:28:55Z
+I have no problem using Steam or web downloaded apps on the Mac.
+
+
+
+Author::::compaid
+DateTime::::2016-03-06T18:23:11Z
+here we go again, USA will force them to publish the platform API calls again.
+
+
+
+Author::::NegativeCamber
+DateTime::::2016-03-06T16:01:28Z
+Every implementation of linux I've tried has been crapola from a UX POV, most of the programs I use simply do not support it either.
+
+
+
+Author::::NegativeCamber
+DateTime::::2016-03-06T15:58:42Z
+There was a time OSX didn't have an app store....
+
+
+
+Author::::NegativeCamber
+DateTime::::2016-03-06T15:57:56Z
+I don't see many hysterical articles about the app store though.
+
+
+
+Author::::NegativeCamber
+DateTime::::2016-03-06T15:56:15Z
+Difference to the app store is what? People can still download. exe like they can download. dmg. Apple blocks apps by default not from the app store too.
+
+
+
+Author::::offbeatbop
+DateTime::::2016-03-06T15:50:01Z
+Irresponsible journalism. The author took someone else's comment and ran with it. Apparently he didn't read one of the top dogs on the Xbox team (a friend of his) response nor the original commenter acknowledging he probably jumped the gun. There, you can delete thus article now.
+
+
+
+Author::::maple1020
+DateTime::::2016-03-06T15:49:03Z
+there are lots of new game commercial on TV nowadays (only big development team with big budget can afford this). Did you see the icons right at the bottom of all these commercials? they are all IOS App Store and Google Play only. so what is wrong MSFT building a Windows store platform for games? MSFT haters already went that far as all these TV commercials showed. besides, MSFT does offer traditional Desktop WPF based Visual Studio for none store application development including games with very similar/same api coding style he store version, which is by far most enterprise in house application is based on.
+
+
+
+Author::::Arbite
+DateTime::::2016-03-06T15:32:04Z
+Unpaid? Yeah right!
+
+
+
+Author::::Arbite
+DateTime::::2016-03-06T15:30:59Z
+Seriously, a "Newspaper" employee shilling THIS hard is outright shameful.
+
+
+
+Author::::Arbite
+DateTime::::2016-03-06T15:21:57Z
+You are not displaying much journalistic independence that those adds at the end of the page laud.
+
+
+
+Author::::kicken18
+DateTime::::2016-03-06T14:47:21Z
+So hang on, MS release loads of new featurs but lock it down to their rules. However, developers can continue to release appa the way it has been since MS stated; disk, cd, dvd, download etc. Im not sure of the problem. You also staye that MS could disable or remove the ability to "side load" at any point because of Windows Update but why would they? And you could argue that any developer could do anything in an update. That was a baseless claim to state they could do that. Yea, they could do a lot but we dont theorise every aventuality. They could do a lot worse, why would they remove the thing thats made them so successful? Its like Apple stopping their phone range
+
+
+
+Author::::Ajibulu Goodluck Olusegun Femi
+DateTime::::2016-03-06T14:26:54Z
+There is no such thing like monopoly being played by Microsoft here. You can always count a few apps that is,not yet on the UW Store but its obvious that there are alot of good dangers there. Like Asphalt 8 and the rest. Maybe you don't get the idea �� of the Universal Windows store. It allows you to publish games to all platform on Windows easily. And come to think about the security, developers on the platform will be able to use your apps with all the features. Cracking of games won't be possible anymore. You'll have more revenue before the number of your users will be equal to the amount of downloads. No more torrent hosting by crackers, etc. I'll suggest they don't fight progress. If the old system ( w32) isn't old, there wouldn't have been a need for Microsoft to create the new platform. Thanks.
+
+
+
+Author::::Alex Atkin
+DateTime::::2016-03-06T14:14:37Z
+Last I checked it can be, as it still has the rest of Debian sat underneath it.
+
+
+
+Author::::Alex Atkin
+DateTime::::2016-03-06T14:11:34Z
+As I understand it the API was never the problem, as some developers still happily develop for OpenGL and Steam is basically the PC gaming API (meaning the multiplayer support, achievements, etc).
+
+
+
+Author::::Alex Atkin
+DateTime::::2016-03-06T14:07:22Z
+Its already been mentioned that you don't have to dig at all, its very easy to find.
+
+
+
+Author::::Alex Atkin
+DateTime::::2016-03-06T14:06:11Z
+Unless your gaming and have to rely on closed-source drivers.
+
+
+
+Author::::markarmstrongm
+DateTime::::2016-03-06T13:36:43Z
+You're right clearly, and I'm sure it's funny when it happens to someone else. But it's also about morality. I'm glad you brought up ONGOING SUBSCRIPTION though. Because I'm a 100 percent certain my wife wouldn't opt in to that. Tell me - are you automatically opted in to that or do you have to choose it?
+
+
+
+Author::::Henning Mosand Stephansen
+DateTime::::2016-03-06T13:22:56Z
+If you don't like UWP, then don't do UWP. It is however created for the reason to be able to get apps and games across the various platforms that Microsoft operates in: PC, tablets, mobile devices, Xbox and HoloLens. It makes ALL the sense for such a push. 
+
+
+
+Author::::Alex Atkin
+DateTime::::2016-03-06T13:11:45Z
+Of course the stock applications assume the user is dumb, that is kinda the point.
+
+
+
+Author::::risennorth
+DateTime::::2016-03-06T13:08:18Z
+Because the guardian are Crapple fanboys
+
+
+
+Author::::_arbard
+DateTime::::2016-03-06T12:38:49Z
+As you say ... "in the past...customers would pay for the platform/surface" and the platform was walked upon "reasonably freely".
+
+
+
+Author::::webhead
+DateTime::::2016-03-06T12:28:22Z
+microcrap will kill itself its been on a self destruct for years my pc isn't a mobile device I don't want my pc to become an ap crap store mobile device a pc is a pc stop trying to make it a phone I have one of those and it uses a fantastic os called android it does what I ant it to do but I don't want my pc to do the same stuff its pathetic to even consider a pc as a mobile device its way too heavy yo put on my shoulder or in my pocket.
+
+
+
+Author::::webhead
+DateTime::::2016-03-06T12:25:43Z
+yes but if you like apple you use apple , if you have a pc you can use multiple os,s meaning theres no monopoly but there trying to create one .
+
+
+
+Author::::thisnametaken
+DateTime::::2016-03-06T11:19:21Z
+Good luck to them. Halo5 on the xbox is the most disapointing game I have every played. It is just so bad in the mechanics, the aim, the gun balance.... while the maps are poorly designed if not just an update to a previous game map. Let MS alienate even more gamers so that in the future there are not enough idiots (like me) that give them "1 more" chance
+
+
+
+Author::::Richard Love
+DateTime::::2016-03-06T11:11:14Z
+If you're talking about Satya, then you're totally wrong. He's a very smart and astute guy who's actually open up Microsoft massively to cooperation with other platforms - both in business and Consumer markets. Under his leadership the company is transforming (for the better) is more profitable and has a higher stock price (the ultimate test of how the business and investment world see's it's value. As many other posters above have pointed out, the original article is exaggerated and somewhat ironic coming from a developer who's profited massively from Microsoft's Xbox 'closed' architecture - closed just as all consoles are). 
+
+
+
+Author::::Alex Atkin
+DateTime::::2016-03-06T11:02:57Z
+The argument is that anyone who isn't clever enough to figure it out shouldn't be installing anything not from a curated, virus-scanned app store.
+
+
+
+Author::::Alex Atkin
+DateTime::::2016-03-06T10:26:20Z
+While I agree the adverts on Solitaire are a PITA, its hardly a good example of the OS as a whole.
+
+
+
+Author::::Alex Atkin
+DateTime::::2016-03-06T10:15:39Z
+We already use app stores, mainly Steam but also Origin, UPlay, etc.
+
+
+
+Author::::Arbite
+DateTime::::2016-03-06T09:31:22Z
+Because Mac has always been fairly closed. People are worried that Microsoft will turn windows the last major commercial OS to remain semi-open but still relatively novice-accessible will give up its best feature.
+
+
+
+Author::::taffers
+DateTime::::2016-03-06T08:31:51Z
+It's already happening. Steam's Linux based OS is in the works. 
+
+
+
+Author::::kgb999again
+DateTime::::2016-03-06T07:01:31Z
+I think he understands how GPL works just fine.
+
+
+
+Author::::Quicknstraight
+DateTime::::2016-03-06T06:04:35Z
+Shock horror! PC gamers will have to use an app store!
+
+
+
+Author::::kgb999again
+DateTime::::2016-03-06T06:01:55Z
+And how many commercial software titles have you designed and coded under Windows to provide a plausible basis to believe you're qualified to assess the "logic" behind Sweeny's rant?
+
+
+
+Author::::Quicknstraight
+DateTime::::2016-03-06T06:01:15Z
+Ah, do tell us about all these other great PC gaming OSs!
+
+
+
+Author::::Quicknstraight
+DateTime::::2016-03-06T05:59:33Z
+But they have to use Apple's approved API, so it boils own to the same thing.
+
+
+
+Author::::kgb999again
+DateTime::::2016-03-06T05:44:48Z
+Unless otherwise qualified, the term "PC" refers to a Windows system. This has been reality since the mid 80's.
+
+
+
+Author::::kgb999again
+DateTime::::2016-03-06T05:42:39Z
+Apple's OSX (which runs their desktop PC's) isn't a closed ecosystem.
+
+
+
+Author::::hotphil
+DateTime::::2016-03-06T05:29:13Z
+Didn't he retire quite some time back?
+
+
+
+Author::::hotphil
+DateTime::::2016-03-06T05:27:55Z
+And yet still not the desktop OS of choice.
+
+
+
+Author::::David Ogilvie
+DateTime::::2016-03-06T02:05:36Z
+Why should they help you?
+
+
+
+Author::::David Ogilvie
+DateTime::::2016-03-06T01:56:37Z
+Odd how Apple and their closed eco system doesn't get a mention.
+
+
+
+Author::::QuentinUK
+DateTime::::2016-03-06T00:51:20Z
+If the Linux is in your set top box, car engine, or digital camera then it's going to be locked down. So apart from the thousands of companies building products with Linux in, and the thousands of servers with billions of pounds worth of e-commerce on the internet, no company trusts it.
+
+
+

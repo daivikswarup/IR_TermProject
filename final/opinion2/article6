@@ -1,0 +1,337 @@
+Headline::::
+Maths isn’t the problem - the way it’s taught is
+
+
+
+
+DateTime::::2016-03-11T15:06:58+0000
+
+
+
+<p><span class="drop-cap"><span class="drop-cap__inner">A</span></span> county council gathers data about where road accidents take place, identifies an accident blackspot, places a <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.theguardian.com/commentisfree/2015/oct/01/the-sun-speeding-drivers-campaigns-speed-cameras" title="">speed camera</a> there, and notices that the frequency of accidents decreases. Moreover, this is not a one-off: many other councils have observed similar reductions. Does this show that speed cameras improve road safety?</p>
+
+<p> <span>Related: </span><a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.theguardian.com/commentisfree/2016/mar/10/fixation-maths-doesnt-add-up-targets">Our fixation with maths doesn’t add up | Simon Jenkins</a> </p>
+
+<p>The answer isn’t as straightforward as one might imagine – and the way to understand this is through mathematics. Unfortunately, the way the subject is taught often leaves people with a narrow and misleading view of what maths is. No wonder Simon Jenkins <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.theguardian.com/commentisfree/2016/mar/10/fixation-maths-doesnt-add-up-targets" title="">attacked the subject</a> in Thursday’s Guardian.</p>
+
+<p><a class="u-underline" data-component="auto-linked-tag" data-link-name="auto-linked-tag" href="http://www.theguardian.com/education/mathematics">Mathematics</a> should be a tool for increasing one’s thinking power but for many children it is just a set of rather pointless rules for manipulating symbols. The problem becomes clear if one asks children a question such as the following: a number 35 bus pulls up at a bus stop and eight passengers get on; what is the age of the bus driver? A large percentage of children, their minds numbed by years of symbol manipulation, will give the answer 43. This is a tragedy: rather than being trained to think, these children have been trained to do the opposite.</p>
+
+<p>To return to the speed cameras, the evidence initially seems conclusive. However, <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.theguardian.com/uk/reality-check/2013/jun/07/reality-check-do-speed-cameras-reduce-serious-road-accidents" title="">the correct answer</a> is neither a clear yes nor a clear no, but rather that more research is needed. Consider what would happen if the locations of accidents were completely random. Then, just by chance, some places would have noticeably more accidents than others while the data was being collected and these places would be identified as blackspots. But since they would not in fact be more dangerous than anywhere else, the later accident rates at these “blackspots” would tend to decrease to more like the average, whether one installed speed cameras or planted apple trees. This phenomenon is known as regression to the mean. Further investigation is needed to determine whether speed cameras make a difference over and above the difference one would have expected anyway. (It turns out that they do.)</p>
+
+<p>Regression to the mean is one of several statistical phenomena that are counterintuitive until you understand them. But once you do, you become better at making decisions. This is important for individuals – whether we like it or not, we all have to take major decisions based on statistical evidence – and it is even more important for people in positions of authority, whose decisions affect other people.</p>
+
+<p> <span>Related: </span><a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.theguardian.com/commentisfree/2015/apr/29/people-hate-maths-my-plan-make-it-work-for-them">So people hate maths? Here’s my plan to make it work for them | Marcus du Sautoy</a> </p>
+
+<p>It is therefore good for the health of a country if its population has high standards of mathematical literacy: without it, people are swayed by incorrect arguments, make bad decisions and are happy to vote for politicians who make bad decisions on their behalf.</p>
+
+<p>So how might mathematics education be different? The way it is often taught, children are asked to take a huge leap of faith: that the symbol manipulation that seems pointless now will one day be useful to them. But this is true for only a small minority of children, who enjoy the symbol manipulation for its own sake and later find themselves <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.theguardian.com/commentisfree/2014/feb/23/science-maths-engineering-technology-vital-subjects" title="">drawn towards Stem subjects</a>, where it is indeed very useful. The rest know perfectly well that they will never reach this promised land. What can be done for them?</p>
+
+<p>An indication is given by the speed-camera example. It shows that regression to the mean is an important mathematical phenomenon that can be explained without the need for any calculation or symbol manipulation. Why not use examples like this to bring statistics alive? That way we could explain the point of means and standard deviations rather than just asking people to calculate them.</p>
+
+<p>Of course, some proficiency in calculation and symbol manipulation is important – and it improves one’s conceptual understanding – but it should not be all that is taught. We could also ask children open-ended questions, such as <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.theguardian.com/commentisfree/2014/jul/24/avoid-air-travel-mh17-math-risk-guide" title="">whether it is more dangerous</a> to travel by car or by aeroplane. A question like is not explicitly mathematical, so it is less likely to trigger the brain’s off switch. And if it doesn’t, the ensuing discussion will convey why we should care about multiplication, division, averages and probabilities, what we can say about them when we do not have exact numbers handed to us on a plate, and how to frame mathematical questions to help make decisions that are of practical interest.</p>
+
+<p>I am not suggesting that all maths should be introduced this way. But until our mathematics classes encourage people to think, rather than merely play games with marks on paper, the Simon Jenkinses of this world will continue to confuse mathematics with mindless symbol manipulation, attacking the subject itself when their real target should be today’s curriculum.</p>
+
+
+
+
+Author::::Terence Cass
+DateTime::::2016-03-12T09:15:44Z
+There is a massive weakness in your area versus volume theory. The ship may have cinemas , a vast lobby , a theatre, numbers of restaurants etc. Surey it was better to count the passengers and then divide the area of decking by that sum.No good having the Maths if you cannot apply it well.
+
+
+
+Author::::IdiomSavant
+DateTime::::2016-03-12T09:07:39Z
+No, it serves no useful purpose.
+
+
+
+Author::::twelveyards
+DateTime::::2016-03-12T09:06:42Z
+Try taking yourself off to a decent bookshop and see the teaching methods currently being used on children. You will then have some understanding of why so many children struggle with maths.For years I taught teenagers and apart from the hated group work nothing would bring a bigger groan from the class than announcing something such as, we were going to use maths to better understand the issues surrounding speed cameras.On the other hand they derived great satisfaction and pleasure from being shown a simple, effective method of solving maths problems that had been baffling them since primary school.Research and experience also show that humans have a natural aptitude for maths.Give a class of children a good teacher and simple methods and they will make rapid progress.Simple methods are important. Everybody learns a new skill by repeatedly practising it until you no longer have to think about it. Basic maths is no different and once children are comfortable with numbers their whole perception of the world changes, they become more confident human beings.If you think this is a reasonable summary of the learning process,
+
+
+
+Author::::mcgill16
+DateTime::::2016-03-12T09:02:49Z
+The words or phrases were invented. The underlying phenomina were always there and were discovered. The internal angles of every triangle shape in existance has always equalled 180 degrees, long before we invented the word degree or discovered that they did. It's a naturally occurring constant to be discovered. We just invented the words to describe it. So maybe a bit of both I suppose!
+
+
+
+Author::::Carrillo
+DateTime::::2016-03-12T08:58:13Z
+Wow, there are really a lot of adults that think 35+8 could be 42 or 44? I'm not brilliant at maths, but I do enjoy logic (I'm a bit odd like that) and, as you say, I would've thought it would be obvious that odd+even must be odd again.
+
+
+
+Author::::Spokeydokey
+DateTime::::2016-03-12T08:44:09Z
+If you listen to Today or Newsnight the presenters seem intelligent until they come across any thing Scientific or Mathematical and then they really show there ignorance! Some of them (John Humphries) seem to wear this ignorance as a badge of honour! Says it all really!
+
+
+
+Author::::Spokeydokey
+DateTime::::2016-03-12T08:42:39Z
+If you listen to Today or Newsnight the presenters seem intelligent until they come across any thing Scientific or Mathematical and then they really show there ignorance! Some of them (John Humphries) seem to wear this ignorance as a badge of honour! Says it all really!
+
+
+
+Author::::MartinRDB
+DateTime::::2016-03-12T08:42:26Z
+Mathematics, like Chemistry, is a way of thinking: a radical and enriching reappraisal of how to view the world. For those whose eyes have been opened, it forever changes their outlook. 
+
+
+
+Author::::NigelWallbridge
+DateTime::::2016-03-12T08:33:05Z
+Altitudes >< attitudes //apologies
+
+
+
+Author::::booking
+DateTime::::2016-03-12T08:31:37Z
+Maths isn’t the problem - the way it’s taught is
+
+
+
+Author::::NigelWallbridge
+DateTime::::2016-03-12T08:29:49Z
+Thus you are not in the intersection between the the set of journalism students and the set of people good at maths? If we knew the correlation between the attitudes of the general public and the altitudes of journalism students. Then we could measure the effects of allowing dullards, like Simon Jenkins, into journalism. And then, perhaps, we could clearly express the effect of public policy as a systems design issue. 
+
+
+
+Author::::Dave McGlade
+DateTime::::2016-03-12T08:22:11Z
+I realised all those are about statistics, so let's give an example which is another branch of mathematics. This one isn't every day, though! Imagine you are thinking of taking a holiday and are considering a cruise. You enjoy sunbathing, so want to spend a fair proportion of the time doing that. What size ship should you go for? The area of the sun deck is proportional to width x length, but the total number of passengers is proportional to width x length x height; so ships with more passengers will have more competition per sun bed and, in that respect, you would get a less satisfactory holiday. Now I am not suggesting you should approach it anything like that formally, but having an understating that some things change by area and some by volume is useful.
+
+
+
+Author::::xxxFred
+DateTime::::2016-03-12T08:20:40Z
+You may not understand the technicalities of it, but anyone can understand the general principle - the author explained it well enough in the article - which is all most people (including the mythical county council members) would ever need to know.
+
+
+
+Author::::MartinRDB
+DateTime::::2016-03-12T08:13:23Z
+We can set upper and lower limits.
+
+
+
+Author::::fustratedhistorian
+DateTime::::2016-03-12T08:10:22Z
+The problem with Education in the UK is that's in the hands of politicians.
+
+
+
+Author::::MartinRDB
+DateTime::::2016-03-12T08:10:17Z
+Leopold Kronecker said: "God made the integers, all else is the work of man". But surely that is wrong? E.g. Pi (not an integer - a transcendental number) would still exist - whether mankind had ever existed or not.
+
+
+
+Author::::colddebtmountain
+DateTime::::2016-03-12T08:07:20Z
+We all learn faster and more deeply when we are enjoying something. There are many subjects badly taught at school because very often so little thought has gone into making them interesting, involving, enjoyable. In my schooldays I was well taught up at primary school only to find many subjects boring and uninteresting in secondary school. As is the case with all education so much depends on the teacher, and their problem is the range of individual children they are expected to teach at the same time. What works for one child may not work for another, and maths will show you why. 
+
+
+
+Author::::joiningthedebate
+DateTime::::2016-03-12T07:47:13Z
+Yes I commented that many adults would fall for the trap of the original puzzle. It is like one of those kick yourself puzzles as I was going to St Ives.
+
+
+
+Author::::joiningthedebate
+DateTime::::2016-03-12T07:45:17Z
+Yes if it was split up...Standards in basic literacy could increase.Students with a love for the subject who see a point in algebra for example could press on without the need for real life contrived examples for the sake of the others.
+
+
+
+Author::::Dave McGlade
+DateTime::::2016-03-12T07:41:10Z
+I disagree, middleyouth, and that is the argument in the main article. I doubt there is a day in your life where a good understanding of statistics and maths would not help your decision making, and, as the article says, it is about understanding, not algebra. 
+
+
+
+Author::::joiningthedebate
+DateTime::::2016-03-12T07:36:47Z
+A well intentioned article BUT ...a worse problem is that many students would call out 42 or 44 even if the numbers 35 and 8 wrongly entered their minds. No concept of an odd plus even equals odd. Use of fingers or stab in the dark. I've had this kind of problem with middle set yr11 go go on to get the magic C.It could be argued that children who are in this situation because of the amount of time spent previously trying to make the subject real life and interesting while neglecting basic numeracy. (The obsession with the pursuit of real life maths is sometimes laughable even at A level. I often tell students that the example is contrived. It looks like a real life example but it would never be solved this way in reality. The information given in the question simply would be available.)Anyway, the initial 'problem' mentioned is similar to puzzles that even adults get wrong. The problem I describe (35+8=42) is more serious.
+
+
+
+Author::::SirMartin
+DateTime::::2016-03-12T07:26:49Z
+Says the data.
+
+
+
+Author::::middleyouth
+DateTime::::2016-03-12T07:20:42Z
+Maths is as essential as music. That is, not remotely. It's a bonus for those that are naturally talented at it.
+
+
+
+Author::::Lambtonworm
+DateTime::::2016-03-12T07:20:31Z
+and £60m of public funding
+
+
+
+Author::::middleyouth
+DateTime::::2016-03-12T07:18:52Z
+I've said before, I'll say again... arithmetic is as vital as reading, and that includes percentages. Maths? For the vast majority of us, it's completely irrelevant. It needs to be taught in schools, for the sake of those who are good at it and those whose futures will depend on it, but let's not pretend that it has any more relevance for the rest of us than being able to tell a plagal from a perfect cadence. My ability to solve a quadratic equation in the summer of 1976 has had absolutely zero effect on my life since, other than the fact that I could wave a certificate with a C grade for O level maths got me into journalism college.
+
+
+
+Author::::Flagella
+DateTime::::2016-03-12T07:08:45Z
+Britain minus Europe, multiply by endless Tory government, divide by a seriously weakened opposition, add the appeal of far right parties, equals a not very pleasant place to live in.
+
+
+
+Author::::KillerMarmot
+DateTime::::2016-03-12T03:42:23Z
+Would you have cared about the history and politics of number names at 10?
+
+
+
+Author::::OhReallyFFS
+DateTime::::2016-03-12T03:31:31Z
+If you really want to know which roads are truly dangerous ask local 11 year olds which roads their mothers tell them not to cross.
+
+
+
+Author::::OhReallyFFS
+DateTime::::2016-03-12T03:29:47Z
+Would you have cared about the history and politics of number names at 10? 
+
+
+
+Author::::OhReallyFFS
+DateTime::::2016-03-12T03:23:46Z
+However, the correct answer is neither a clear yes nor a clear no, but rather that more research is needed.
+
+
+
+Author::::GreatGrandDad
+DateTime::::2016-03-12T03:00:01Z
+ The result is that children are taught far too much far too soon. 
+
+
+
+Author::::GreatGrandDad
+DateTime::::2016-03-12T02:48:29Z
+My only query about maths at school today, why are not children taught about mortgages, interest rates and compound interest. It might save some of them from getting into financial trouble later in life, especially with credit cards.
+
+
+
+Author::::GreatGrandDad
+DateTime::::2016-03-12T02:34:05Z
+Go to a party, even an upper middle class one and say you are a top engineer at BMW and you get respect and envy in equal measure.
+
+
+
+Author::::GreatGrandDad
+DateTime::::2016-03-12T02:09:09Z
+ Also at primary school I could make gunpowder, [you could buy the chemicals then], and used to blow up wasps nests.
+
+
+
+Author::::MikeDrew2101
+DateTime::::2016-03-12T01:36:51Z
+It has been a dispute in the philosophy of Maths whether Maths is discovered or invented. The answer appears to be similar to that of light is it a wave or particle.
+
+
+
+Author::::MikeDrew2101
+DateTime::::2016-03-12T01:16:51Z
+It is more than than a tool.
+
+
+
+Author::::MikeDrew2101
+DateTime::::2016-03-12T01:15:25Z
+How do you set a sodoko problem so that it can be solvable?
+
+
+
+Author::::DavidPavett
+DateTime::::2016-03-12T01:06:27Z
+I agree entirely about the unworldly nature of most school mathematics. This great creative area of thought is treated as a matter of learning dry dogmas which one takes on trust and learns for no particular reason. A maths teacher once complained to me that pupils often ask things like "Why are we learning quadratic equations and what's the point of them" to which his answer was "We are learning them because they are in the syllabus and the point of them is to help you pass the exam". That should never ever happen and it is a reflection of the very poor training of all too many maths teachers.
+
+
+
+Author::::MikeDrew2101
+DateTime::::2016-03-12T01:00:23Z
+A school friend of mine was not very good at maths and went on to be a primary school teacher. He discovered that he was very good at teaching maths to his pupils.I did a maths degree and love maths but I don't think I could teach it.
+
+
+
+Author::::foryousure
+DateTime::::2016-03-12T00:52:38Z
+Can assure you my comments are based on practical experience not dogma.
+
+
+
+Author::::Fred Bloggs
+DateTime::::2016-03-12T00:52:20Z
+Bring back proofs
+
+
+
+Author::::Fred Bloggs
+DateTime::::2016-03-12T00:48:57Z
+We could use the PISA scores to illustrate the bad use of statistics.
+
+
+
+Author::::foryousure
+DateTime::::2016-03-12T00:45:24Z
+What an error. Always elements that want to explore infinity in a maths set.
+
+
+
+Author::::Fred Bloggs
+DateTime::::2016-03-12T00:43:58Z
+eg today we are building a bridge across the Thames, how do we prepare for that?
+
+
+
+Author::::Artusov
+DateTime::::2016-03-12T00:42:01Z
+The easiest and fairest way is for all to pay £ 7.40 [ why expect everyone to have pennies ? ]. This leaves £ 1.62 for a tip . 
+
+
+
+Author::::foryousure
+DateTime::::2016-03-12T00:36:27Z
+Love it when people say, " I was never good at maths". As in, " I'm very literate you know, got 2:1 in literature, specialised in early English". Never heard anyone say, " I was never good at literature, still can't read or write".Pity we live in a world where mathematics is somehow only for the very practical or very weird.
+
+
+
+Author::::Fred Bloggs
+DateTime::::2016-03-12T00:36:17Z
+Rather a dated cliche.
+
+
+
+Author::::Artusov
+DateTime::::2016-03-12T00:13:30Z
+'...The teaching of mathematics is plagued by teachers who are useless at mathematics..... '
+
+
+
+Author::::Artusov
+DateTime::::2016-03-12T00:10:32Z
+You've obviously never taught maths to those of a non-academic ' bent ' , for want of a better word.
+
+
+
+Author::::Lardyda
+DateTime::::2016-03-12T00:08:27Z
+When I was at school they asked me if I'd like to do Advanced Mathematics. I gave it some thought and told them: "No. Count me out." There were some plusses but too many minuses. Just didn't add up.
+
+
+

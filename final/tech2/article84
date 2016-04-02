@@ -1,0 +1,353 @@
+Headline::::
+Google's AlphaGo AI defeats human in first game of Go contest
+
+
+
+
+DateTime::::2016-03-09T09:14:00+0000
+
+
+
+<p>Lee Sedol started with a bow, a traditional Korean gesture of respect for an opponent who could neither see him nor sense his presence.</p>
+
+<p>The world champion at Go – an ancient Chinese board game – looked nervous. His eyes darted from side to side. He took a sip of water, and made his first move.</p>
+
+<p>Lee could be forgiven some nerves: his opponent was AlphaGo, an artificial-intelligence program designed by <a class="u-underline" data-component="in-body-link" data-link-name="in body link" draggable="true" href="http://viewer.gutools.co.uk/technology/google">Google</a> DeepMind, their five-game series billed as a landmark face-off between human and computer. “History is really being made here,” said commentator Chris Garlock, as the first game in the series started.</p>
+
+<p>Three and a half hours later, history had indeed been made: AlphaGo won, shocking many observers of the game and marking a major breakthrough for AI.</p>
+
+<p>Go isn’t played much in the west, but it is widely enjoyed throughout east Asia. Two players take turns to place tiles on a board, trying to gain territory by arranging their tiles in strategic shapes or patterns. The surface level simplicity is deceptive: there are trillions of possible moves. The almost endless possibilities make it difficult to follow a particular strategy, and mastering the game means using intuition to react to any number of possible twists or turns.</p>
+
+<p>Computers had already conquered chess, when in 1997 IBM’s Deep Blue defeated world champion Garry Kasparov. Go was “the only game left above chess”, as DeepMind’s CEO Demis Hassabis put it before Wednesday’s showdown. </p>
+
+<p>Lee, a South Korean who sports a bowlish haircut and looks younger than his 33 years, spent much of the match leaning forward, cradling his chin in his hand. Sat opposite him was DeepMind developer Aja Huang, who physically placed the stones on the board in positions chosen by AlphaGo. Lee played aggressively from the outset, putting AlphaGo on the defensive. </p>
+
+<p class="pullquote-paragraph">There are more possible Go positions than there are atoms in the universe</p>
+
+<p>The match was close, with both AlphaGo and Lee making mistakes, but eventually Lee conceded that AlphaGo had built an insurmountable lead. AI had scored a victory in one of the most creative and complex games ever devised.</p>
+
+<p>Lee maintained a meek posture in a post-game press conference, hanging his head and at times looking to be on the verge of tears. He expressed surprise at his opponent’s strong performance. “I didn’t know AlphaGo would play such a perfect game,” he said. <br/></p>
+
+<p>The result shocked many Go aficionados. As recently as two weeks ago, Lee said he was confident of a sweeping victory. AlphaGo’s defeat of <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.theguardian.com/technology/2016/jan/27/google-hits-ai-milestone-as-computer-beats-go-grandmaster">a European Go champion in October</a> last year – an achievement many thought was at least a decade away – should have acted as a warning.</p>
+
+<p>AlphaGo’s mastery of Go is so significant because of the near-infinite number of board positions available and the intuition that top human players rely upon to pick between them. Hassabis described Go as “the most elegant game that humans have ever invented”, with “simple rules [that] give rise to endless complexity”. <br/>“There are more possible Go positions than there are atoms in the universe,” he added.</p>
+
+<p>DeepMind’s team built “reinforcement learning” into the programme, meaning the machine played against itself and adjusted its own neural networks based on trial and error. AlphaGo is capable of narrowing down the search space for the next best move from the near-infinite to something more manageable. It can also anticipate long-term results of each move and predict the winner.</p>
+
+<p>The match took place in a quiet room as reporters watched on a projector screen from a separate press area. The game, including commentary, was live-streamed on YouTube.</p>
+
+<p class="pullquote-paragraph">AlphaGo doesn’t get tired, doesn’t forget, doesn’t worry</p>
+
+<p>Ben Lockhart, a 22-year-old who took up Go as a child in New York and who moved to <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://viewer.gutools.co.uk/world/south-korea">South Korea</a> four years ago to study the game full time, welcomed the unprecedented level of attention brought by the AlphaGo contest. “That no one really knows this game [in the west] has been frustrating for a long time. At least after this more people will have heard of Go,” he said.<br/></p>
+
+<p>Maybe part of the reason that the game has struggled to make inroads in the west, where it has no history, is that it is a less than scintillating spectator activity. The action inches along, with long pauses as players eye the board and contemplate their next move. It isn’t always obvious to viewers unfamiliar with the game who is winning. After a couple of hours of play, most reporters were slouched in their chairs playing with their smartphones.<br/></p>
+
+<p>Lee has four more chances to beat AlphaGo and claim the $1m in prize money. The stress and fatigue affecting the South Korean won’t be a problem for his opponent when they reconvene for game two on Thursday 10 March. </p>
+
+<p>“Historically, Go has been a game of people testing themselves against each other, and themselves. It has been a game of character,” Andrew Okun, president of the American Go Association, who flew to Seoul to watch the showdown. AlphaGo, he added, “doesn’t get tired, doesn’t forget, doesn’t worry”.</p>
+
+<p></p>
+
+
+
+
+Author::::GravelInspector
+DateTime::::2016-03-11T15:31:45Z
+Most people who I know that play both Go and Shogi (I'm rather annoyed at missing the Skye Go Tournament last weekend ; usually an excellent tournament), consider Go to be considerably the more complex game.
+
+
+
+Author::::GravelInspector
+DateTime::::2016-03-11T15:05:53Z
+The permutations of possible moves in Go are more than the total number of atoms in the universe
+
+
+
+Author::::GravelInspector
+DateTime::::2016-03-11T15:03:30Z
+(1) it doesn't.(2) say an AI chooses for some reason to attack humanity (whatever the fuck that it ; is it really an identifiable thing, as opposed to "a group of humans") ; why do you assume that the humans under attack won't have - or rapidly develop - AIs of their own?
+
+
+
+Author::::GravelInspector
+DateTime::::2016-03-11T15:00:56Z
+Lee has been a professional player for about 20 years (nearly as long as I've been playing, and he's about 22 grades stronger than I am). It's very unlikely that there is much in the way of psychological effect there.
+
+
+
+Author::::GravelInspector
+DateTime::::2016-03-11T14:55:15Z
+Poker is a mere 52x51x50 .... 3x2x1 (also known as "Factorial 52" or "52!") possibilities; around 10^122. Chess is on the order of 10^45 games (average of 8 choices per move, average of 50 moves per game). Go is more of the order of 361! x 361! x 361!, around 10^2300, though some of the simpler rules (e.g. the popular "SuperKo" rule, that "you will not repeat a board position") chops that down to more like 10^200. The "size" of the game isn't clear, because the rules are not very restrictive.
+
+
+
+Author::::AmyInNH
+DateTime::::2016-03-11T13:41:30Z
+Eliza was a language learning program, which came back with some pretty funny ironic analogies. Like "A father is like dictator, [with justification for it]".Tech du jour, parental "But MY baby's so much smarter than the other babies!".
+
+
+
+Author::::MajorLeeGasol
+DateTime::::2016-03-11T12:21:42Z
+Ah, like so many things. Easy mistake to make, especially as Go is Japanese for five.
+
+
+
+Author::::everchanging
+DateTime::::2016-03-11T10:37:50Z
+There's Alan Turing's Computing Machinery and Intelligence ... wrt his own objections as to whether computers could pass his Turing Test (including his conviction on extrasensory perception). If you examine these, Points (4) and (9) seem to rule the attempt as futile and the first lines of point (1), which he doesn't believe in (God etc.), could be construed as contradicting the whole jist of point (9), which he does (taken to a conclusion as to why the universe has such properties). His comment on consciousness is interesting, although he does qualify it, "consciousness, There is, for instance, something of a paradox connected with any attempt to localise it."
+
+
+
+Author::::everchanging
+DateTime::::2016-03-11T10:31:59Z
+You seem to think that the details of physical construction are more relevant to humans than computers in some sense, but I do not understand the model you have in mind that leads to this conclusion.
+
+
+
+Author::::everchanging
+DateTime::::2016-03-11T10:09:32Z
+Really, I would say that the software that is mimicking intelligence is different re it's operation from the matter/energy/space that makes up living systems. When a code is written, ultimately based on a simple basis which is utterly known and invented by us, this doesn't compare to the partially known quantum field models (even though very accurately agreeing with experiment, like QED) that describe matter/energy. The first is prescriptive, the latter descriptive only. There's also nothing unknown about the former in it's basics, yet the latter will always have unprovable assumptions (which can be explored using further physics theories and experiments).Again, since every neutron/proton depends on the quantum vacuum and the ultimately unknown properties of space, so do our "bodies".
+
+
+
+Author::::GreenWyvern
+DateTime::::2016-03-11T08:52:47Z
+There is an assumption or axiom which underlies your understanding of reality, which you may not realise you are making.
+
+
+
+Author::::palfreyman
+DateTime::::2016-03-11T02:54:52Z
+It sounds like an Eliza variant.
+
+
+
+Author::::ilya202
+DateTime::::2016-03-11T01:28:43Z
+You beat me to it!
+
+
+
+Author::::ilya202
+DateTime::::2016-03-11T01:28:07Z
+In real life, any programmer who can beat -- or even play to stalemate, -- a game-playing program he coded himself, is a crappy programmer.
+
+
+
+Author::::tstelzig
+DateTime::::2016-03-11T01:25:51Z
+"Then you are equating us to advanced computers": Yes, I like Marvin Minsky's phrase 'meat machines'. In fact, I don't even understand what the alternative is supposed to be. 
+
+
+
+Author::::tstelzig
+DateTime::::2016-03-11T01:20:33Z
+Thanks for the reply. But could you elaborate on the following bit? 
+
+
+
+Author::::Mark31415926
+DateTime::::2016-03-11T01:02:35Z
+"From what I've read Go is a game that actually requires the player to react emotionally and think- which is why no computer has been able to do this before. It's not a matter of there being a specific number of choices, one of which is the best one."
+
+
+
+Author::::AmyInNH
+DateTime::::2016-03-10T21:40:35Z
+It has nothing to do with dictionaries, and everything to do with the progression of AI. This is no giant step forward. It sounds like an Eliza variant.
+
+
+
+Author::::littlepump
+DateTime::::2016-03-10T20:34:29Z
+Rereading my post I see it come across as quite rude and arrogant. My bad, I apologize. There was no need for that. I am sorry.
+
+
+
+Author::::chrisflondon
+DateTime::::2016-03-10T20:27:59Z
+10 sleep 120 goto 10 
+
+
+
+Author::::chrisflondon
+DateTime::::2016-03-10T20:27:17Z
+Ouch. How'd that advice work out ? :)
+
+
+
+Author::::palfreyman
+DateTime::::2016-03-10T19:24:14Z
+If you start with reading and understanding instead of just commenting you will see that neither philosophers nor psychologists have a clear definition of intelligence. Our best understanding right now (and please don't be one of those tedious people who quotes a dictionary definition at me - a clear sign of Google but no knowledge) is that it is made up of a number of factors, including the heuristic ability this program has. In fact the ability to use heuristics successfully - to generalise in some way or another from specific situations and create short cuts that do not require a full analysis - is considered one of the most important components of intelligence.
+
+
+
+Author::::Cole Bonner
+DateTime::::2016-03-10T18:33:49Z
+i can't tell you what alphaGo does exactly.... and even if i stole it's code and showed it i doubt either you or i would understand more than 1% between the both of us XD, but i can assure you that it's unlikely to brute force it.
+
+
+
+Author::::AmyInNH
+DateTime::::2016-03-10T17:09:36Z
+If you start with the definition of intelligence, you'll see it is light years from it.
+
+
+
+Author::::CliveMarsh666
+DateTime::::2016-03-10T16:38:07Z
+I have no need for clothing, thank you.
+
+
+
+Author::::ecommpro
+DateTime::::2016-03-10T14:50:52Z
+Lol.
+
+
+
+Author::::JeffAshe
+DateTime::::2016-03-10T14:25:30Z
+Yes, but the human brain behind AlphaGo is not British at all. The company happens to be based in the UK, just as the German engineers from BMW and VW are stationed here at Rolls Royce and Bentley headquarters. 
+
+
+
+Author::::pretzelattack
+DateTime::::2016-03-10T14:19:00Z
+computers solved limit hold em. last i heard still working on no limit.
+
+
+
+Author::::vineland75
+DateTime::::2016-03-10T13:47:16Z
+What about poker?
+
+
+
+Author::::funkhausen
+DateTime::::2016-03-10T12:57:52Z
+I'm using the word "think" as used in the usual sense around human reasoning, cognition etc. This is the result of an emergent system made up of many thousands of smaller domain specific systems. The Go playing machine is simply one narrow domain specific problem solver. There isn't nearly enough complexity going on to give rise to an emergence from it.
+
+
+
+Author::::Ifsnbuts
+DateTime::::2016-03-10T12:48:31Z
+:)
+
+
+
+Author::::CliveMarsh666
+DateTime::::2016-03-10T12:40:05Z
+Sorry, don't know where that came from.
+
+
+
+Author::::CliveMarsh666
+DateTime::::2016-03-10T12:39:07Z
+The tone.
+
+
+
+Author::::CliveMarsh666
+DateTime::::2016-03-10T12:38:13Z
+Today is Thursday.
+
+
+
+Author::::ecommpro
+DateTime::::2016-03-10T12:12:08Z
+Some good talent in Britain for the size of it. Maybe all the invaders' genes from over the years.
+
+
+
+Author::::ecommpro
+DateTime::::2016-03-10T12:10:40Z
+Hello Clive, how do you feel today?
+
+
+
+Author::::HiramsMaxim
+DateTime::::2016-03-10T12:10:11Z
+It seems we differ on law.
+
+
+
+Author::::everchanging
+DateTime::::2016-03-10T11:57:07Z
+which bit?
+
+
+
+Author::::everchanging
+DateTime::::2016-03-10T11:55:43Z
+Your welcome! I guess it's how big the effects are as well. Thanks for ref., I'll read with interest.
+
+
+
+Author::::dobdobby
+DateTime::::2016-03-10T11:46:21Z
+Yes, DeepMind is a London-based company.
+
+
+
+Author::::erenata
+DateTime::::2016-03-10T11:22:17Z
+''seems to find a way''The human brain has been developing for a tad longer than AI and will have had far more varied input
+
+
+
+Author::::erenata
+DateTime::::2016-03-10T11:19:40Z
+Why assume AI would be aggressive?
+
+
+
+Author::::GreenWyvern
+DateTime::::2016-03-10T11:19:29Z
+Thanks for that very interesting paper, Everchanging! 
+
+
+
+Author::::ecommpro
+DateTime::::2016-03-10T11:08:07Z
+The British flag on the screen to represent Alphago? I'm guessing all the heads behind it are Brits.
+
+
+
+Author::::jezzigogs
+DateTime::::2016-03-10T11:03:41Z
+I have played Go quite a lot although I am pretty hopeless at it. When it is your turn and you look at the state of play on the board you have to evaluate all your previous moves and work to expand your territory by building on what you have done, being aware of threats developed by your opponent, abandoning areas where you are weak, and concentrate on areas where you're opponent is weak. The slightest slip when playing a superior opponent spells disaster.My Palm Pilot had a Go program 10 years ago that could beat me consistently.It seems to me the problem is as follows;Does the Go computer think like that? or does it use the same technique that Big Blue used against Kasparov - rapidly flicking through all alternatives, developing the game on each promising alternative, selecting the best out of all possible moves then making the move.I mean it's not really THINKING is it? It's really just a clever program of probabilistic logical algorithms that exploit the computer's ability to work extremely fast through all the permutations. So despite the computer winning, does it really matter? It seems to me to be a 'John Henry' moment. Did the computer enjoy it? Did the steam hammer enjoy it?And will it really affect people who enjoy the game for its human element of skill and competition, and the clicking of stones on the wooden board? I don't think so.
+
+
+
+Author::::krudler_uk
+DateTime::::2016-03-10T10:09:33Z
+Some are, yes. Others seem to turn to various religions, and embrace the dumbing down that comes with it.
+
+
+
+Author::::krudler_uk
+DateTime::::2016-03-10T10:08:13Z
+I, for one, welcome the chance to help our new overlords get the suck-ups.
+
+
+
+Author::::CliveMarsh666
+DateTime::::2016-03-10T09:50:27Z
+Inspirational!
+
+
+
+Author::::everchanging
+DateTime::::2016-03-10T09:47:37Z
+The von Neumann quote is one I didn't know but (and thanks for quoting the rest), if we put aside God (not dismissing) this reminded me of these experiments by a research team (academic) where the mind (in some experiments distant from the experiment) effects a quantum-laser setup. It's the latest in a series over several years. The von Neumann interpretation of quantum theory is cited to explain ... 
+
+
+
+Author::::CliveMarsh666
+DateTime::::2016-03-10T09:31:34Z
+The more you say the more obvious it becomes that you don't understand.
+
+
+

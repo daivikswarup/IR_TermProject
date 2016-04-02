@@ -1,0 +1,327 @@
+Headline::::
+Google's AlphaGo wins second game against Go champion
+
+
+
+
+DateTime::::2016-03-10T09:16:34+0000
+
+
+
+<p>Google’s Go-playing machine has scored a second victory against the best human player.</p>
+
+<p> <span>Related: </span><a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.theguardian.com/technology/2016/mar/09/googles-ai-machine-v-world-champion-of-go-everything-you-need-to-know">Google's AI machine v world champion of 'Go': everything you need to know</a> </p>
+
+<p>The victory by AlphaGo against South Korea’s Lee Sedol, the winner of 18 world championships, puts the machine’s owners one victory away claiming a $1m (£700,000) prize.</p>
+
+<p>AlphaGo’s <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.theguardian.com/technology/2016/mar/09/google-deepmind-alphago-ai-defeats-human-lee-sedol-first-game-go-contest">first win against Lee</a>, on Wednesday, shook the Go-playing world, marking a milestone in the development of artificial intelligence.</p>
+
+<p>Many had believed it would take another decade for computers to conquer the ancient Chinese board game, one of the most creative games ever devised.</p>
+
+<p>After his first loss, Lee said he was in shock as he had not expected to lose. Google’s team compared AlphaGo’s win to landing on the moon.</p>
+
+<p>The five-game series is scheduled to run until Tuesday.</p>
+
+
+
+
+Author::::heian555
+DateTime::::2016-03-12T09:54:40Z
+Neural networks are just sophisticated heuristics under another name. The net result in both is that search is restricted to exclude pointless moves.
+
+
+
+Author::::AntonZ
+DateTime::::2016-03-12T09:49:19Z
+For me, for a computer to move from playing chess well to playing Go well is a difference in degree, not in kind.
+
+
+
+Author::::heian555
+DateTime::::2016-03-12T09:32:47Z
+For me, for a computer to move from playing chess well to playing Go well is a difference in degree, not in kind. Both chess and Go are formal systems, so it is not surprising that a computer can make a good fist of them, given suitable programming. Judging from the comments of the program's designers, all that has really happened in the Go program is an enhancement to heuristic search through the trees of possible moves.
+
+
+
+Author::::Graham Lamont
+DateTime::::2016-03-12T02:16:02Z
+It's OK I'll lose a couple.
+
+
+
+Author::::g_reader_1
+DateTime::::2016-03-11T23:51:20Z
+"Google’s Go-playing machine has scored a second victory against the best human player."
+
+
+
+Author::::judeanpopularfront
+DateTime::::2016-03-11T19:30:38Z
+10 print "AlphaGo rules, humans suck" 20 goto 10RUN
+
+
+
+Author::::SamSmeagol
+DateTime::::2016-03-11T14:42:13Z
+#:-)
+
+
+
+Author::::ShinNihonKikaku
+DateTime::::2016-03-11T14:16:27Z
+Regarding being jaded, I hear ya. Perhaps there is something about our imperfection that makes these games interesting to us; but then that's a whole different conversation.
+
+
+
+Author::::ohblob
+DateTime::::2016-03-11T14:05:30Z
+Google is also working on a machine that learns and plays card games just from watching other people play card games.
+
+
+
+Author::::ShinNihonKikaku
+DateTime::::2016-03-11T14:02:15Z
+I was just going of the previous duel it had with the European champion which ended 5 - 0. To be honest I thinks it's redundant - I'm quite sure this machine will beat any opponent at this game, repeatedly. 
+
+
+
+Author::::willgilpin
+DateTime::::2016-03-11T13:51:32Z
+Hmm I'm not sure if you'd noticed, but Humans have quite a lot of processing power. Are they, too, disqualified from consideration for brute-forcing solutions?
+
+
+
+Author::::ShinNihonKikaku
+DateTime::::2016-03-11T13:42:40Z
+It's a nice thought, but I really don't think we all need to feel so precious about this.
+
+
+
+Author::::JohnJNorris
+DateTime::::2016-03-11T12:57:38Z
+But could it beat Sai from Hikaru No Go?
+
+
+
+Author::::JohnJNorris
+DateTime::::2016-03-11T12:51:09Z
+#Illuminati
+
+
+
+Author::::Andy Tice
+DateTime::::2016-03-11T12:46:06Z
+...and yet it wasn't an AI who actually designed Go, or that matter the system and hardware that alphago works from. God is in the machine.
+
+
+
+Author::::joeknowsbest
+DateTime::::2016-03-11T11:10:36Z
+Nope. You're behind the times. Humans developed a piece of software (parent bot) last year with the ability to write it's own software (eg. Child bot). It was created to solve a problem the human developwrs couldn't program themselves. After some time, the parent bot created the child bot which then solved the problem. When interviewed, the developers were asked if they understood how the child bot had come to its solution. They answered "no". All they knew is that it worked.
+
+
+
+Author::::joeknowsbest
+DateTime::::2016-03-11T11:02:45Z
+Netherlands has been road testing driverless buses since the new year. Public roads and traffic.
+
+
+
+Author::::yossell
+DateTime::::2016-03-11T10:50:15Z
+Interesting post-- but what do you mean `chess was solved'? As I understand it, chess has not been solved even today, let alone in 79. Chequers was solved only in 2007.
+
+
+
+Author::::LabMonkey
+DateTime::::2016-03-11T10:39:47Z
+"Wouldn't you prefer a nice game of chess?"
+
+
+
+Author::::Jats111
+DateTime::::2016-03-11T10:25:26Z
+This has actually happened http://www.creativebloq.com/digital-art/ai-doodles-fine-art-31619573
+
+
+
+Author::::Vasily Kuznetsov
+DateTime::::2016-03-11T10:09:45Z
+Actually Go also had a revolution of sorts in the 1930s. That's when they started playing the star-point openings so common today (see https://en.wikipedia.org/wiki/Shinfuseki). There's also been pretty consistent smaller scale innovation by top players, at least since I started playing in the early 2000s. Now with computers getting to pro level we might see more new ideas. Exciting times!
+
+
+
+Author::::citymiddle
+DateTime::::2016-03-11T09:53:30Z
+Take the plug out..!
+
+
+
+Author::::thespleen
+DateTime::::2016-03-11T09:40:00Z
+Actually I think Kikaku is right and I am wrong. I read elsewhere that Lee predicted 5-0 or 4-1 to him, so I think they play the series to its conclusion even if the winner has already been decided. Like a Test series in cricket. Even if one side is 3-0 up you still play to the end and try to either save face or go for the 5-0 whitewash.
+
+
+
+Author::::Phil Coates
+DateTime::::2016-03-11T07:32:49Z
+We already have artificial stupidity, otherwise known as American politics, amongst other candidates.
+
+
+
+Author::::Steve Radcliffe
+DateTime::::2016-03-11T07:31:58Z
+I wonder if he could still beat it if *not* playing under tournament conditions, I.e. against the clock.
+
+
+
+Author::::ecommpro
+DateTime::::2016-03-11T07:31:41Z
+I thought it would also be partly that there will be a formula for visual art that "presses the right buttons" in people that they get some pleasure or other reward from looking at it.
+
+
+
+Author::::ID2969389
+DateTime::::2016-03-11T02:26:01Z
+But AG seems to win hands down. It's truelt momentous in terms of strategy even if it does play more games to learn than a human.It has a greater learning potential than humans now. Very scary IMHO.
+
+
+
+Author::::thehomme
+DateTime::::2016-03-11T02:22:31Z
+It's best of 5 so the likely end result is 3-0 to AlphaGo
+
+
+
+Author::::ID2969389
+DateTime::::2016-03-11T02:13:52Z
+Very educational for us lowly humans.
+
+
+
+Author::::ID2969389
+DateTime::::2016-03-11T02:10:53Z
+Excellent point. One often becomes familiar with one's peers abilities. If one is stuck on a plateau one may become very familiar with certain playing styles and abilities. I think AG has that advantage due to number of games it's played itself. Lee has noot had the numerical exposure to AG that AG necessarily has had to other player formats.Nor has he had much exposure to AG's style of play. MAYBE humans will learn how to beat AG and excel.Humans might bite back??
+
+
+
+Author::::AustereGreek
+DateTime::::2016-03-11T00:00:56Z
+Yesterday the 9 Dan US commentator said that he was learning new ideas from AG's original moves. So GO will be forever better for it as humans adopt those ideas and learn to counter them. It reminds me of the "modern chess revolution" in the 1920's when hundreds of years of classical chess theory was thrown upside down and the world's chess geniuses all adopted new, modern strategies with immense effect. 
+
+
+
+Author::::Knowles2
+DateTime::::2016-03-10T23:59:10Z
+and correct my spelling and grammar mistakes.
+
+
+
+Author::::Max Loh
+DateTime::::2016-03-10T23:23:01Z
+What people sadly fail to realize, is that the immense wealth/leisure GAINS from automation would be an epic win for humanity as long as they are distributed among everyone rather than hoarded by the 1%.
+
+
+
+Author::::Max Loh
+DateTime::::2016-03-10T23:10:45Z
+Why is it not good? We already know how awesome Lee Sedol is -- the question is how awesome our new technology is. A win for AlphaGo is a win for humanity.
+
+
+
+Author::::AntonZ
+DateTime::::2016-03-10T22:43:03Z
+But the phrase 'neural network' is just another way of describing technology built using massively parallel GPU hardware running clever 'learning' algorithms. The fact it 'learns' is irrelevant because it is still ultimately able to access the same processing power that every other modern computer does.
+
+
+
+Author::::ecommpro
+DateTime::::2016-03-10T22:30:19Z
+"group safety, influence, and potential territory".
+
+
+
+Author::::ecommpro
+DateTime::::2016-03-10T22:28:25Z
+"and do the housework" :)
+
+
+
+Author::::SamSmeagol
+DateTime::::2016-03-10T22:24:43Z
+I expect the programmers to dial-back the playing level in order to throw the next couple of matches so that the last match will be a nail-biter.
+
+
+
+Author::::12inchPianist
+DateTime::::2016-03-10T22:21:52Z
+The Google people should be working on Artificial Stupidity, so that humans can feel good about themselves again.
+
+
+
+Author::::12inchPianist
+DateTime::::2016-03-10T22:19:51Z
+It's impressive for sure that AlphaGo can play in such complex situations, however for the fight to be fair, for the true measure of creativity to be ascertained, AG should make it's way up the ranking system with tournament victories. This way GO players would be able to get a good look at the program and the style of play and adjust accordingly. 
+
+
+
+Author::::ecommpro
+DateTime::::2016-03-10T22:15:55Z
+Biometrics and globalisation should sort it.
+
+
+
+Author::::Knowles2
+DateTime::::2016-03-10T22:14:56Z
+The most intelligent comment on here by miles and in fact on most other sites I have visited. 
+
+
+
+Author::::william
+DateTime::::2016-03-10T22:14:09Z
+Very clever, but their software still hasn't managed to pass a driving test or get an MOT.
+
+
+
+Author::::AntonZ
+DateTime::::2016-03-10T21:59:03Z
+I can see that too - if I move 90% of the black stones.
+
+
+
+Author::::AntonZ
+DateTime::::2016-03-10T21:55:33Z
+Unlike other go programs it is supposed to be far better than any human at dealing with multiple ko threats. Ko fights are definitely not a weakness.
+
+
+
+Author::::AntonZ
+DateTime::::2016-03-10T21:45:52Z
+Can we start with corporate tax law and replace the Inland Revenue? We need someone to close loopholes and tax avoidance.
+
+
+
+Author::::tdlx
+DateTime::::2016-03-10T21:05:21Z
+Enforcement Droid Series 209
+
+
+
+Author::::djhbrown
+DateTime::::2016-03-10T20:40:09Z
+that's a very good question and one that deserves a more thoughtful answer than it usually gets. back in 1979, when chess was solved but Go looked like it might never be, i opined in a New Scientist article that "the brute-force approach is a no-hoper for Go".
+
+
+
+Author::::ShinNihonKikaku
+DateTime::::2016-03-10T20:40:08Z
+I will be stunned if this competition doesn't end 5 - 0. But, that is very much due to the nature of a game that is simply so complex humans must rely heavily on intuition to play it.
+
+
+
+Author::::chrisflondon
+DateTime::::2016-03-10T20:33:50Z
+Did anyone do the "I, for one" line yet ?
+
+
+

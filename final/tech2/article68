@@ -1,0 +1,363 @@
+Headline::::
+Apple accused of trying to make iPhones 'warrant-proof' in FBI case
+
+
+
+
+DateTime::::2016-03-11T01:33:15+0000
+
+
+
+<p>The US Justice Department has used its formal legal rebuttal against Apple in the <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.theguardian.com/technology/2016/feb/20/apple-fbi-iphone-explainer-san-bernardino">landmark privacy case</a> to accuse the company of seeking to usurp power from the US government in a bid to make its iPhones “warrant-proof”.<br/></p>
+
+<p>Using phrases such as “technological fiat” and claiming <a class="u-underline" data-component="auto-linked-tag" data-link-name="auto-linked-tag" href="http://www.theguardian.com/technology/apple">Apple</a> was posturing as “the primary guardian of Americans’ privacy”, the government reasserted that the company is putting its brand ahead of public safety.</p>
+
+<p>“Apple’s rhetoric is not only false,” government lawyers wrote in the 35-page brief, submitted Thursday, “but also corrosive of the very institutions that are best able to safeguard our liberty and our rights: the courts, the fourth amendment, longstanding precedent and venerable laws, and the democratically elected branches of government”.</p>
+
+<p> <span>Related: </span><a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.theguardian.com/technology/2016/feb/20/apple-fbi-iphone-explainer-san-bernardino">Apple v the FBI: what's the beef, how did we get here and what's at stake?</a> </p>
+
+<p>Justice Department lawyers again claimed that Apple has made a “deliberate marketing decision to engineer its products so the government cannot search them, even with a warrant”.</p>
+
+<p>They struck back at Apple’s claims that China and other authoritarian governments will point to the warrant as a pretext for their own attempts at forcing access into customer data, saying that any such access is an “inevitable consequence of Apple’s own business decisions” to operate in those markets.</p>
+
+<p>Just a few hours later, Apple general counsel Bruce Sewell <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.theguardian.com/technology/2016/mar/10/apple-v-fbi-encryption-case-digital-privacy-san-bernardino">responded</a> in a conference call with reporters, accusing federal prosecutors of being “offensive” and “desperate” in a remarkable escalation of the fight.</p>
+
+<p>“In 30 years of practice, I don’t think I’ve ever seen a legal brief that was more intended to smear the other side,” Sewell said. “I can only conclude that the Department of Justice is so desperate at this point that they’ve thrown decorum to the winds.”<br/></p>
+
+<p>Since deciding on 16 February to defy a warrant to unlock an iPhone used by the <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.theguardian.com/us-news/san-bernardino-shooting">San Bernardino terrorist Syed Farook</a>, Apple has repeatedly argued that compliance with the request will establish a precedent that governments can force technology companies to write code undermining their security features. The company argues such a step has broad and ominous implications for internet security and free speech and beyond the bounds of the specific law the government uses to undergird the warrant.</p>
+
+<p>Although FBI director James Comey has conceded to skeptical legislators that victory in <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.theguardian.com/technology/2016/feb/29/apple-fbi-encryption-battle-supporters-technology-politics">the Apple case</a> will indeed establish a precedent, the Justice Department on Thursday continued to argue that the warrant “applies to a single device” only.</p>
+
+<p>Rather, the government argued Apple has created a straw-man argument over privacy to distract the court. “Apple demands that the court should instead address the broad questions whether Apple should be required to unlock every iPhone in every instance,” the government contended. </p>
+
+<p> <span>Related: </span><a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.theguardian.com/technology/2016/feb/29/apple-fbi-encryption-battle-supporters-technology-politics">Apple's battle with the FBI: who's supporting them – and who's not?</a> </p>
+
+<p>Apple’s chief counsel recently told Congress that the government’s rhetoric about Apple served to cut off a complex debate about cybersecurity and national security. Meanwhile, ordering America’s largest company to reengineer its products would violate American free speech protections and prohibitions on forced labor, Apple said.</p>
+
+<p>But compelling Apple to write code unlocking the iPhone 5C used by Farook “is not lawless tyranny”, the government said in its submission. “Rather, it is ordered liberty vindicating the rule of law.”</p>
+
+<p>In some ways, Apple and the Justice Department appear to no longer be arguing facts of the case but rather how law enforcement is supposed to work in the US. The iPhone maker has repeatedly argued that private companies can’t be compelled on a whim to assist authorities without limits. The government responds: sometimes,<strong> </strong>complying with the law is hard. </p>
+
+<p>“The ‘essential operations’ of the American legal system rest upon people sometimes having to say things that they would rather not say,” the government lawyers wrote, before adding that Apple’s computer code may not be covered under the US constitution’s first amendment. “There is reason to doubt that functional programming is even entitled to traditional speech protections.”</p>
+
+<p>The government also cites previous cases in which telecommunications companies were forced to write code to assist government investigations.</p>
+
+<p>The case law on code as speech is mixed. In 1996, a federal court effectively ended America’s last battle over encryption and law enforcement when it ruled an encryption algorithm written by a University of California, Berkeley graduate student was “protected speech”.</p>
+
+<p>FBI special agent Christopher Pluhar, an investigator on the San Bernardino attacks with experience as a mobile-device forensic examiner, indicated in a separate filing what the <a class="u-underline" data-component="auto-linked-tag" data-link-name="auto-linked-tag" href="http://www.theguardian.com/us-news/fbi">FBI</a> is interested in extracting from the iPhone 5C Farook used.</p>
+
+<p>In a recitation of his investigation, Pluhar wrote in his filing that his examination of the iPhone’s data backups to its associated iCloud account – to which Apple provided the FBI help, though not code, in accessing – did not include after 22 October the iPhone’s email, photos and notes clients. Pluhar did not mention the end-to-end encrypted iMessage chat client. He also claimed that none of these backups could have provided the FBI access to the sought data, since the phone was turned off when the FBI acquired it.</p>
+
+<p> <span>Related: </span><a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.theguardian.com/technology/2016/feb/23/fbi-apple-pr-war-encryption-mobile-security">Is the FBI v Apple PR war even about encryption?</a> </p>
+
+<p>Pluhar noted that before seeking the 16 February warrant he had extensively discussed government proposals for cooperation with Apple attorney Lisa Olle and privacy chief Erik Neuenschwander, and both sides sought a technical way out of the impasse. The difficulties were entrenched by an <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.theguardian.com/technology/2016/feb/20/san-bernadino-county-fbi-gunman-apple-account">episode</a> in which the FBI and San Bernardino county officials reset the iCloud account password, preventing further iCloud access to data the phone could have backed up.</p>
+
+<p>Some US lawmakers have signaled they will pursue legislation that would penalize companies that say their technology prevents them from assisting law enforcement, and the government’s lawyers appeared to be equally interested in persuading American voters as Magistrate Judge Sheri Pym. Public opinion polls show voters <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.wsj.com/articles/americans-divided-over-apples-phone-privacy-fight-wsj-nbc-poll-shows-1457499601">remain split</a> on the Apple case.</p>
+
+<p>To that end, the government argued that the privacy protections the iPhone maker seeks already are embedded in American law and its three branches of government.</p>
+
+<p>“The government respectfully submits that those authorities should be entrusted to strike the balance between each citizen’s right to privacy and all citizens’ right to safety and justice,” the government said. “The rule of law does not repose that power in a single corporation, no matter how successful it has been in selling its products.”</p>
+
+
+
+
+Author::::Jan lijuruka
+DateTime::::2016-03-12T10:03:15Z
+That's the whole point of the court case...
+
+
+
+Author::::Jan lijuruka
+DateTime::::2016-03-12T10:02:04Z
+If you think Trump is going to stand up for Human rights when he advocates torture, you've got another thing coming.
+
+
+
+Author::::ophiochos
+DateTime::::2016-03-12T00:00:34Z
+also corrosive of the very institutions that are best able to safeguard our liberty and our rights:
+
+
+
+Author::::eb7601
+DateTime::::2016-03-11T16:31:27Z
+Coleen Rowley on the FBI, after the Church Committee hearings and before 9/11:
+
+
+
+Author::::eb7601
+DateTime::::2016-03-11T16:27:38Z
+Marcy Wheeler @ emptywheel:
+
+
+
+Author::::Dan123
+DateTime::::2016-03-11T15:36:00Z
+The U.S. Justice Department will no doubt be very pleased to see a potential candidate win the presidential election who has praised such authoritarian states as Russia and China.
+
+
+
+Author::::maggsgsr
+DateTime::::2016-03-11T14:30:56Z
+They need to stop wasting all there time crying about the dam iPhone lock and get back to good old fashion police work. All the worlds problems aren't going to be solved by hacking an iPhone. If they spent half the time they spend on smear/propaganda campaigns and snooping.. And repurposed those resources on actual bad guys/work.. They'd be a head of the game.
+
+
+
+Author::::susibar
+DateTime::::2016-03-11T13:31:26Z
+its all show no real problem to get into the phone and brute force the rest but nothing any fbi officer can do . with the right ressurces and they have them they just dont want you to know both
+
+
+
+Author::::FattMatt
+DateTime::::2016-03-11T13:25:02Z
+They should go all Elliot Ness on the Phone manufacturer and threaten to break it up as it is a monopoly in the US.
+
+
+
+Author::::KattMann
+DateTime::::2016-03-11T10:51:22Z
+But if you believe Snowden then you have to believe that Apple lied about working with the NSA.
+
+
+
+Author::::FluffyDog
+DateTime::::2016-03-11T10:13:09Z
+That might have been the case at the time Snowden had access to information but it's pretty clear it's not the case now. Companies like Apple have improved the security of their cryptographic technology especially since Snowden revealed what government was doing.
+
+
+
+Author::::KattMann
+DateTime::::2016-03-11T09:59:22Z
+Yeah, they should send it to Apple on a DVD, that'll stump apple as they scramble around looking for something to play it on
+
+
+
+Author::::KattMann
+DateTime::::2016-03-11T09:56:08Z
+And in 5 Yeats from now Snowden Mk II will release evidence showing that it was all a scam, Apple never stopped working with the NSA.
+
+
+
+Author::::SanBernardino
+DateTime::::2016-03-11T09:28:23Z
+Release the San Bernardino surveillance video.
+
+
+
+Author::::KattMann
+DateTime::::2016-03-11T09:23:23Z
+If someone nicks my phone, they will probably wipe it and sell it. I doubt many muggers have the ability to extract the data from the memory.
+
+
+
+Author::::KattMann
+DateTime::::2016-03-11T09:20:48Z
+It won't remove all security. If you have a strong passcode it might take years to gain access even through automated entries.
+
+
+
+Author::::KattMann
+DateTime::::2016-03-11T09:09:14Z
+The current security measures that Apple are being asked to circumvent are 18 months old. 
+
+
+
+Author::::Kevin OConnor
+DateTime::::2016-03-11T08:43:52Z
+There is no public saftey when an untrustworthy government department (the FBI) with a history of fabricating evidence (parrallel constructs) is given every byte of data on every american.  With most american inmates being black ... why would you trust these guys ?
+
+
+
+Author::::75drayton
+DateTime::::2016-03-11T07:52:44Z
+If they hadn't changed the iCloud password how would they stop an accomplice from deleting any back ups or activating remote wipe?
+
+
+
+Author::::75drayton
+DateTime::::2016-03-11T07:45:11Z
+I bought my iPhone because of the security
+
+
+
+Author::::75drayton
+DateTime::::2016-03-11T07:30:15Z
+If they do that, they won't be able to ask for help from the NSA when they need it.
+
+
+
+Author::::75drayton
+DateTime::::2016-03-11T07:18:35Z
+I am guessing that you are not one of the engineers that would be asked to help to comply with the court order, otherwise you would be aware that no one is asking Apple to hack the encryption.
+
+
+
+Author::::75drayton
+DateTime::::2016-03-11T06:56:23Z
+The justice department doesn't see the picture as Apple sees it even though Apple has said time and time again, it will obey a legal writ for one phone but it won't give USA government back door because it has worldwide customers.
+
+
+
+Author::::75drayton
+DateTime::::2016-03-11T06:46:27Z
+Apple are not being asked to break the encryption. They are being asked to over-ride the password guessing security measures.
+
+
+
+Author::::75drayton
+DateTime::::2016-03-11T06:43:27Z
+The NSA do not need to break the phone's encryption to access the data on it.
+
+
+
+Author::::whitehawk66
+DateTime::::2016-03-11T06:14:39Z
+A lawyer is a lawyer is a lawyer.
+
+
+
+Author::::Joey Žaba Sabey
+DateTime::::2016-03-11T05:42:24Z
+Err, yes? Go learn something about cryptography mate. Start by Googling 'AES encryption', see if you can find a clue. xD
+
+
+
+Author::::Joey Žaba Sabey
+DateTime::::2016-03-11T05:39:40Z
+'We must safeguard your liberty, by eroding your liberty!'
+
+
+
+Author::::rollingthunder7
+DateTime::::2016-03-11T05:38:53Z
+...the very institutions that are best able to safeguard our liberty and our rights: the courts, the fourth amendment, longstanding precedent and venerable laws, and the democratically elected branches of government."
+
+
+
+Author::::davidc929
+DateTime::::2016-03-11T04:50:08Z
+you have the definition of liberals. You then have the actions of those that call themselves liberals int his day and age to compare. Not quite the same
+
+
+
+Author::::tindrums
+DateTime::::2016-03-11T04:32:50Z
+Access should be granted by a court order.
+
+
+
+Author::::AlfredHerring
+DateTime::::2016-03-11T04:26:56Z
+Yet when someone makes similar arguments with respect to guns a lot of Guardian readers are all for it. You don't need a mobile phone. You don't need email and instant messaging. Want sex? Go to a bar or church and score like your grandparents did back in the 1970s. Want drugs? Ask your friends face to face. Sure, one of them might turn out to be a confidential informant but that kind of risk is what makes illegal drugs fun. Marijuana in Washington state is pretty fucking boring now that it's legal and you can get away with vaping it in almost any bar or club. The worst that will happen is the bouncer will say dude, not here. catch you again and you're out.
+
+
+
+Author::::panopticon7
+DateTime::::2016-03-11T03:18:28Z
+the US government cares only about the US government. anything else is irrelevant.
+
+
+
+Author::::panopticon7
+DateTime::::2016-03-11T03:16:26Z
+and the must have phone for everyone who values their privacy. which is everyone. literally everyone. terrorists, criminals, paedophiles, murderers, torturers, spies, soldiers, policemen, welders, teachers, students, doctors, lawyers, chemists, yoga instructors, booksellers, interior decorators, actors, models, politicians, and i think you see my point that your point is laughable and inept.
+
+
+
+Author::::panopticon7
+DateTime::::2016-03-11T03:11:03Z
+yeah, nah. he's right and you're wrong. the US government has numerous other means into the phone since brute force would likely take years. they already know who perpetrated the violence and they already admit that there will be wide repercussions should apple comply with their unlawful order. this is not about someone being harmed as you say, truly a wretchedly ignorant posture, but it is about the US government establishing itself as privy to constitutionally protected data and technology. 
+
+
+
+Author::::guardianfan2000
+DateTime::::2016-03-11T02:12:43Z
+To use the U. S. Government's logic,...we need to screw up everyone's security on their smart phones which will make us safer.
+
+
+
+Author::::funnynought
+DateTime::::2016-03-11T01:55:56Z
+"best able to safeguard our liberty and our rights"
+
+
+
+Author::::ID3732233
+DateTime::::2016-03-11T01:46:00Z
+"... institutions that are best able to safeguard our liberty and our rights: the courts, the fourth amendment, longstanding precedent and venerable laws, and the democratically elected branches of government”. Sounds good, but most would lately disagree with this pie in the sky comment.
+
+
+
+Author::::Jason Watkins
+DateTime::::2016-03-11T01:31:01Z
+You're welcome to purchase anything you want. Again, all I'm saying is that the only reason Apple is doing this is to sell phones. They aren't acting out of moral principal. They're playing the good guy in an intentionally very visible battle with the FBI to sell phones. If this didn't benefit them then there never would have been any publicity and the FBI would have gotten what they wanted already. Of that I have ZERO doubt.
+
+
+
+Author::::tucumcaritonight
+DateTime::::2016-03-11T01:21:21Z
+I don't care if Apple sells 10 MILLION new phones. I bought my iPhone because of the security (or, being realistic, the best encryption possible). Why can't others? While not a conspiracy nut-case, I'm old enough to remember what the government and its "officers", elected or enlisted, have done in the past under the guise of "state security" in the 50s & 60s, through Dick "if the President does it it's not illegal" Nixon, and up through the last few years of revelations. Anyone who thinks that it isn't happening/won't happen again is just ostrich. The FBI is saying it's just for this phone, but they've already said that there are something like 16 cases that are trying to force Apple's hand (and soul). If this legal precedent is set, there will be no privacy...not if some entity (and it won't have to be the government) can get a subpoena.
+
+
+
+Author::::tayo120
+DateTime::::2016-03-11T01:21:06Z
+Apple's attitude is quite different from US govt to CCP govt.
+
+
+
+Author::::tayo120
+DateTime::::2016-03-11T01:11:54Z
+It's not a problem of privacy but profit to Apple. Sell internet products in Free countries and sell intranet smartphone in censored territories.
+
+
+
+Author::::yourwifeslover
+DateTime::::2016-03-11T01:08:26Z
+Hey brucy...let me rummage through your personal affects. ..you might be out to get someone. So I better look.And no I won't go through your boyfriend's underwear drawer, but if I do, then don't be alarmed...after all its for the safety of the world
+
+
+
+Author::::yourwifeslover
+DateTime::::2016-03-11T01:05:25Z
+I ask again like I have done during other story's about this...the phone providers already have this info in their databases.That means the nsa has it in Utah. If it is truly one phone get the data legally from other sources. But USA government is lieing and that's why they dont
+
+
+
+Author::::Bruce  Collins
+DateTime::::2016-03-11T01:03:59Z
+You can believe in whatever you want - and clearly will, so long as it harms someone NOT yourself.
+
+
+
+Author::::yourwifeslover
+DateTime::::2016-03-11T01:01:59Z
+The USA governments position and they have said it is...innocent of what. ...
+
+
+
+Author::::RickyButler89
+DateTime::::2016-03-11T00:58:12Z
+we're supposed to believe that North Korea can subject the rest of the world to cyber attacks, but the FBI and the most powerful govt in the world can't get into a phone?
+
+
+
+Author::::NuminousExperience
+DateTime::::2016-03-11T00:52:25Z
+If only you hadn't put Assange on there.
+
+
+
+Author::::ID5155921
+DateTime::::2016-03-11T00:51:05Z
+As long as you have a passcode on your phone everything is encrypted. Also what the US goverment is asking for is a new firmware that would allow them to remove all security on any iphone. If it got out it would be far easier to see information on anyones iphone's reducing the overall security of all devices.
+
+
+
+Author::::ahmiles
+DateTime::::2016-03-11T00:49:51Z
+We must separate the facts from the fictions...
+
+
+

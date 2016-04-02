@@ -1,0 +1,315 @@
+Headline::::
+Google's AI machine v world champion of 'Go': everything you need to know
+
+
+
+
+DateTime::::2016-03-08T23:30:08+0000
+
+
+
+<p>The Google DeepMind challenge match, taking place in Seoul on Wednesday, will <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.theguardian.com/technology/2016/mar/07/go-board-game-google-alphago-lee-se-dol">pit the world’s top player of the ancient Chinese board game against the world’s most sophisticated Artificial Intelligence programme</a>. </p>
+
+<p>Here is everything you need to know about this clash between advanced technology and old-fashioned human wit.<br/></p>
+
+<p> <span>Related: </span><a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.theguardian.com/technology/2016/feb/22/google-deepmind-go-alphago">Google throws down the gauntlet. But can anyone beat its computer at Go?</a> </p>
+
+<p>Go is a roughly 3,000 year-old board game thought to have originated in what is now China. Its rules have changed little over its long history, and it is still a widely enjoyed pastime throughout East Asia. Though Go isn’t played much in the West, in parks across China, <a class="u-underline" data-component="auto-linked-tag" data-link-name="auto-linked-tag" href="http://www.theguardian.com/world/south-korea">South Korea</a> and Japan, it is common to find groups of men huddled around boards covered in the game’s circular black and white tiles.<br/></p>
+
+<p>Every game of Go features two players, one using black tiles and the other using white tiles. At the start of the game, the board is empty, and players take turns placing one stone at a time on the board, trying to gain territory by arranging stones in strategic shapes or patterns. Another key objective is getting control of their opponent’s stones by surrounding them on all sides.<br/></p>
+
+<p>The game is played on a grid; the winner is the player whose pieces occupy the larger number of the grid’s intersecting points at the end of the game.<br/></p>
+
+<p>At first glance, Go seems fairly simple. Unlike chess, all the pieces are the same, and once played, cannot be moved around the board.</p>
+
+<p>But that surface level simplicity is somewhat deceptive, as there are many ways players can deploy those pieces. Go has trillions of possible moves; according to the<a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.britgo.org/learners/chessgo.html"> British Go Association</a>, at the opening of Chess there are 20 possible moves. In Go there are 361 possible moves.</p>
+
+<p>These almost endless possibilities make it difficult to craft in advance and follow a particular strategy. Mastering the game means using intuition to react to any number of possible twists or turns a game can take, depending on an opponent’s moves.</p>
+
+<p>Demis Hassabis of <a class="u-underline" data-component="auto-linked-tag" data-link-name="auto-linked-tag" href="http://www.theguardian.com/technology/google">Google</a> has called Go “the most profound game that mankind has ever devised,” describing it as “primarily about intuition and feel rather than brute calculation which is what makes it so hard for computers to play well.”</p>
+
+<p>Creating a program that can play Go at the highest level is one of the most challenging tasks tackled by AI professionals. Computer programs have long been able to beat the top human players in games such as chess and checkers, but mastering the reactive and intuitive nature of Go is more difficult.</p>
+
+<p>Last October Alphago scored its first victory over a professional Go player, European Go champion Fan Hui, a feat that experts had predicted was something like a decade from being possible. AlphaGo’s advancing proficiency at Go therefore provides a glimpse into how soon and to what extent computers will be able to master intuitive tasks.</p>
+
+<p>AlphaGo will square off against the 33-year-old Lee Sedol a total of five times (9, 10, 12, 13, 15 March) at a hotel in Seoul. At stake will be $1m in prize money, which Google has said it will donate to charity if Alphago wins.<br tabindex="-1"/></p>
+
+<p>Even though Alphago is fresh off a victory over Fan Hui, Lee has said he is confident he will come out on top. Since AlphaGo’s victory over Hui, the Go cognescenti has pointed to mistakes the program made that a stronger player, such as Lee, would have capitalized on. Lee has won 18 international Go titles, second only to his fellow South Korean Lee Chang-ho (no relation). </p>
+
+<p>At the press conference confirming the details of the match, <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.theguardian.com/technology/2016/feb/22/google-deepmind-go-alphago">Lee exuded confidence</a>. “I don’t think it will be a very close match,” he said.</p>
+
+<p>But if Alphago can best him, it will be a watershed moment for AI with only one genuine precedent: Deep Blue’s victory over Kasparov in 1997.</p>
+
+
+
+
+Author::::jaytabb
+DateTime::::2016-03-09T20:24:23Z
+Us chess-players accepted our obsolescence some time ago ;) Welcome to our new silicon overlords.
+
+
+
+Author::::Leafar
+DateTime::::2016-03-09T11:39:13Z
+What size tinfoil hat do you wear?
+
+
+
+Author::::Richard Francis
+DateTime::::2016-03-09T11:28:39Z
+If Lee loses humanity is doomed.
+
+
+
+Author::::BifferSpice
+DateTime::::2016-03-09T10:37:37Z
+isn't it that spreadsheets work in absolutes, whereas game engines have to deal with less measurable and more abstract concerns such as "better" and "worse" without being able to see all the way to the end of the game (eg, calculating unanswerable mate in 2 is not "intelligence", it is a matter of absolutes. but calculating moves to result in a "better position" for attacking in chess, is far more complicated and subjective, as opposed to objective).
+
+
+
+Author::::HarpsichordKnight
+DateTime::::2016-03-09T09:55:21Z
+As the Guardian (eventually), helpfully put it:"Commentators said the match was close, with both AlphaGo and Lee making some mistakes. The result was unpredictable until near the end"
+
+
+
+Author::::HarpsichordKnight
+DateTime::::2016-03-09T09:52:26Z
+I guess it depends how you define endgame. He resigned before the end of the game, but when the vast majority of the game had been played out. For most of the game, it was very close - at least according to the commentators.
+
+
+
+Author::::Barbablanca
+DateTime::::2016-03-09T09:44:21Z
+Right till the end of the endgame it seemed very close.
+
+
+
+Author::::Nebiroth
+DateTime::::2016-03-09T09:29:40Z
+Haha. Pride comes before a fall. He was far too used to winning all the time, and massively overconfident - confidence helps when playing against another human, as you can convince them your victory is inevitable, this doesn't work on machines (exactly as Kasparov found out)
+
+
+
+Author::::CarlPhilippEmanuel
+DateTime::::2016-03-09T09:28:52Z
+Many thanks also to DISCUZ and MONKEYC for rather interesting and succinct explanations in the comments below on the computational approach and challenges ...
+
+
+
+Author::::CarlPhilippEmanuel
+DateTime::::2016-03-09T09:26:48Z
+Wow! This is stunning news!
+
+
+
+Author::::HarpsichordKnight
+DateTime::::2016-03-09T09:17:39Z
+Right till the end of the endgame it seemed very close. What's interesting is that because AlphaGo is playing in a more human-style (because of the learning based approach used in its design), the commentators were able to pick out clear mistakes it had made during the game. You didn't feel AlphaGo was an unstoppable calculating machine, just an incredibly strong player. Really interesting stuff, and I'm looking forward to the rest of the series.
+
+
+
+Author::::ShinNihonKikaku
+DateTime::::2016-03-09T08:45:38Z
+The result isn't surprising. I'll only be surprised if doesn't end 5 - 0
+
+
+
+Author::::pwebster
+DateTime::::2016-03-09T08:44:57Z
+I watched the match live ... and although I know only the basics, I found it fascinating.A bit frustrating when the commentators had not caught up with the moves but good when they explained different possible next moves and, often, predicted the one chosen.They missed the end though when Lee placed a white piece back on he board (he was playing black) to resign ... took a few seconds to sink in.
+
+
+
+Author::::NotPaidForThis
+DateTime::::2016-03-09T08:23:25Z
+IOW, it uses the kind of methods I was taught about in a course on AI at university, some 30 years ago. Of course, computers were much less powerful then than now, so a brute force approach was pointless for games with large numbers of possible moves, and pruning the search tree was essential to get anything that worked at any reasonable level at all. In fact, tree pruning seemed to be just about the only thing the course was about (and it was taught by someone who at the time was relatively prominent in the fledgling field of AI as an academic discipline).
+
+
+
+Author::::heiankun
+DateTime::::2016-03-09T07:55:47Z
+History made: AlphaGo wins by resignation!
+
+
+
+Author::::MonkeyC
+DateTime::::2016-03-09T07:51:21Z
+A pure brute force of chess moves IIRC is 3 piles (moves ahead) before it gets too large.
+
+
+
+Author::::MonkeyC
+DateTime::::2016-03-09T07:40:39Z
+Oh, and just to add to the "it's a hardware issue".
+
+
+
+Author::::Peter Pollard
+DateTime::::2016-03-09T07:38:06Z
+I made strong critical (but neither derogatory nor deriding) remarks about google android apps and just a day or two afterwards I had strange changes to my comtacts entry. coincidence? not according to someone I know inside google. go into the technical communities and discover why many ditch google on their phones.I'm pointing out 'some' of the uses google puts its AI to - scanning and detecting for its own 'protection'... big brother google is watching you!PS much of this AI and analysis stuff came from our own clever ex-military research establishments that were 'sold-off' to 'save money' (and make a few bob for some peoples' pockets!)
+
+
+
+Author::::discuz
+DateTime::::2016-03-09T07:35:22Z
+If anything it shows that throwing more computational power at it won't always proportionally improve results, which means that it's still the algorithm that needs to improve.
+
+
+
+Author::::Barbablanca
+DateTime::::2016-03-09T07:33:56Z
+Now he's resigned. AlphaGo won the first game of the match.
+
+
+
+Author::::MonkeyC
+DateTime::::2016-03-09T07:27:37Z
+Erm, no. You missed the part:" the program limits the classic random playout tree search that weighted nodes... ..by letting value and policy networks reduce the huge tree. The policy network uses reinforcement learning to decide which moves will likely lead to a win, while the value network predicts a win/lose score for each 'frame' of the board."
+
+
+
+Author::::Barbablanca
+DateTime::::2016-03-09T07:21:28Z
+Oops, sorry, I misunderstood the live commentary. Lee Sedol is losing big, but hasn't resigned.
+
+
+
+Author::::friztofratzo
+DateTime::::2016-03-09T07:20:27Z
+Like John Henry against the steam drill.
+
+
+
+Author::::squeezybox
+DateTime::::2016-03-09T07:16:23Z
+I thought they were called stones...but I must be thinking of summat else. They look like Smarties.
+
+
+
+Author::::Barbablanca
+DateTime::::2016-03-09T07:15:44Z
+NEWS FLASH. AlphaGo just won the first game of the match. Lee Sedol resigned in a hopeless position. The game didn't even go to an endgame.
+
+
+
+Author::::Barbablanca
+DateTime::::2016-03-09T06:52:31Z
+Incidentally, if you want to learn to play Go, an explanation of the rules is here and a free Go server, where you can play online with other beginners, is here.There are other Go servers, but that one has more beginner-level players and has the advantage that you don't need to download anything - you just register, and play. Or watch other people play.
+
+
+
+Author::::7barrels
+DateTime::::2016-03-09T06:50:22Z
+aaaargh Master of Go
+
+
+
+Author::::7barrels
+DateTime::::2016-03-09T06:49:47Z
+fat fingers! Mater of Go
+
+
+
+Author::::7barrels
+DateTime::::2016-03-09T06:49:02Z
+if you want to know more about Go I can highly recommend Yasunari Kawabata's excellent book The Masre of Go http://www.amazon.co.uk/Books-Master-Go-Yasunari-Kawabata/dp/0224078186/ref=sr_1_1?ie=UTF8&qid=1457506077&sr=8-1&keywords=kawabata+go
+
+
+
+Author::::palfreyman
+DateTime::::2016-03-09T06:47:49Z
+The rules are, indeed, rather straightforward, but what complicated it for us was trying to figure out whose forces had surrounded whom, and when counters could be taken off and so on.
+
+
+
+Author::::Barbablanca
+DateTime::::2016-03-09T06:31:09Z
+But it is such a complicated game we were barely able to understand the rules
+
+
+
+Author::::Barbablanca
+DateTime::::2016-03-09T06:27:05Z
+Lee Sedol is not the "World Champion of Go". He's one of the strongest players in the world and has won many titles, but there isn't a "World Champion".More information
+
+
+
+Author::::shtphoneyaknow
+DateTime::::2016-03-09T05:11:25Z
+Come back when robots can claim a million dollar prize lol.
+
+
+
+Author::::Shatford Shatford
+DateTime::::2016-03-09T05:10:47Z
+So it's just a hardware problem, not an algorithmic one? That's kind of a let down.
+
+
+
+Author::::palfreyman
+DateTime::::2016-03-09T04:29:28Z
+Way back when I was just about to start uni, a couple of local friends and I for some reason started a board games club that summer: we played chess, then fed up with that we moved to reverse chess, then to cylindrical chess and finally, started trying to play Go. But it is such a complicated game we were barely able to understand the rules, let alone play to any degree of competence. So we chopped down the board and used it to play reversi instead.
+
+
+
+Author::::SweetMamba
+DateTime::::2016-03-09T03:01:13Z
+AlphaGo will do a Qb6, watch out!!
+
+
+
+Author::::hairhorn
+DateTime::::2016-03-09T01:48:02Z
+Well, sort of. The number of possible game states in a normal game of chess is larger than the number of particles in the observable universe, so a purely brute force search of chess moves can only be done a few moves ahead. That's not enough to beat a professional player. 
+
+
+
+Author::::huzar30
+DateTime::::2016-03-09T01:47:36Z
+Corbyn gone.
+
+
+
+Author::::huzar30
+DateTime::::2016-03-09T01:47:05Z
+No. Black and white tiles, smaller than the 'checkers' tiles.
+
+
+
+Author::::discuz
+DateTime::::2016-03-09T01:09:40Z
+I thought this article would at least touch on how AlphaGo (get it right) works. As I understand it, the novelty of the approach is that the program limits the classic random playout tree search that weighted nodes - this is brute-forcing it, like Deepmind did, which given the number of possibilities in Go is too huge - by letting value and policy networks reduce that huge tree. The policy network uses reinforcement learning to decide which moves will likely lead to a win, while the value network predicts a win/lose score for each 'frame' of the board. 
+
+
+
+Author::::HiramsMaxim
+DateTime::::2016-03-09T01:02:29Z
+This is a very, very interesting test. Go is much more subtle than chess, and I will be very interested in what type of algorithm the machine uses to sort possible moves. Chess can be "brute forced" but Go is very different.
+
+
+
+Author::::dtocean
+DateTime::::2016-03-09T00:46:18Z
+go Corbyn go
+
+
+
+Author::::Jason Carey
+DateTime::::2016-03-09T00:01:49Z
+Go is to chess as chess is to noughts and crosses. (With apologies to Dr Spock.)
+
+
+
+Author::::momonga
+DateTime::::2016-03-08T23:54:17Z
+"boards covered in the game’s circular black and white tiles."
+
+
+
+Author::::corstopitum
+DateTime::::2016-03-08T23:49:10Z
+Is Go similar to Leave?
+
+
+

@@ -1,0 +1,423 @@
+Headline::::
+The superhero of artificial intelligence: can this genius keep it in check?
+
+
+
+
+DateTime::::2016-02-16T08:15:07+0000
+
+
+
+<p><span class="drop-cap"><span class="drop-cap__inner">D</span></span>emis Hassabis has a modest demeanour and an unassuming countenance, but he is deadly serious when he tells me he is on a mission to “solve intelligence, and then use that to solve everything else”. Coming from almost anyone else, the statement would be laughable; from him, not so much. Hassabis is the 39-year-old former chess master and video-games designer whose artificial intelligence research start-up, <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://deepmind.com/">DeepMind</a>, was <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.theguardian.com/technology/2014/jan/27/google-acquires-uk-artificial-intelligence-startup-deepmind">bought by Google in 2014</a> for a reported $625 million. He is the son of immigrants, attended a state comprehensive in Finchley and holds degrees from Cambridge and UCL in computer science and cognitive neuroscience. A “visionary” manager, according to those who work with him, Hassabis also reckons he has found a way to “make science research efficient” and says he is leading an “Apollo programme for the 21st century”. He’s the sort of normal-looking bloke you wouldn’t look twice at on the street, but Tim Berners-Lee once described him to me as one of the smartest human beings on the planet.</p>
+
+<p>Artificial intelligence is already all around us, of course, every time we interrogate Siri or get a recommendation on Android. And in the short term, Google products will surely benefit from Hassabis’s research, even if improvements in personalisation, search, YouTube, and speech and facial recognition are not presented as “AI” as such. (“Then it’s just software, right?” he grins. “It’s just stuff that works.”) In the longer term, though, the technology he is developing is about more than emotional robots and smarter phones. It’s about more than <a class="u-underline" data-component="auto-linked-tag" data-link-name="auto-linked-tag" href="http://www.theguardian.com/technology/google">Google</a>. More than Facebook, Microsoft, Apple, and the other giant corporations currently hoovering up AI PhDs and sinking billions into this latest technological arms race. It’s about everything we could possibly imagine; and much that we can’t.</p>
+
+<p>If it sounds wildly ambitious, it is. Most AI systems are “narrow”, training pre-programmed agents to master a particular task and not much else. So IBM’s Deep Blue could beat Gary Kasparov at chess, but would struggle against a three-year-old in a round of noughts and crosses. Hassabis, on the other hand, is taking his inspiration from the human brain and attempting to build the first “general-purpose learning machine”: a single set of flexible, adaptive algorithms that can learn – in the<strong> </strong>same<strong> </strong>way biological systems do – how to master any task from scratch, using nothing more than raw data.<strong> </strong></p>
+
+<p> <span>Related: </span><a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.theguardian.com/technology/2014/jan/27/google-acquires-uk-artificial-intelligence-startup-deepmind">Google buys UK artificial intelligence startup Deepmind for £400m</a> </p>
+
+<p>This is artificial general intelligence (AGI), with the emphasis on “general”. In his vision of the future, super-smart machines will work in tandem with human experts to potentially solve anything. “Cancer, climate change, energy, genomics, macroeconomics, financial systems, physics: many of the systems we would like to master are getting so complex,” he argues. “There’s such an information overload that it’s becoming difficult for even the smartest humans to master it in their lifetimes. How do we sift through this deluge of data to find the right insights? One way of thinking of AGI is as a process that will automatically convert unstructured information into actionable knowledge. What we’re working on is potentially a meta-solution to any problem.”</p>
+
+<p>That meta-solution may yet be many decades off, but it appears to be getting inexorably closer. In February 2015, the world’s leading science journal, <em>Nature</em>, featured pixellated <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="https://twitter.com/nature/status/571242468441788416">Space Invaders</a> on its front cover alongside the revelation that “self-taught AI software” had attained “human-level performance in video games”. Inside, <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.nature.com/nature/journal/v518/n7540/full/nature14236.html">DeepMind’s paper</a> described the first successful general “end-to-end” learning system, in which their artificial agent, an algorithm dubbed Deep-Q Network on a graphics processing unit, had learned how to process an input on screen, make sense of it, and take decisions that led to the desired outcome (in this case, becoming superhuman at a bunch of classic Atari 2600 games including <em>Space Invaders</em>, <em>Boxing</em> and <em>Pong</em>.) It was a breakthrough that rocked the technology world.</p>
+
+<p>And then, last month, DeepMind published a <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.nature.com/news/google-ai-algorithm-masters-ancient-game-of-go-1.19234">second <em>Nature</em> cover story</a> – itself a remarkable achievement in such a short period. This time, its test bed went even further back than vintage arcade games from the 70s and 80s. The esoteric Chinese strategy game Go is more than 2,500 years old and is mentioned in writings by Confucius. Its branching factor is huge: it has more possible moves than there are atoms in the universe; and, unlike chess, it can’t be figured out by brute calculation. Intractable, it is also impossible to write an evaluation function, ie a set of rules that tell you who is winning a position and by how much. Instead it demands something akin to “intuition” from its players: when asked why they made a certain move, professionals often say something along the lines of: “It felt right.”</p>
+
+<p>Computers, for obvious reasons, have traditionally been terrible at making such judgments. Go has therefore long been considered one of the “outstanding grand challenges” of AI, and most researchers expected at least another decade to pass before a machine could even hope to crack it.</p>
+
+<p>But here was the rigorously peer-reviewed evidence that DeepMind’s new artificial algorithm, AlphaGo, had thrashed the reigning three-times European champion, Fan Hui, 5-0 in a <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.theguardian.com/technology/2016/jan/27/google-hits-ai-milestone-as-computer-beats-go-grandmaster">secret tournament </a>last autumn, and was being lined up to play the world champion, Lee Sedol, in March. “A stunning achievement” is how Murray Shanahan, professor of cognitive robotics at Imperial College, describes it to me later. “A significant milestone,” agrees transhumanist philosopher Nick Bostrom, whose book <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.theguardian.com/books/2014/jul/17/superintelligence-nick-brostrom-rough-ride-future-james-lovelock-review"><em>Superintelligence: Paths, Dangers, Strategies</em></a> argues that, if AGI can be accomplished, it will be an event of unparalleled consequence – perhaps, to borrow Google director of engineering Ray Kurzweil’s phrase, even a rupture in the fabric of history. The achievement of AlphaGo, Bostrom tells me from his office at Oxford’s Future of Humanity Institute, “dramatises the progress that has been made in machine learning over the last few years”.</p>
+
+<p>“It’s pretty cool, yeah,” Hassabis agrees, sans drama, when we meet in his office to discuss this latest triumph. As usual, he’s wearing a nondescript black top, trousers and shoes: for all the £80m that the Google deal reportedly netted him personally, you’d be forgiven for thinking he was an intern. “Go is the ultimate: the pinnacle of games, and the richest in terms of intellectual depth. It’s fascinating and beautiful and what’s thrilling for us is not just that we’ve mastered the game, but that we’ve done it with amazingly interesting algorithms.” Playing Go is more of an art than a science, he maintains, “and AlphaGo plays in a very human style, because it’s learned in a human way and then got stronger and stronger by playing, just as you or I would do.”Hassabis may look like a student, but he is beaming like the proudest of parents. AlphaGo is the most exciting thing he’s achieved in his professional life. “It’s an order of magnitude better than anyone’s ever imagined,” he enthuses, “but the most significant aspect for us is that this isn’t an expert system using hand-crafted rules. It has taught itself to master the game by using general-purpose machine learning techniques. Ultimately, we want to apply these techniques to important real-world problems like climate modelling or complex disease analysis, right? So it’s very exciting to start imagining what it might be able to tackle next…”</p>
+
+<p class="pullquote-paragraph">Climate modelling, complex disease analysis – it's very exciting to start imagining what it might tackle next</p>
+
+<p>My first encounter with Hassabis was back in the summer of 2014, a few months after the DeepMind acquisition. Since then, I’ve observed him at work in a variety of environments and have interviewed him formally for this profile on three separate occasions over the past eight months. In that time I’ve watched him evolve from Google’s AI genius to a compelling communicator who has found an effective way to describe to non-scientists like me his vastly complex work – about which he is infectiously passionate – and why it matters. Unpretentious and increasingly personable, he is very good at breaking down DeepMind’s approach; namely their combining of old and new AI techniques – such as, in Go, using traditional “tree search” methods for analysing moves with modern “deep neural networks”, which approximate the web of neurons in the brain – and also their methodical “marriage” of different areas of AI research.</p>
+
+<p>In DeepQ they combined deep neural networks with “reinforcement-learning”, which is the way that all animals learn, via the brain’s dopamine-driven reward system. With AlphaGo, they went one step further and added another, deeper level of reinforcement learning that deals with long-term planning. Next up, they’ll integrate, for example, a memory function, and so on – until, theoretically, every intelligence milestone is in place. “We have an idea on our road map of how many of these capabilities there are,” Hassabis says. “Combining all these different areas is key, because we’re interested in algorithms that can use their learning from one domain and apply that knowledge to a new domain.”</p>
+
+<p>This sounds a bit like the man himself. At first glance his CV suggests a rather dilettantish curiosity in everything from board games to video games to computer programming to cognitive neuroscience, never mind artificial intelligence. In fact, his position today is a result of laser-focus: a deliberate synthesis of aspects of his own formidable, once-in-a-generation intellect and the disciplines he has honed over his lifetime. (Brief highlights reel: writing his own computer games aged eight; reaching chess master status at 13; creating <em>Theme Park</em>, one of the first video games to incorporate AI, at 17; taking a double first in computer science from Cambridge at 20; founding his own groundbreaking video-games company, Elixir, soon after; and doing pioneering academic work on the hippocampus and episodic memory as “the final piece of the jigsaw puzzle”, before founding DeepMind in 2011.)</p>
+
+<p>“I get bored quite easily, and the world is so interesting, there are so many cool things to do,” he admits.(He also holds a world record as five-times winner of the Mind Sports Olympiad’s elite “Pentamind”, in which competitors challenge each other across multiple games.) “If I was a physical sportsman, I’d have wanted to be a decathlete.”</p>
+
+<p>Sporting glories never beckoned. Although Hassabis is a keen Liverpool FC fan and loves watching all sports, by the age of four he’d started playing chess, within a year was competing nationally, and not long after, internationally. Presumably it became pretty obvious pretty fast that his would be a life of the mind.</p>
+
+<p>Born in north London in 1976 to a Greek-Cypriot father and Singaporean-Chinese mother, he is the eldest of three siblings. His parents are teachers who once owned a toyshop. His sister is a composer and pianist; his brother studies creative writing. Technology did not loom large in their household. “I’m definitely the alien black sheep in my family,” he jokes, recalling how as a boy he spent his chess prize winnings on a ZX Spectrum 48K, and then a Commodore Amiga, which he promptly took apart and figured out how to program. “My parents are technophobes. They don’t really like computers. They’re kind of bohemian. My sister and brother both went the artistic route, too. None of them really went in for maths or science.” He shrugs, almost apologetically. “So, yeah, it’s weird, I’m not quite sure where all this came from.”</p>
+
+<p>His company, 50-strong when Google bought it, now employs almost 200 people from over 45 countries and occupies all six floors of a building, in a regenerated corner of King’s Cross. Hassabis was determined that his company should remain close to his roots, despite pressures to move elsewhere (including, presumably, Mountain View in Silicon Valley.)</p>
+
+<p>“I’m north London born and bred,” he reminds me. “I absolutely love this city. That’s why I insisted on staying here: I felt there was no reason why London couldn’t have a world-class AI research institute. And I’m very proud of where we are.” All the rooms are named after intellectual titans: Tesla, Ramanujan, Plato, Feynman, Aristotle. Mary Shelley. (Is he a fan? “Of course,” he reassures me. “I’ve read <em>Frankenstein</em> a few times. It’s important to keep these things in mind.”)</p>
+
+<p>On the ground floor is a cafe and exposed-brick reception with the sort of coconut-water-stocked fridges, table-football machines and beanbags you’d expect from one of the world’s most ambitious tech companies. Upstairs, wrapping the original building, is a modern open-plan structure featuring a deck with undeniably magnificent views of London’s rooftops.</p>
+
+<p>It’s up here, on Friday nights, that the DeepMinders gather for drinks. One employee describes the ritual to me enthusiastically as a way “to end the week on a high”. Socialising is an intrinsic way of life: I’m told of the DeepMind running club, football team, board games club. (“That one gets pretty competitive.”) A wall chart with moveable photographs indicates where everyone is hot-desking on any given day. It’s aggressively open-plan. The engineers – mostly male – that I pass in the corridors shatter the stereotype of people working in the nerdier corners of human endeavour: these guys look fit, happy, cool. A certain air of intellectual glamour, it has to be said, vibrates in the atmosphere. And no wonder. The smartest people on the planet are queuing up to work here, and the retention rate is, so far, a remarkable 100%, despite the accelerating focus on AI among many of Google’s biggest competitors, not to mention leading universities all over the globe.</p>
+
+<p>“We’re really lucky,” says Hassabis, who compares his company to the Apollo programme and Manhattan Project for both the breathtaking scale of its ambition and the quality of the minds he is assembling at an ever increasing rate. “We are able to literally get the best scientists from each country each year. So we’ll have, say, the person that won the Physics Olympiad in Poland, the person who got the top maths PhD of the year in France. We’ve got more ideas than we’ve got researchers, but at the same time, there are more great people coming to our door than we can take on. So we’re in a very fortunate position. The only limitation is how many people we can absorb without damaging the culture.”</p>
+
+<p> <span>Related: </span><a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.theguardian.com/technology/2014/jun/18/elon-musk-deepmind-ai-tesla-motors">Elon Musk says he invested in DeepMind over 'Terminator' fears</a> </p>
+
+<p>That culture goes much deeper than beanbags, free snacks and rooftop beers. Insisting that the Google acquisition has not in any way forced him to deviate from his own research path, Hassabis reckons he spends “at least as much time thinking about the efficiency of DeepMind as the algorithms“ and describes the company as “a blend of the best of academia with the most exciting start-ups, which have this incredible energy and buzz that fuels creativity and progress.” He mentions “creativity” a lot, and observes that although his formal training has all been in the sciences, he is “naturally on the creative or intuitive” side. “I’m not, sort of, a standard scientist,” he remarks, apparently without irony. Vital to the fabric of DeepMind are what he calls his “glue minds”: fellow polymaths who can sufficiently grasp myriad scientific areas to “find the join points and quickly identify where promising interdisciplinary connections might be, in a sort of left-field way.” Applying the right benchmarks, these glue people can then check in on working groups every few weeks and swiftly, flexibly, move around resources and engineers where required. “So you’ll have one incredible, genius researcher and almost immediately, unlike in academia, three or four other people from a different area can pick up that baton and add to it with their own brilliance,” he describes. “That can result in incredible results happening very quickly.” The AlphaGo project, launched just 18 months ago, is a perfect case in point.</p>
+
+<p>Every night, Hassabis hops on the Northern line to get home in time for dinner with his family. They live in Highgate, not far from where he grew up. His wife is an Italian molecular biologist, researching Alzheimer’s disease. Their two sons are seven and nine. Hassabis will play games and read books with them, or help them with homework. (“They are both brilliant in their own ways, but they’re almost like the opposite halves of me, on the science and creative side.”)</p>
+
+<p>He’ll put them to bed, like any regular dad. And then, around 11pm, when most people might reasonably expect to be turning in, he begins what he refers to as his “second day”. There are invariably Skype calls to be held with the US until 1am. After that it’s an opportunity for “just thinking time. Until three or four in the morning, that’s when I do my thinking: on research, on our next challenge, or I’ll write up an algorithmic design document.”</p>
+
+<p>It’s not so much actual AI coding, he admits, “because my maths is too rusty now. It’s more about intuitive thinking. Or maybe strategic thinking about the company: how to scale it and manage that. Or it might just be something I read in an article or saw on the news that day, wondering how our research could connect to that.”</p>
+
+<p>I’m reminded of AlphaGo, up there in Google’s unimaginably powerful computing cloud, just playing and playing and playing, self-improving every single second of every single day because the only way it can learn is to keep going…</p>
+
+<p>“Does it ever get to rest?” I ask.</p>
+
+<p>“Nope. No rest! It didn’t even have Christmas off.”</p>
+
+<p>I hesitate. “Doesn’t it ever need a break?”</p>
+
+<p>“Maybe it likes it,” he shoots back, a twinkle in his eye.</p>
+
+<p>Point taken. So what about Hassabis himself? “Definitely superhuman,” one of his colleagues says to me, casually. Does he – can he – ever switch off? “It’s hard,” he admits. “I’ve never really had that work versus life thing; it’s all part of the same canvas. I do love reading books, watching films, listening to music, but it tends to all come back to what I do.” (A big movie fan, he counts Alex Garland, who directed the recent AI film <em>Ex Machina</em>, as a friend; and mentions that he’s just had a meeting with the US film producer Brian Grazer, a “really cool guy”, in which they talked about, you guessed it, AI.) “My brain is just totally consumed by it.”</p>
+
+<p>What about his children, his friends, normal life? “Of course I try and keep grounded, otherwise I’d go a bit mad. And what’s cool about kids is they’re pretty much the only other thing that can consume you in the same way.”</p>
+
+<p class="pullquote-paragraph">If there is a digital intelligence that exceeds human intelligence, ‘assistance’ is not the correct description</p>
+
+<p>He certainly keeps his friends close: he met one of his DeepMind co-founders, Shane Legg, when they were both PhDs at UCL, having known the other, Mustafa Suleyman, since they were kids. And he tells a lovely story of befriending a fellow undergraduate called Dave Silver at Cambridge and later teaching him to play board games – including a certain ancient Chinese one – in their spare time. Twenty years on, I notice, one David Silver is the main programmer on the Go team at DeepMind, and the lead author of the most recent <em>Nature</em> paper. “Yeah, Dave and I have got a long history together,” Hassabis laughs. “We used to dream about doing this in our lifetimes, so our 19-year-old selves would probably have been very relieved that we got here.”</p>
+
+<p>He adds, reflectively: “It’s true though, I don’t have much of a normal life. Every waking moment, this is what I’m thinking about, probably in my dreams as well. Because it’s so exciting, it’s so important, and it’s the thing I’m most passionate about.”</p>
+
+<p>There is a look in his eyes of what I can only describe as radiant purpose, almost childlike in its innocence. “I feel so lucky. I can’t think of more interesting questions than the ones I’m working on, and I get to think about them every day. Every single moment I’m doing something I really believe in. Otherwise, why do it, given how short life is?”</p>
+
+<p>Life might be about to get a lot shorter, if the AI-related fears of Stephen Hawking, Bill Gates, Elon Musk, Jaan Tallinn, Nick Bostrom and a host of other giant scientific minds are realised. Concerns range from unchecked AGI weaponry to the spectre of a “<a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.theguardian.com/technology/2014/feb/22/robots-google-ray-kurzweil-terminator-singularity-artificial-intelligence">technological singularity</a>”, leading to an “intelligence explosion” in which a machine becomes capable of recursive self-improvement, and in doing so surpasses the intellectual capacity of the human brain and, by extension, our ability to control it. Should a super-intelligence disaster loom, history is not exactly a reliable indicator that we’ll have had the foresight to withdraw from the AI arms race before it’s too late.“When you see something that is technically sweet,” Robert Oppenheimer once observed, famously, “you go ahead and do it, and you argue about what to do about it only after you have had your technical success.” “If there is a way of guaranteeing that superior artificial intellects will never harm human beings,” Bostrom noted, decades later, “then such intellects will be created. If there is no way to have such a guarantee, then they will probably be created nevertheless.” “Success in creating AI,” Hawking neatly summarised most recently, would be “the <a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="https://www.theguardian.com/science/2014/dec/02/stephen-hawking-intel-communication-system-astrophysicist-software-predictive-text-type">biggest event in human history</a>. Unfortunately, it might also be the last.”</p>
+
+<p>“Well, I hope not,” Hassabis deadpans. In his view, public alarmism over AGI obscures the great potential near-term benefits and is fundamentally misplaced, not least because of the timescale. “We’re still decades away from anything like human-level general intelligence,” he reminds me. “We’re on the first rung of the ladder. We’re playing games.” He accepts there are “legitimate risks that we should be thinking about now”, but is adamant these are not the dystopian scenarios of science fiction in which super-smart machines ruthlessly dispense of their human creators.</p>
+
+<p> <span>Related: </span><a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.theguardian.com/technology/shortcuts/2014/jan/28/demis-hassabis-15-facts-deepmind-technologies-founder-google">Demis Hassabis: 15 facts about the DeepMind Technologies founder</a> </p>
+
+<p>Besides, he insists, DeepMind is leading the field when it comes to mitigating the potential dangers of AGI. The company, although obviously not subject to the sort of official scrutiny that the government-led Apollo or Manhattan projects were, operates pretty transparently. It tends to publish its code, and a condition of the Google deal was an embargo on using its technology in military or intelligence applications. Hassabis and his colleagues were instrumental in convening a seminal 2015 conference in Puerto Rico on AI, and were signatories to the open letter pledging to use the technology “for good” while “avoiding potential pitfalls”. They recently helped co-ordinate another such conference, in New York, and their much-trumpeted internal ethics board and advisory committee has now convened (albeit privately.) “Hassabis is thoroughly acquainted with the AI safety arguments,” notes Murray Shanahan. “He certainly isn’t naive, nor does he have his head in the sand.”</p>
+
+<p>“DeepMind has been a leader among industry in encouraging a conversation around these issues,” concurs Bostrom, “and in engaging with some of the research that will be needed to address these challenges longer term.”</p>
+
+<p>I ask Hassabis to outline what he thinks the principal long-term challenges are. “As these systems become more sophisticated, we need to think about how and what they optimise,” he replies. “The technology itself is neutral, but it’s a learning system, so inevitably, they’ll bear some imprint of the value system and culture of the designer so we have to think very carefully about values.”</p>
+
+<p>On the super-intelligence question, he says: “We need to make sure the goals are correctly specified, and that there’s nothing ambiguous in there and that they’re stable over time. But in all our systems, the top level goal will still be specified by its designers. It might come up with its own ways to get to that goal, but it doesn’t create its own goal.”</p>
+
+<p>His tone is relentlessly reassuring. “Look, these are all interesting and difficult challenges. As with all new powerful technologies, this has to be used ethically and responsibly, and that’s why we’re actively calling for debate and researching the issues now, so that when the time comes, we’ll be well prepared.”</p>
+
+<p>When the time comes for what? For the machines to become super-intelligent, or for them to succeed humankind? He laughs. “No, no, no, I mean, way before that!” (I think he’s joking, although in 2011 his colleague Shane Legg did say: “I think human extinction will probably occur, and technology will likely play a part in this.”) Hassabis clarifies: “I mean when these systems are more powerful than just playing games and we’re letting them loose on something that’s more real-world, more important, like healthcare. Then we need to be sure that we know what their capabilities are going to be.” He grins at me. “That’s to stop the machines-taking-over-the-world scenario.”</p>
+
+<p> <span>Related: </span><a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.theguardian.com/technology/2014/oct/27/elon-musk-artificial-intelligence-ai-biggest-existential-threat">Elon Musk: artificial intelligence is our biggest existential threat</a> </p>
+
+<p>Hassabis smiles, a lot. He is friendly and very convincing. Everything he says seems reasonable, not particularly hubristic, and who knows: perhaps AGI will remain under our control. But many remain sceptical. “Obviously, if there is a digital intelligence that vastly exceeds all aspects of human intelligence, ‘assistance’ is not the correct description,” argues <a class="u-underline" data-component="auto-linked-tag" data-link-name="auto-linked-tag" href="http://www.theguardian.com/technology/elon-musk">Elon Musk</a>, who recently described advances in AI technologies as humanity “summoning a demon”. The SpaceX founder and Tesla and PayPal co-founder was one of DeepMind’s original investors, but not for the money. “I don’t care about investing for the sake of investing,” he tells me from his office in California. “The only reason I put money into DeepMind was to gain a better understanding of the progress and dangers of AI. If we aren’t careful with AI and something bad happens, bank balances mean nothing.”</p>
+
+<p>“Elon is one of the smartest people out there, and amazing to talk to,” Hassabis responds, neutrally. “And I actually think it’s pretty cool people like him are getting so into AI because it just shows what a big deal it is.” He remains diplomatic, but it evidently irritates him that scientists from other areas feel at liberty to pronounce publicly on AI: you don’t hear him pontificating about particle physics, after all.</p>
+
+<p>“In general, I’ve found that people who don’t actually work on AI don’t fully understand it. They often haven’t talked to many AI experts, so their thought experiments are running away with themselves because they’re based on what I think are going to turn out to be incorrect assumptions.” He mentions, again, the internal ethics committee and advisory board he has formed — of leading figures from diverse scientific and philosophical disciplines — to govern any future use of AGI technology. And he robustly defends his decision to keep proceedings private at this stage. “Nobody’s ever tried anything like this before, so there’s a lot of exploratory stuff we have to do before we have the additional scrutiny of the public second-guessing what we’re doing on Twitter or whatever, right from day one.“ This initial phase, he says, is about “getting everyone up to speed, so that in the next phase we’re ready to debate actual algorithms and applications. For a lot of the people involved, this isn’t their core area. We want their expertise, but they have to get a better handle on what’s really going on.”</p>
+
+<p> <span>Related: </span><a class="u-underline" data-component="in-body-link" data-link-name="in body link" href="http://www.theguardian.com/technology/2015/jul/27/musk-wozniak-hawking-ban-ai-autonomous-weapons">Musk, Wozniak and Hawking urge ban on warfare AI and autonomous weapons</a> </p>
+
+<p><a class="u-underline" data-component="auto-linked-tag" data-link-name="auto-linked-tag" href="https://www.theguardian.com/science/hawking">Stephen Hawking</a> is cited as an encouraging example of what such “getting up-to-speed” can mean. The two recently met in Cambridge for a private conversation instigated by Hassabis. “It was obviously a fantastic honour just meeting him,” he enthuses, pulling out his iPhone – he remains a devotee, despite his new paymasters – to show me a selfie. “We only had an hour scheduled, but he had so many questions we ended up talking for four hours. He missed lunch, so his minders were not very happy with me.”</p>
+
+<p>Since their meeting, Hassabis points out, Hawking has not mentioned “anything inflammatory about AI” in the press; most surprisingly, in his BBC Reith lectures last month, he did not include artificial intelligence in his list of putative threats to humanity. “Maybe it helped, hearing more about the practicalities; more about the actual systems we might build and the checks and controls we can have on those,” Hassabis ventures. He glances around the room, with its indecipherable glyph-strewn whiteboards. “This all seems a lot more understandable, reasonable, once you understand the engineering.”</p>
+
+<p>There is no hope for me, obviously, but does he really believe Hawking was converted? “I think at the end, yeah, he was quite reassured. He has this hilarious, very dry sense of humour, and just before I left, I said to him, ‘So what do you think?’ And he typed out, ‘I wish you luck.’ And then, with this really cheeky twinkle in his eye, added, ‘But not too much.’” Demis Hassabis gives me his own disarming smile. “I thought, ‘I’ll take that as a win.’”</p>
+
+
+
+
+Author::::F Gerard Lelieveld
+DateTime::::2016-02-18T13:18:14Z
+Beating Fan Hui (10-2 if you count the unofficial games) is still in the realm of possibility of what the new Go programs can do based on fixed routines. AlphaGo is meant to learn to play better just from playing, just like a human player would improve its game play. That's the real challenge for Google DeepMind.
+
+
+
+Author::::nixnixnix
+DateTime::::2016-02-17T23:49:08Z
+I did wonder for a while why Google couldn't dedicate a tiny fraction of their time and resources to coming up with an open-source, auditable, secure, accessible and anonymous online voting system so we could have the option of more accountable democracy. I figured that they figured that democracy wasn't in their best interests now that they have spent so much time and money buying influence. Now though I'm thinking that they have simply realised there is no point fixing democracy when AI is imminent.
+
+
+
+Author::::ArchHolden
+DateTime::::2016-02-17T21:05:52Z
+Demis is a little bit of a bullshit artist - which is why he's a CEO and not a researcher. The most sceptical amongst machine learning researchers have started to think of DeepMind as a euphemism for DeepMarketing.
+
+
+
+Author::::Jan-Willem Bats
+DateTime::::2016-02-17T18:35:32Z
+If you'd bothered to read the article...
+
+
+
+Author::::benjohn
+DateTime::::2016-02-17T18:10:38Z
+Thank you.
+
+
+
+Author::::ThomasChristopherKin
+DateTime::::2016-02-17T16:42:25Z
+"Thank you for taking the time and trouble to come back to me...I need to do a bit more homework :)"
+
+
+
+Author::::Rotwatcher
+DateTime::::2016-02-17T16:25:20Z
+Excellent post, though I think you underestimate how "attainable" his level of ability is. 
+
+
+
+Author::::Pollik
+DateTime::::2016-02-17T16:16:58Z
+"From psychology AI aims to formalise many concepts, such as beliefs, desires and intentions."
+
+
+
+Author::::benjohn
+DateTime::::2016-02-17T14:26:35Z
+That's not the "Why do we need to do this?" I was asking, which was about our apparent need to raise individuals to beyond human geniuses.
+
+
+
+Author::::ThomasChristopherKin
+DateTime::::2016-02-17T14:16:11Z
+No, I indicated that I didn't want to continue it with you.
+
+
+
+Author::::F Gerard Lelieveld
+DateTime::::2016-02-17T13:08:23Z
+I worry about the day AI will find out that most of the time humans are much dumber than we pretended to be.
+
+
+
+Author::::F Gerard Lelieveld
+DateTime::::2016-02-17T13:05:53Z
+Agreed, let's see about that match of AlphaGo against Go world champion in March!
+
+
+
+Author::::Pollik
+DateTime::::2016-02-17T12:03:13Z
+"although you said you didn't want to continue the discussion"
+
+
+
+Author::::strangeworld7
+DateTime::::2016-02-17T11:57:40Z
+Thank you for for your well put explanation. I accept that Asimov's Laws would be virtually impossible to write into any computer program that we could envisage but I was really considering the principle behind the idea rather than the laws themselves. The principle being that AI should remain our servant and never become our master. 
+
+
+
+Author::::aldo14
+DateTime::::2016-02-17T11:51:45Z
+So I ask a question: is there a disconnect between what science calls AI and what the wider public thinks of when they hear AI. It might simply be an issue of where the threshold should be.
+
+
+
+Author::::poppetmaster
+DateTime::::2016-02-17T11:18:20Z
+I don't think these people deserve ANY praise until we see the outcome of their work.
+
+
+
+Author::::aldo14
+DateTime::::2016-02-17T11:11:19Z
+Asimov's laws were based on a very narrow view of AI and robots, necessary for the stories he wanted to tell; they don't really reflect the varieties of AI research that exist, the way in which AI is applied, or more importantly that it's actually an extremely difficult problem to encode such laws in any meaningful way within a software context. The difficulty is how do you take these concepts and convert them into the sort of first-order logic required by software - how do you define and evaluate 'come to harm'? 
+
+
+
+Author::::upnorth7
+DateTime::::2016-02-17T10:36:36Z
+Yeah you never know it might just suggest making the world fairer. It might just challenge unchecked human greed and ignorance. God forbid.
+
+
+
+Author::::upnorth7
+DateTime::::2016-02-17T10:34:38Z
+Oh for god sake, stop being so dramatic.
+
+
+
+Author::::benjohn
+DateTime::::2016-02-17T10:16:12Z
+You think designing and writing a program to win at Go is "amazingly, ridiculously simple"? It really, really, really isn't.
+
+
+
+Author::::m_guardian
+DateTime::::2016-02-17T10:13:49Z
+Perhaps the name Demis(e) Has-Abyss suits. Sorry Demis Hassabis.
+
+
+
+Author::::dicksonator
+DateTime::::2016-02-17T10:10:29Z
+How do you know? Unless it's kept offline, that is, disconnected from the internet, it would learn how destructive humans are and perhaps do something about it.
+
+
+
+Author::::philipwhiuk
+DateTime::::2016-02-17T10:07:08Z
+One of the best articles, if a little flowery in places, I've read from the Guardian in a while.
+
+
+
+Author::::12inchPianist
+DateTime::::2016-02-17T09:38:48Z
+It's common sense really, as far as we can tell there is no self awareness, in any animal brain other than homo sapiens sapiens (this is an awareness that one is a conscious entity) but take any bird brain and the calculations it can do on the fly, and it is light years ahead of any human constructed computational device, and this bird brain with it's level of complexity still does not manifest the sort of consciousness that AI proponents hope to pretend to aspire too.
+
+
+
+Author::::ChrisW7FR
+DateTime::::2016-02-17T08:32:43Z
+Actually not... There are many problems which do not digitize well at all. The n-body problem for example in the general case for n. See Penrose and Searle for other examples.
+
+
+
+Author::::upnorth7
+DateTime::::2016-02-17T07:49:01Z
+Bloody hell judging by the comments anybody would think the guy had just invented nuclear weapons. We already have the worst technology available, this is no were near as dangerous as humans with nukes, and the con census seems to be we are fine with that.
+
+
+
+Author::::upnorth7
+DateTime::::2016-02-17T07:32:08Z
+We are the music makers, we are the dreamers of the dream.
+
+
+
+Author::::toomanyaccounts
+DateTime::::2016-02-17T07:31:09Z
+A demonstration of the pathological nature of 'needing' AI ...
+
+
+
+Author::::ThomasChristopherKin
+DateTime::::2016-02-17T07:10:04Z
+So I ask a question: is there a disconnect between what science calls AI and what the wider public thinks of when they hear AI. It might simply be an issue of where the threshold should be.
+
+
+
+Author::::Peter Pollard
+DateTime::::2016-02-17T07:08:27Z
+Some readers' comments have been more enjoyable (and more believable) to read than the article itself. I generally always try to strongly distuingish between being intelligence, being knowledgeable and being clever and therefore I have like some of the comments made.My only question is that when the likes of Hassabis has achieved his 'quest' (which for the most I have found generally transforms into the making money and getting a sun tan from all that limelight) what does the next guy, who will be much more 'clever', do when evwrything is already decided for him? Not to worry of course, he too will find his (or her) way
+
+
+
+Author::::Sards Peñas
+DateTime::::2016-02-17T06:29:14Z
+THIS AMBITION IS IN THE DUST..... HUMANS will be turned into particles and STAR TREK teleportation is very near possible. the power proof is THE CURSE OF YHWH on babylon that it cannot be rebuilt until today even by the greatest MASTER BUILDERS OF ARABS TALLEST BUILDINGS FLOATING IN WATERS..AI is about money and control while ANGELS REALLY EXIST traveling at speeds we never imagined. The universe will be useless if humans advocates AI. those robots and etc are a shame to humans. Humans must evolve to perfection as hype as LUCY.
+
+
+
+Author::::David_Campbell99
+DateTime::::2016-02-17T06:28:24Z
+But can he teach pigs how to fly?Snake oil.
+
+
+
+Author::::william
+DateTime::::2016-02-17T06:19:54Z
+Viz. the paperclip singularity
+
+
+
+Author::::william
+DateTime::::2016-02-17T06:13:05Z
+Future of Humanity Institute
+
+
+
+Author::::Ted Evans
+DateTime::::2016-02-17T05:21:24Z
+oh that one's easy.
+
+
+
+Author::::Brickyardjimmy
+DateTime::::2016-02-17T03:01:17Z
+Those are excellent points. By the way--when I said "nice" all I meant was that no AI program has any motivation (unless programmed as such) to be evil the way that humans do when they impose tyranny on other humans for power or pleasure. So I was being a bit cheeky there but you also make great points about the definition of what "nice" is. Which brings me back to my original point--I'm not worried about AI so much as the people who program and conceive of the AI and the intentions they might have for it. Considering that they are human, unlike a piece of AI, they are exceptionally capable of acts of evil and tyranny that benefit them through the acquisition of power, wealth or pleasure on some level at the expense of others. And considering the pervasiveness of technology in everyday life, that expense to others could very well be on the scale of millions of people at a go.
+
+
+
+Author::::historicist
+DateTime::::2016-02-17T01:19:54Z
+You make a good point about the 'why.' And more than that - not only does the AI not know why it's doing what it's doing, it doesn't even know what it's doing. Without underestimating what's been achieved here, the computer has no concept that it is playing a game, nor is there any possibility that it might be sad or happy at winning or losing. Indeed, it doesn't even know that it's won. Terminating a runtime is not winning. Consciousness for humans is self-consciousness and arguably presupposes both language and embodiment, both of which the AI totally lacks.
+
+
+
+Author::::limyozok
+DateTime::::2016-02-17T01:08:18Z
+Use DuckDuck go instead you fool.
+
+
+
+Author::::Brickyardjimmy
+DateTime::::2016-02-17T00:49:40Z
+Yeah. All well and good. I have no doubt they can create AI to learn to play GO and drive a taxi and flip burgers with robotic arms but there isn't a single AI that will be able to decide why it does what it does. It doesn't and can't understand why unless you program a "why" into it. Without direction on what the AI is supposed to learn and what it's supposed to do with the intelligence it acquires, why would it do anything at all? The simple answer is that it wouldn't. Not unless we give it a set of artificial motivations similar to the biological imperatives that humans are born with to survive, eat, sleep, drink, and mess around in the bedroom. On the other hand--human beings are capable of cruelty and evil and treating each other poorly. AI programs aren't (unless we tell them to do that) so really what's the harm in replacing humans with machines? As long as we program them to be nice, they might make a refreshing change from the rest of us.
+
+
+
+Author::::Pollik
+DateTime::::2016-02-16T22:29:35Z
+No, I meant an agreed definition for what would constitute AI.
+
+
+
+Author::::Benthamite
+DateTime::::2016-02-16T22:19:54Z
+I genuinely think the work they are doing is among the most important things human have and will ever do. Good luck Demis, I'd literally give my right leg to work with you!
+
+
+
+Author::::Kajetan Champlewski
+DateTime::::2016-02-16T21:43:32Z
+Computers can model analogue processes to a given degree of accuracy just fine. Given the fact that no problem is fully analogue - they can all be quantised at a certain point - computers can therefore compute any seemingly analogue problem. Sure, it might not be simple, but it is entirely computable.
+
+
+
+Author::::Kajetan Champlewski
+DateTime::::2016-02-16T21:41:36Z
+I'm not sure if you actually know what AI is, but it has far surpassed the idea of simply "averaging all the information". If you look at the go playing AI, it didn't "average information", it considered moves and their possible consequences for itself. Data mining and some simple AIs related to that, which is what you're describing, does suffer from all of these flaws. However the more advanced AIs that research focused companies, especially DeepMind, are working on are much more complex systems which break down problems into steps and use logical and associative reasoning in order to actually solve the problem, rather than simply looking at lots of data.
+
+
+
+Author::::ID5561356
+DateTime::::2016-02-16T21:19:20Z
+Having worked in data and intelligence systems for 26 years this article makes me laugh. Ai is the last thing we want especially when it's in the hands of government and spies.. Oh sorry Google. The first thing this "Ai" is designed to do is profile you so that it can start to filter out content on the Web. A google search is already starting to give you what google wants you to see. It will only get worse with Ai.
+
+
+
+Author::::newbag
+DateTime::::2016-02-16T20:53:43Z
+You will need algorithms that are stable at the beginning but slowly turn more adaptive as you go forward and their end part is completely lose. Also information enters from the loose side of the algorithm. However behaviors start from the fixed side.
+
+
+
+Author::::cpp4ever
+DateTime::::2016-02-16T20:50:14Z
+Hmmmm, when, or if, some AGI is ever developed, will it look to develop technology that would make humans redundant in respect of its continued existence? Then if it succeeds, or thinks it has, what fate for humans, let alone life on earth? Those questions asked, it may even conclude that humans are not responsible enough for the potential technology it could develop, and so try to escape our confines for both our safety and its own future. Of course this is all just speculation, but many leaps in technology that were forecast to exist by now are still proving to be elusive, and I wouldn't be surprised if the same was true of AGI. Meanwhile the use of AI technology will continue to spread, so perhaps education should concentrate more on developing the natural AGI that we have, and the recognising of disparate patterns that AI as yet cannot handle as well.
+
+
+
+Author::::durable13
+DateTime::::2016-02-16T20:49:04Z
+correction: because they are not paid to look at the social part of it.
+
+
+
+Author::::rubbishdump09
+DateTime::::2016-02-16T20:48:22Z
+No, it is an argument about the imminent redundency of a clearly flawed machine, - us! ( It is also the most important debate of all right now as the move from 0/1 (binary) computing to logical (quantum) computing is just around the corner. Add in the physical properties of graphene ( a carbon chain that can be subjected to electrical impulses to alter its state , can occupy two different states simultaneously, and doesn't need to be fed)and our emotional baggage and we come off a distant second best.
+
+
+
+Author::::durable13
+DateTime::::2016-02-16T20:46:59Z
+The "i" in Ai is nothing more than a vast data set that represents the average response to any given question. The intelligence it promotes is neither logical nor academic. It simply gathers an average of human knowledge. In the corporeal world the majority opinion on anything is often sloppy, emotional, and plainly incorrect, because we are human. I don't see anything preventing this big data approach from simply mechanizing and speeding up the process of applying the lowest common denominator to everything. Computer scientists routinely overlook this fundamental social flaw in the use of big data, because they are paid to look at the social part of it.
+
+
+
+Author::::strangeworld7
+DateTime::::2016-02-16T20:45:21Z
+Have you ever read any of Asimovs novels and his Laws of Robotics?
+
+
+
